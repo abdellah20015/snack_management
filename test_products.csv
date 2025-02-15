@@ -1,0 +1,1001 @@
+snackId,name,description,price,category,qrCodeUrl
+686372cb-3ab8-4221-a10f-ce85c6028f8b,Krystal's sandwiches,Frais sandwiches,4.07,Sandwiches,/api/qr/f5f77c34-3880-4426-8b7d-0e51d48f3b4e
+e77e2132-99be-4fc4-9bbc-401ec6f08d20,Amanda's snacks sucres,Delicieux snacks sucres,9.32,Snacks Sucres,/api/qr/c7b8199d-c1ec-4494-be02-e8f8633d5e28
+da3a86ba-1ea5-488e-bf91-1b8a47571582,Kelly's sandwiches,Fait maison sandwiches,6.88,Sandwiches,/api/qr/43cfa7a8-efc3-46af-84e4-877d260929c6
+cb75457f-9643-4a52-802e-a1d77f9133b2,Paul's desserts,Savoureux desserts,4.12,Desserts,/api/qr/e776f0b0-344d-4dce-ac43-221b27b2216e
+86d1eee0-5051-4f78-9dba-d6c4f77a92dd,Jacqueline's snacks sales,Epice snacks sales,10.76,Snacks Sales,/api/qr/40f6ef3c-db0b-4d5b-b6a4-3ac8faac1370
+66852057-f666-42d3-85e8-b2342abac6ea,Janet's boissons,Petillant boissons,5.08,Boissons,/api/qr/3a0b505e-74be-42a4-a852-8c1b13d0e54f
+7a82baa0-8eef-47d9-ba09-015438417cf0,Christina's snacks sucres,Sucre snacks sucres,11.74,Snacks Sucres,/api/qr/5ca251d3-3f3d-4edf-a4f5-3ce4ff133a73
+331614e2-5a60-4a7e-99c6-53436bfd33a3,Troy's boissons,Energisant boissons,8.41,Boissons,/api/qr/b34859b7-a845-4481-937a-bdbdf87dad3b
+f0629c57-944f-4abf-a6ab-771ecd0a2dfe,Michael's snacks sucres,Sucre snacks sucres,6.56,Snacks Sucres,/api/qr/c8aa5f24-53e9-4558-ae07-ce17cd30a37a
+ff80da24-35e1-4d33-9999-a328dbde4076,Gregory's snacks sucres,Fondant snacks sucres,14.18,Snacks Sucres,/api/qr/d63cea5a-f981-44b9-8a10-b1e06166c9b6
+582a704d-11d3-49fa-b74f-ad3d11737064,Samantha's sandwiches,Gourmet sandwiches,5.58,Sandwiches,/api/qr/0fad4563-c9ef-4dcf-bea2-37e41a2b0512
+e8e0fd57-0843-4f06-8d39-3e457e3d1ec6,Jeffrey's sandwiches,Gourmet sandwiches,11.65,Sandwiches,/api/qr/cb637b0f-74be-41e8-a158-895fb9090bb6
+da5d58f5-d80a-4600-85bb-f60900a0d442,Kimberly's desserts,Fait maison desserts,12.9,Desserts,/api/qr/294790d3-e2cb-4c6c-85f0-d8d869a6625d
+be355c8c-3874-448b-b845-162d2a9657a7,Chad's boissons,Energisant boissons,1.02,Boissons,/api/qr/eeaed759-b4be-461e-b788-24c3750f01a7
+f35ff401-c0d8-4176-bac8-f68067209342,Nicholas's snacks sales,Savoureux snacks sales,7.16,Snacks Sales,/api/qr/cfd1ef1b-20ca-40ac-9f97-557bb911859c
+3cec2aa7-5943-4ba3-8e87-2957fc1966cd,Rick's snacks sucres,Sucre snacks sucres,4.36,Snacks Sucres,/api/qr/5725ffe6-892b-4b24-b681-cff1c948c91e
+dfc4d896-e68f-4ae6-8e6b-317309cd292e,Carolyn's snacks sucres,Sucre snacks sucres,1.06,Snacks Sucres,/api/qr/326c10b5-33fa-4f98-a887-92f94f94811b
+a2b53444-201d-4446-8df9-0d526c9defdb,Aaron's snacks sucres,Delicieux snacks sucres,10.13,Snacks Sucres,/api/qr/69a954b0-3450-4441-ac97-77c7e424e33c
+e1865ec0-092e-4536-bd7f-54095c408317,Amy's snacks sales,Epice snacks sales,2.55,Snacks Sales,/api/qr/6d738eb4-a120-4627-a3b3-2565844a6de6
+a8a1ec85-cc74-4d07-a9d1-5aa1ab10f03c,Tiffany's boissons,Energisant boissons,10.87,Boissons,/api/qr/bb496940-3001-4ddb-88a1-70b3eddaa667
+85b6756d-b2ff-4f1d-a585-d8c2722d680f,Tammy's desserts,Savoureux desserts,8.83,Desserts,/api/qr/5ccf24d9-7518-4340-9dac-bfb7196d498d
+a5856e3a-5467-40f3-8ecd-9c66ae33f394,Michelle's desserts,Traditionnel desserts,12.12,Desserts,/api/qr/b0ff8a27-fb96-43e1-bd7e-00398d487a98
+bbc8ad1d-5bec-46eb-8873-d85d55589f3b,Tara's snacks sucres,Delicieux snacks sucres,4.7,Snacks Sucres,/api/qr/2e60fb3b-bcdc-4e81-b15a-b123042fae42
+2ccec75a-5149-4966-84d4-fa0cf47bd683,Jesus's snacks sales,Epice snacks sales,1.56,Snacks Sales,/api/qr/46d5dd40-b1ef-4a72-8a2b-2a357ab9ec61
+c08c19a2-2e85-4890-8ffc-402664932290,Christopher's snacks sucres,Sucre snacks sucres,4.93,Snacks Sucres,/api/qr/40f7904d-be78-4127-b491-899802bebeb1
+d775abe3-4265-47c0-8940-7472f1905890,Lori's sandwiches,Fait maison sandwiches,2.93,Sandwiches,/api/qr/700acf03-4a12-4a33-94f9-803e2a9e5221
+f181c1bb-37bc-4bde-91a3-451198de2fc8,Jody's snacks sales,Epice snacks sales,14.36,Snacks Sales,/api/qr/73e8b5ad-bfc2-49f1-b11a-91e7e8dbccbb
+6dbd2e27-9853-4476-ab11-b5f1fe8eac80,Robert's snacks sales,Croustillant snacks sales,6.5,Snacks Sales,/api/qr/b68a4819-3dd7-4ca6-a518-898d03d7f011
+c34f4315-ff70-49c0-9e58-9581235018f2,Richard's boissons,Petillant boissons,6.3,Boissons,/api/qr/02cce367-c15c-4c9e-a924-8e1767452dfe
+50ee01a7-9a1a-4229-b922-8c29e56570ec,Tara's snacks sucres,Delicieux snacks sucres,8.0,Snacks Sucres,/api/qr/4ffc2f0d-75f0-4d9c-bdc9-e62eb3d55dc5
+21474240-0b4e-42c3-bc5f-6c88fcdf494e,Bethany's boissons,Energisant boissons,11.53,Boissons,/api/qr/261651b2-1167-4c43-b465-6e7541e204b5
+24a1fdfa-205a-42d8-a7c2-f7f02eac8f27,Erica's desserts,Traditionnel desserts,6.7,Desserts,/api/qr/afe1e846-2667-4ac5-a00a-e24948bc9bd0
+046d59d9-ae5f-4cdf-9a2d-dba438b250c2,Jeffrey's desserts,Traditionnel desserts,4.96,Desserts,/api/qr/87b3e47d-1cb5-40d1-a7a8-6a731a39f70d
+919fc080-a387-45f4-9536-26d3d8ce364b,David's snacks sucres,Gourmand snacks sucres,9.06,Snacks Sucres,/api/qr/900aa7bc-a709-4106-89ba-ab651849cd8a
+98d15950-ef50-4d9b-9b02-de469f199c3b,Leonard's sandwiches,Copieux sandwiches,2.4,Sandwiches,/api/qr/647d0c24-95d8-471e-a9ab-cd9c8b471f9e
+d1323552-c507-4637-ad3e-f6ca08c95471,Noah's desserts,Onctueux desserts,13.67,Desserts,/api/qr/3fd93571-e6a6-4eb3-923e-0a34e01e3f0b
+b88b0343-6099-4426-8ebf-80c6412118d5,Alejandra's desserts,Fait maison desserts,1.38,Desserts,/api/qr/8e3e6306-9a69-4015-9fef-2be7758c2707
+1b767d9e-2901-4732-a47b-2492e7ba648e,Rachael's snacks sales,Grille snacks sales,11.22,Snacks Sales,/api/qr/6479d0f5-8fb3-48ec-b6dd-e70c71001185
+0358e3a7-e015-4877-b494-f3912122082b,Kevin's snacks sales,Epice snacks sales,1.57,Snacks Sales,/api/qr/8181baf5-e7a2-45cc-8106-ed3ce562b5ff
+fa9074e6-045a-4eb7-893f-53e0dfb22522,Jeffrey's snacks sales,Savoureux snacks sales,7.88,Snacks Sales,/api/qr/e92d3e35-0656-407d-a121-b215e91fd447
+f06df371-84a6-41b8-ab0f-2a7efb05bfb0,Misty's snacks sales,Grille snacks sales,13.8,Snacks Sales,/api/qr/c36bcbfe-a441-4cb3-ac15-2626bb7340a9
+e5d80c5b-f158-432c-80bc-60ca872b827f,David's snacks sales,Grille snacks sales,13.24,Snacks Sales,/api/qr/f2efcc39-0e7d-4b15-b2aa-518222d76e48
+054545a2-ee74-408a-afa3-b9ae7fdf856d,Caitlin's boissons,Energisant boissons,7.37,Boissons,/api/qr/152fad26-c0f3-4aef-870d-3a0b7a0254a6
+1123c2b9-9fbf-4efe-b727-6b348068682f,Susan's snacks sales,Savoureux snacks sales,7.88,Snacks Sales,/api/qr/9de1d5e3-e931-43c6-9f9b-b7c588299950
+e43ba8bf-0aaf-4a5a-9c71-6870baf6a155,Patricia's desserts,Savoureux desserts,7.99,Desserts,/api/qr/e3faeef2-44f1-40ed-822b-a84c1505666e
+e2d9fa2a-0ea0-4cf0-b4cc-cafeaebc1bd1,Jodi's boissons,Energisant boissons,8.45,Boissons,/api/qr/8ecbec81-2101-4c65-a8f2-8d1573485d7d
+9666b09f-a960-46f5-82e6-f350e9af2db6,Tanya's snacks sucres,Fondant snacks sucres,8.2,Snacks Sucres,/api/qr/5fcae0cb-4fbb-459e-9561-b4747796e4f7
+562c7b00-c96a-4259-a6bb-b747e13b8c74,Debbie's boissons,Desalterant boissons,2.4,Boissons,/api/qr/2e6f7b02-0793-43fd-9cdf-27ea23ae0a81
+bb276f6a-c3f5-4f0a-a27d-fa2e56b2a529,Erica's snacks sales,Grille snacks sales,7.37,Snacks Sales,/api/qr/73ad6109-c908-4ec8-8e78-a7192743a0a7
+6f545ed6-3c88-44a1-865e-ad3d6591dc24,Scott's sandwiches,Frais sandwiches,6.29,Sandwiches,/api/qr/44cda9d2-2e1c-4739-a7db-2161ac8aee19
+ced58063-2ba1-439d-bbc7-896c02853a6a,Craig's boissons,Desalterant boissons,14.63,Boissons,/api/qr/8e492ba8-5e63-4b85-aca4-420180e9a94a
+6ba8817b-e6a6-4895-a3a4-fc55b3738102,Cindy's desserts,Traditionnel desserts,12.62,Desserts,/api/qr/49c3b399-459c-4091-8309-3279ec4406a5
+67152f0c-2f37-4164-9e2f-512ff3ad66c2,Jose's desserts,Fait maison desserts,10.58,Desserts,/api/qr/65735576-3140-446e-a296-51e513668a75
+90b1c5db-122a-4356-872e-fdc190a3bab1,Charles's snacks sales,Savoureux snacks sales,14.9,Snacks Sales,/api/qr/715a3595-827a-4f70-b982-a7a0076cf548
+2ba68158-875e-4c41-8b79-05bd7ea8cdad,Sandra's boissons,Energisant boissons,2.27,Boissons,/api/qr/1e0b1799-4e0d-44e1-96f6-a98690cd2614
+6341862b-af3e-4b9f-bc4c-f89fc253917e,David's sandwiches,Fait maison sandwiches,10.33,Sandwiches,/api/qr/5f360761-d600-476b-8a9f-e0177ff2e046
+7fee0ab7-ebc9-42a9-8568-f58781a035dc,William's snacks sales,Savoureux snacks sales,9.63,Snacks Sales,/api/qr/57c58bf7-0f48-4781-ac1d-4395817b94f5
+a2e8662b-34db-4170-b7af-cf15b0260188,Yvonne's desserts,Traditionnel desserts,9.94,Desserts,/api/qr/c109b91b-ce23-42a4-9f24-cff18713ce2e
+8a1a8f41-e45f-4f66-9324-9780cdc22392,Lauren's snacks sucres,Fondant snacks sucres,10.91,Snacks Sucres,/api/qr/cdf3fcbd-a2b5-4399-9e9a-2c0be055ed20
+2b166bb5-404c-42cb-8668-227efeda3751,Chase's sandwiches,Copieux sandwiches,14.22,Sandwiches,/api/qr/cf3967dc-bea5-4fb9-99b8-9af144c67947
+a02c5afd-1f51-43d6-8ca7-956eb369d588,Vickie's sandwiches,Copieux sandwiches,14.91,Sandwiches,/api/qr/8f803e29-49cc-4eb0-b34b-7f060eae9807
+42fc067c-09b5-475c-810d-10c96474dbfb,Denise's boissons,Energisant boissons,7.51,Boissons,/api/qr/0f55f095-bc46-46af-8f82-cd7944e509d2
+c1188c6f-921d-4452-9656-d8e0a4f2416e,Jason's sandwiches,Frais sandwiches,13.61,Sandwiches,/api/qr/62efe4cb-cafd-46e0-99ab-73a0bf186914
+fc3baaba-0b21-4ffd-86d0-9b44d86958c2,Rebecca's snacks sucres,Gourmand snacks sucres,13.98,Snacks Sucres,/api/qr/ad989e85-9e81-4e8c-9103-d14f80b966ec
+5db7ee84-35a2-44a3-bad2-5cec097a53ba,Andrew's snacks sucres,Fondant snacks sucres,8.96,Snacks Sucres,/api/qr/687cf64e-6d01-4ca9-a478-3728890d7ac6
+360ed49c-51f0-4963-af0d-3dfa71d5bda7,Gabriel's sandwiches,Fait maison sandwiches,7.15,Sandwiches,/api/qr/634df51d-55f9-481e-b553-4457c3fb3d47
+16172fcc-3f90-4b8e-af0b-817cd99e8120,Robert's desserts,Traditionnel desserts,5.87,Desserts,/api/qr/95f662e7-43c1-4674-b711-d61e6cf08a55
+eac0dfc8-bf58-4615-815e-880d2916c3a6,Paige's desserts,Savoureux desserts,2.52,Desserts,/api/qr/6813fecc-a796-4872-b1bc-d780e6606c4b
+2bf7575d-4a24-4716-b597-f7385756951b,William's desserts,Traditionnel desserts,5.27,Desserts,/api/qr/cdd31cda-715f-4759-97f7-5c65f9ab5ef8
+82f9e34f-da8a-4397-9eb7-343a3f395958,Seth's desserts,Traditionnel desserts,7.23,Desserts,/api/qr/cb4d58df-ff78-4bc9-b360-deade384ed96
+8248ae97-4f2f-4156-885d-e1bc5ecbd1c7,Michelle's sandwiches,Copieux sandwiches,9.34,Sandwiches,/api/qr/640381e9-21d3-479b-8889-b311cbd3223d
+915451d3-63dd-418f-8013-e045216b5acf,Michael's boissons,Energisant boissons,13.1,Boissons,/api/qr/fee2183a-79f7-4a59-a5e1-6bed4fd2785e
+993991df-e82b-4ad1-bdd5-cdfdebe5d2f8,Ronald's snacks sales,Epice snacks sales,4.09,Snacks Sales,/api/qr/74b37f7a-ac5c-4b0b-ace0-cc82cea79e2f
+ed8e7f64-129c-4de5-b366-b667b712b136,Brian's desserts,Savoureux desserts,4.05,Desserts,/api/qr/79201001-f3e0-4132-b210-834c1da911bf
+12cac0a3-7ffa-43a5-afe3-350fd5d81458,Tina's snacks sucres,Fondant snacks sucres,7.37,Snacks Sucres,/api/qr/09771dda-628b-4b95-9bf5-5b38d33ce927
+3d29d2b3-e232-466a-add3-83eede648ac7,Alexandra's snacks sales,Savoureux snacks sales,10.28,Snacks Sales,/api/qr/0a315792-ca2e-41bb-8b8a-700a10183aba
+a4a285ca-a435-465a-b643-5ef7a6dc9fa5,Ethan's snacks sucres,Sucre snacks sucres,4.92,Snacks Sucres,/api/qr/ac2df75b-d901-4c65-965e-4b46c202a565
+d44b84af-de3f-49b4-a1aa-00c145a66888,Michael's desserts,Fait maison desserts,12.68,Desserts,/api/qr/fdf24e4c-4272-4905-8c94-9d8803cd2e95
+dd2fa48b-6bd8-4329-a476-d8c9ae900480,Matthew's snacks sales,Croustillant snacks sales,8.92,Snacks Sales,/api/qr/978ff182-8b49-4f53-89bd-88d425fad35e
+378085c8-3fd9-42e6-8aa4-e20d67a95e75,Travis's boissons,Petillant boissons,11.03,Boissons,/api/qr/7d1ebb3e-f7c1-42dd-a53c-e17054694158
+1d204884-1327-426d-ad50-77f37e954ece,Joshua's snacks sales,Savoureux snacks sales,2.94,Snacks Sales,/api/qr/125e1376-d9ef-4a30-9125-750e8ee3f732
+282eca2a-2ad8-457c-bb68-8d2dbe34b5fc,Connor's snacks sales,Savoureux snacks sales,9.43,Snacks Sales,/api/qr/92d4b514-7ce6-4505-a262-fd5d00613502
+46f8bc66-2872-4c1a-8bb4-7c003b8232ce,Elizabeth's sandwiches,Frais sandwiches,6.68,Sandwiches,/api/qr/34b7c90d-e5f2-42b3-8f7b-b5f4ec8ab1ba
+b954fdbd-1e08-4059-ad25-8d1abc5b4c2f,Ashley's sandwiches,Gourmet sandwiches,8.25,Sandwiches,/api/qr/7683e77b-fadc-4384-9414-69ac30effafa
+c720487c-c871-44fc-b048-46e4a92aee29,Ryan's sandwiches,Frais sandwiches,1.03,Sandwiches,/api/qr/2f6d74f2-90b7-4860-8c69-f44037e38835
+6bc3b64d-7b7a-4712-b4fc-50c684f2c49a,David's snacks sucres,Sucre snacks sucres,7.01,Snacks Sucres,/api/qr/8b9f6807-fcaa-44c7-8bbf-56f4c9aa2bc7
+bae67be3-97e0-4ff0-857d-a3b296a6f6e6,Ricky's snacks sucres,Sucre snacks sucres,7.06,Snacks Sucres,/api/qr/0fa1c57e-c4cb-4bb3-ab6c-fe0cbd4941d0
+05b86a24-0d84-421e-8966-26343239ea3e,Raymond's sandwiches,Copieux sandwiches,1.31,Sandwiches,/api/qr/b48cf36e-8ea7-4f4c-8b8c-d89147e4f05f
+5e414a41-a5ea-4110-b7a2-28eee7cb38b5,John's snacks sales,Grille snacks sales,4.08,Snacks Sales,/api/qr/cef9edaa-acca-46d4-91c6-0a0d5a515bbe
+96974f7d-46fa-453a-9620-01b878dba88c,Thomas's boissons,Petillant boissons,13.55,Boissons,/api/qr/55b542a4-ddb6-468e-8b44-6d7036080757
+7fae610b-cf64-4adb-b362-4848a24f5fda,Amber's snacks sucres,Fondant snacks sucres,8.28,Snacks Sucres,/api/qr/5b7b174c-1451-4af6-88ba-63cfc842bb52
+980ed22b-7fd0-4848-8c8c-13cc9f5f09a5,Thomas's snacks sucres,Fondant snacks sucres,6.81,Snacks Sucres,/api/qr/432b23b8-a4e3-4d94-8963-ddff73cafa22
+6a157f2f-9009-4775-89ea-581f983b3f43,Leah's desserts,Savoureux desserts,7.79,Desserts,/api/qr/c7090666-3b08-41be-8d1d-88f4ee5f7f5e
+42d709b6-f77f-455e-aa05-bb8c5aa7607e,Madeline's snacks sales,Epice snacks sales,4.09,Snacks Sales,/api/qr/3afe714e-df2e-4f38-8f6f-b8cf4944e92f
+4be56cf4-3cb0-4555-b091-50c439f2f261,Vanessa's desserts,Traditionnel desserts,5.72,Desserts,/api/qr/8de48630-1ea7-47db-8c61-20718e18058a
+b39b73e5-943e-4a59-b9ac-be13a539e282,Daniel's sandwiches,Gourmet sandwiches,4.48,Sandwiches,/api/qr/7e159f41-b0c5-41c7-9bca-083237c7082b
+2803b833-f67d-4329-966e-dea33b116ad1,Luis's boissons,Desalterant boissons,14.85,Boissons,/api/qr/4ad65564-fe2d-4028-974f-ecdf69c30d4c
+a8da492c-5417-48a8-b9e8-1bb508f57a19,Johnny's desserts,Onctueux desserts,13.84,Desserts,/api/qr/d872a3e7-e59f-43bc-a232-3fbf6d24e937
+8e7bb514-87ee-4900-9c12-e03d7665ed64,Jose's snacks sales,Croustillant snacks sales,3.24,Snacks Sales,/api/qr/d29acb49-eb86-4086-9fec-141d7569711f
+a8a4ccd6-c38a-4212-b5cb-23663f7a8b7b,Karen's snacks sucres,Sucre snacks sucres,4.13,Snacks Sucres,/api/qr/57a005fc-906b-4289-acc4-4acc5be486f4
+32d40000-1d58-4e66-8e18-cae8e37ddadd,Steven's sandwiches,Gourmet sandwiches,4.04,Sandwiches,/api/qr/0a327a60-ea44-4612-b11a-eac99627e8a1
+4f93cb6e-8de0-4643-bdd8-bec5054ec822,Paul's snacks sucres,Gourmand snacks sucres,13.97,Snacks Sucres,/api/qr/62004f87-1698-4624-bd95-9553647de75c
+4d53ce75-656f-4fe1-b7bc-cdc609a94c77,Alexis's desserts,Onctueux desserts,2.05,Desserts,/api/qr/e32a2464-e928-4701-b72b-0ddbd39f9580
+89d30a44-fffa-46a9-b93b-fe58eba00323,Tracy's snacks sales,Croustillant snacks sales,2.65,Snacks Sales,/api/qr/ea9b3722-5bcc-483b-b75f-e543244abdd5
+23d5cf3c-7eae-444a-b75e-52e7854a0e94,Jason's snacks sales,Croustillant snacks sales,2.79,Snacks Sales,/api/qr/0c59a243-7118-4db5-b5d2-baf51ffd990a
+df25e2b4-7fd6-40fe-be52-b95a4cfbd58f,Natalie's desserts,Fait maison desserts,2.1,Desserts,/api/qr/ed31e074-80cf-433b-b502-ffba353551f2
+78c62675-5e0f-4fee-ba9c-3ede7d8419f6,Jennifer's boissons,Energisant boissons,13.0,Boissons,/api/qr/7e9c4a83-b207-4e14-90de-18e7651b08c7
+dbc12243-1928-4385-8c53-d439968ac7e8,Anthony's boissons,Rafraichissant boissons,2.06,Boissons,/api/qr/3078e46d-1d90-40cb-896f-059c2da19030
+92918d57-c0f6-466b-a771-af0d09384dc0,Joshua's desserts,Fait maison desserts,12.07,Desserts,/api/qr/8e3a738e-e395-4862-8068-403253768c25
+f192001e-3dd0-43af-92c4-9e83e94851bb,Matthew's sandwiches,Copieux sandwiches,2.17,Sandwiches,/api/qr/a7e0f941-6699-47c1-926e-571e998db68a
+ef1f3acd-aea8-487a-858e-4597660bea1e,Linda's snacks sucres,Sucre snacks sucres,2.7,Snacks Sucres,/api/qr/3ae043f1-1e9e-47fd-a984-9d10b6580e01
+35b45b44-e4ad-42be-9417-3a93fd00b212,William's sandwiches,Copieux sandwiches,12.32,Sandwiches,/api/qr/84572f12-0239-44ce-a390-84e3ac4a4c26
+f47f081d-d5b3-4c44-b2e9-4c74428ff5bb,Shannon's boissons,Petillant boissons,3.31,Boissons,/api/qr/36bf8111-d201-4f0c-8ba5-d0934de6e333
+9266b7d2-4ff5-449c-8fad-bd01e4cbac89,Elizabeth's desserts,Fait maison desserts,1.89,Desserts,/api/qr/7c0ffe82-1d00-4533-bb54-31fcb94523a3
+f14dfea4-fc03-4cce-bb7f-35da1d9f8171,Antonio's desserts,Savoureux desserts,1.93,Desserts,/api/qr/2d054fc1-e22c-451f-933d-57b29035b214
+02046f68-132f-406c-940c-cbc797c9d7f8,Lucas's snacks sales,Grille snacks sales,12.57,Snacks Sales,/api/qr/91750fa2-2be5-4474-ae3c-0d3903b73ce4
+da361ca9-5343-420a-9fa9-c34bb565210f,Whitney's snacks sucres,Delicieux snacks sucres,10.46,Snacks Sucres,/api/qr/53f67b77-01e8-4a15-a8c7-c59b38aad53c
+a31d9695-14bf-41e1-98ae-de87e2bbe7a7,Edward's snacks sucres,Gourmand snacks sucres,10.45,Snacks Sucres,/api/qr/e0ad2ff5-7639-4a06-a2a6-7d996a547fa0
+9fb62864-5ae0-451e-8ce2-598302d889dc,Charles's boissons,Petillant boissons,4.15,Boissons,/api/qr/974e0a9c-ff28-44f1-97d8-d50412590de8
+a21262aa-dbd2-45f0-9054-893107b7d0c8,Rhonda's sandwiches,Gourmet sandwiches,12.54,Sandwiches,/api/qr/34e6de69-8680-463f-8212-899afde5fcfb
+9957d091-15fe-4dfd-bbee-89e485db8cfa,Edwin's desserts,Onctueux desserts,6.03,Desserts,/api/qr/0e60e4ba-6c2c-45a1-92d9-d315cdb8463e
+df8cb8ae-0155-480a-8baf-f3464c463b14,Ricky's snacks sales,Epice snacks sales,2.12,Snacks Sales,/api/qr/3dea23db-e2c2-41ef-9723-8a0c0a0df618
+3e732942-78b1-4f62-ba3a-bbd21bbd1b2d,Anthony's sandwiches,Fait maison sandwiches,5.45,Sandwiches,/api/qr/c082d5f6-e270-4ab0-a64c-086264851096
+e5607a3b-6b24-4deb-9e5c-677a8461fdee,Jack's desserts,Fait maison desserts,2.4,Desserts,/api/qr/6b457769-ecbf-4fd2-a6ee-4e4e95ecca9d
+f8c83d91-708b-4a03-9a2d-d757b3666dcf,Christopher's desserts,Traditionnel desserts,7.43,Desserts,/api/qr/6bd929c1-d4f4-4f76-afe6-52359be205c9
+4e6060b8-f4e3-4ad7-b8d7-61e1dbc3348e,Rachel's sandwiches,Copieux sandwiches,7.88,Sandwiches,/api/qr/494c8083-83f1-4e0d-a7ce-4f26ec4b5f6b
+6e8e7b49-1941-4689-bbff-a7881617d78c,Audrey's boissons,Energisant boissons,14.58,Boissons,/api/qr/2bb1c30a-a162-4a9e-ac96-1cf228bf1ab5
+df0ab5d5-051d-4305-b92a-8621f46e90d0,Paul's desserts,Onctueux desserts,14.14,Desserts,/api/qr/0bda8771-a6ae-4903-8994-73fcc7b22a4c
+2e586064-afc7-4b5a-8983-4ba83ae1ca3c,Dominic's boissons,Energisant boissons,5.08,Boissons,/api/qr/cfa87961-3037-49a5-a79b-15b138bf0344
+31358e14-0b49-4818-adb0-fcb500bf220a,Alicia's desserts,Traditionnel desserts,14.64,Desserts,/api/qr/04614829-3f15-4e88-9d7d-69901d524ae4
+c2d0b984-85ba-4813-9d81-2bc0270a1d59,Stephanie's sandwiches,Fait maison sandwiches,8.17,Sandwiches,/api/qr/5d74dd0a-b69d-4ed5-a394-030b8ef4a5ec
+0d1e51d1-b662-4c81-9ed9-ce3430b50e3f,David's desserts,Savoureux desserts,9.18,Desserts,/api/qr/baa4672e-b8ff-46da-85f5-7b79128b79e8
+b976355e-8afc-45bb-acfc-17e150d63f88,Patty's snacks sales,Savoureux snacks sales,2.23,Snacks Sales,/api/qr/d43fb9c8-5213-4498-aca5-1772c3a661cd
+a7194287-cbd5-41e4-83f2-75122892ae79,John's boissons,Energisant boissons,5.27,Boissons,/api/qr/fe925e59-904e-4656-99f9-1708fabb1af9
+fddf358f-87a4-4403-92ea-c2a20e07858c,Sabrina's snacks sucres,Gourmand snacks sucres,2.51,Snacks Sucres,/api/qr/e4e9322e-4fbb-4313-881e-15490acd289d
+82657f16-d21b-4db8-8f00-20e2a46b6195,Michael's sandwiches,Gourmet sandwiches,4.39,Sandwiches,/api/qr/b1c935b3-67bb-4db4-b0b9-36f819e2b13d
+4ec315a2-f297-4efa-8847-c41e89793f16,Juan's snacks sales,Grille snacks sales,6.27,Snacks Sales,/api/qr/ac191da5-4388-4f20-8bf0-c9285018accc
+0e0ba650-5df9-47a1-8004-ce41aa6bbbfc,Marissa's snacks sales,Grille snacks sales,2.46,Snacks Sales,/api/qr/ff719f9a-48ca-4102-ad4b-5c3c018df6a0
+788a29f7-7bcd-453a-a9a8-1e3c08bf46f6,Danny's desserts,Onctueux desserts,13.51,Desserts,/api/qr/2dde8703-7a62-45f1-bfcd-59f8f569a79b
+6510bb08-5670-4382-ae5f-34a5faefdf34,Jacob's snacks sucres,Delicieux snacks sucres,10.65,Snacks Sucres,/api/qr/11472f10-fb9b-47c3-8a80-858609707f5f
+f91627af-5f20-4f13-98c3-73bb293da88f,Faith's snacks sales,Epice snacks sales,12.44,Snacks Sales,/api/qr/6da735f8-b95c-47f1-b9f5-f426f3f2a424
+673d18b2-a428-4a55-bc88-bdb5229cca7e,Timothy's snacks sucres,Fondant snacks sucres,13.77,Snacks Sucres,/api/qr/f6f6401c-530b-4a72-a289-6a3df086e47f
+91b6e8af-278e-43b9-af27-b631bca2eaa6,Joshua's snacks sucres,Sucre snacks sucres,10.52,Snacks Sucres,/api/qr/26ba6679-0c91-4021-acdc-976fa269c6f3
+e99bdbdd-b137-4250-b37f-a4938b6f7e28,Justin's sandwiches,Gourmet sandwiches,14.81,Sandwiches,/api/qr/aeee33ba-2478-4e6c-b89f-7c30ea6d7083
+b7b7c751-1511-46b1-b07b-0db2fc9d5bd1,William's snacks sales,Croustillant snacks sales,4.92,Snacks Sales,/api/qr/30e6b172-daeb-418a-8e5f-c63b0018bbaa
+d7a3f3df-b077-45fa-b712-407f8685eb60,Michael's sandwiches,Fait maison sandwiches,3.13,Sandwiches,/api/qr/8222835e-6a0e-4656-bd21-3b10592f0628
+2739cbc8-cdfc-4964-acfb-a249e3b17642,Stephanie's boissons,Petillant boissons,11.02,Boissons,/api/qr/3016f21b-9da8-4257-8594-ba94f140f477
+48ab564c-a003-46e4-801c-6dcdb57b1857,Andrew's snacks sucres,Gourmand snacks sucres,3.88,Snacks Sucres,/api/qr/577d128b-ad96-4336-995b-e3c2e727112a
+d7ea1e0d-f77f-4401-9cfa-c26dc7f9b11b,Jake's desserts,Traditionnel desserts,2.67,Desserts,/api/qr/1835f54f-99cb-4783-b4e5-321f3e0abdd8
+affcd601-8264-40ab-8482-a68eb01d3876,Ann's snacks sales,Grille snacks sales,6.82,Snacks Sales,/api/qr/0281e659-f905-485b-9e2f-3dd539205bc6
+a4a4a1a2-16ee-44a9-a557-7e9dcfe0da7d,Michelle's desserts,Onctueux desserts,12.31,Desserts,/api/qr/954a9b70-c3d3-4f02-94bc-57e4e756ac2e
+bb1cc2f5-b1ee-434e-bb22-0309fb46c084,Rodney's snacks sales,Epice snacks sales,7.19,Snacks Sales,/api/qr/90fafe2b-a55d-4ece-9479-214e671624de
+cc2ccfb6-7ecc-454c-a40f-80fb47098ddf,Gabriel's sandwiches,Copieux sandwiches,5.49,Sandwiches,/api/qr/be28c7eb-d0bf-4415-9be0-bdbc189da4ee
+a026c125-906c-4ffa-8be5-c98581fdcaf9,Stephanie's snacks sucres,Sucre snacks sucres,14.37,Snacks Sucres,/api/qr/b230f2f8-3e6d-4a2b-a040-cf81159d35f1
+165ee3f2-6fb2-4136-a791-da8e43b745c0,Michael's desserts,Savoureux desserts,14.3,Desserts,/api/qr/4afa6464-e0ac-4a6c-9132-b73d86bdbe8a
+f3b67b24-df66-4772-8ed7-8ed9c9f0ad4b,Robert's sandwiches,Fait maison sandwiches,9.05,Sandwiches,/api/qr/796c2521-6bc6-499f-94d5-76c0f9a91f62
+02885521-ab3a-4fb0-a0c9-92a69138c009,Antonio's boissons,Petillant boissons,13.91,Boissons,/api/qr/f630cc52-150e-4a3c-9862-f190428c9f87
+f2851d3f-92b5-4a6b-8bfa-20c6319cd50c,Terri's desserts,Fait maison desserts,4.09,Desserts,/api/qr/c1042238-e066-47ca-9fb9-aec96d780685
+f1e6fb75-88a3-4621-a5af-35b9a56c190b,Tanya's snacks sucres,Gourmand snacks sucres,10.69,Snacks Sucres,/api/qr/88381300-622f-48d2-8778-a411d66842d6
+4ea5b610-70d3-446b-91a4-f6798fc0e7cd,Alfred's snacks sucres,Gourmand snacks sucres,4.64,Snacks Sucres,/api/qr/63c57a6a-0cdc-42ed-aa18-4775d752b6c1
+e7adeb49-99e3-4769-a0bf-59c70d0ca1c1,Carl's boissons,Energisant boissons,7.16,Boissons,/api/qr/86c84561-b7b0-473d-b4e1-68a8dc4651dc
+37cf46d9-d163-4c1c-ab56-67a8f864a8d9,Adam's desserts,Traditionnel desserts,14.61,Desserts,/api/qr/97cb5f30-e63e-4107-9610-6f70b2fcb6e5
+f641aa48-f6ec-4789-b058-6ba59210fa85,Andrew's sandwiches,Gourmet sandwiches,7.7,Sandwiches,/api/qr/9d040d5e-2574-4de7-a2b6-fa1056220e24
+d6056932-b5fb-4c03-891e-d926f0fb3ae7,Deborah's sandwiches,Copieux sandwiches,4.51,Sandwiches,/api/qr/a339995d-9567-4b84-8fc3-7e71331e690d
+b9f5fcba-104d-4296-a551-e1e75de080c4,Henry's snacks sales,Epice snacks sales,6.48,Snacks Sales,/api/qr/2bf4d3b5-6349-4cd9-becd-42b181ce35ac
+ca59be5d-0374-420d-90d1-2b2962640173,Amber's snacks sales,Savoureux snacks sales,3.75,Snacks Sales,/api/qr/77645abf-ccd3-40ec-9805-b8103e60e26e
+63696938-f7e8-4767-b706-b2d68a934e5a,Linda's sandwiches,Fait maison sandwiches,2.25,Sandwiches,/api/qr/d6604861-296c-4d8f-8d04-7d89d7e9f47c
+e35d1e14-e9e8-4162-a8cf-85faf14a8f28,Becky's desserts,Fait maison desserts,5.98,Desserts,/api/qr/6de81d62-d481-42b2-ae2d-c0feb20065a7
+0397eb5a-5ed8-404f-9177-2430565c817e,Nathan's sandwiches,Fait maison sandwiches,12.75,Sandwiches,/api/qr/e7c9e270-73a4-472c-b5f1-f56fe4b8af29
+97322a3d-ec35-471f-8596-2d8dcf63c3e1,Erica's desserts,Fait maison desserts,8.25,Desserts,/api/qr/ba649c18-4c65-4f0a-9f31-051ef01e82ef
+92867237-e337-422e-add5-8f6efbe39554,Ernest's desserts,Onctueux desserts,8.8,Desserts,/api/qr/717a2e87-3156-4920-b369-211d14fb2991
+524f0574-980d-42ec-b7cb-7566274bbbb0,Elizabeth's boissons,Energisant boissons,10.35,Boissons,/api/qr/730443f9-93f7-4e79-b9df-5c5cf74c8039
+d4986618-757a-4f13-bb81-e222ea8de0fe,Michael's sandwiches,Frais sandwiches,10.68,Sandwiches,/api/qr/8bbd275b-f981-4576-8e8a-c494a5520ab8
+4f657bff-ff41-4a79-91f3-dce6130354ec,Lisa's snacks sales,Grille snacks sales,14.59,Snacks Sales,/api/qr/ff8344be-e1cb-44e5-ab20-1afbf151c33b
+3afa1012-a1ea-4183-9a87-63321911b250,Louis's desserts,Onctueux desserts,9.57,Desserts,/api/qr/50f15bc0-33f0-4178-8679-b16d18eaef98
+7b44cc76-efe5-4340-a81e-ed62ed1cd70c,Brenda's snacks sales,Grille snacks sales,11.57,Snacks Sales,/api/qr/f973ed0d-aa39-4b2c-8985-0e3f02ba4807
+465e574a-d1ac-40d9-8af1-7f3f4915b5f4,Brittany's sandwiches,Fait maison sandwiches,7.07,Sandwiches,/api/qr/968d0ad2-e9e1-4853-bf69-913c3b22ef96
+f0e81aca-549e-468e-85f6-04242f8f9eea,Peter's desserts,Savoureux desserts,14.84,Desserts,/api/qr/ba5625b5-2b63-44ba-a431-88aa2d47e928
+06a781b1-1d7f-4015-a8a5-e0fca9f1ed8b,Sue's sandwiches,Gourmet sandwiches,9.82,Sandwiches,/api/qr/2a23a37c-1135-4ada-96f8-75f7579ba7d9
+4c22eed1-664a-4466-b239-3f873cc79c14,Jeffery's snacks sales,Grille snacks sales,8.26,Snacks Sales,/api/qr/87fc0254-45bc-42e0-a9df-ea41ac020edb
+388bff54-f2e4-430e-945d-cb16c5b9b7da,Joseph's snacks sucres,Delicieux snacks sucres,2.31,Snacks Sucres,/api/qr/9b56aca9-960f-47ab-a44e-c3e580fb59e5
+7a715782-0aea-48c7-a857-a9c36dfe87af,Jodi's sandwiches,Frais sandwiches,4.84,Sandwiches,/api/qr/a6b62e7d-db36-4bd4-9b95-8ac14d7b2f38
+68bfbf28-6e20-4e16-bd19-cb5e8546289a,Scott's boissons,Petillant boissons,3.2,Boissons,/api/qr/5368b57b-7148-4eca-b4c7-906bcdc0f7b1
+d666d0b7-ab25-4452-8590-e7f660dacc39,Shannon's desserts,Traditionnel desserts,10.96,Desserts,/api/qr/88f78760-f530-4090-86ec-99b8d2bdb736
+f4da7739-864f-4512-9bb3-7118e406112d,Beth's desserts,Fait maison desserts,4.53,Desserts,/api/qr/ccc39bde-d36c-4227-914b-a61759397331
+8c3f8d26-3b0e-455b-a0e1-a078bb6cd5ff,Brian's boissons,Energisant boissons,13.12,Boissons,/api/qr/b5629e01-fcf5-4979-96ec-d56121763872
+e08d0984-d175-417c-b26f-bd8e875478d7,Alec's desserts,Fait maison desserts,6.68,Desserts,/api/qr/8afe0d58-0995-4cf6-a8de-81c290acf5aa
+b5084a62-a7eb-4bda-aeff-05fc4095fbd0,Jessica's snacks sucres,Sucre snacks sucres,4.16,Snacks Sucres,/api/qr/f8251daf-7688-4d9f-a129-2adbc430358b
+8e43eab4-eaa3-420d-9acd-c9837fc3a6ed,Jeffrey's snacks sales,Savoureux snacks sales,7.73,Snacks Sales,/api/qr/ed4fd5ec-ba86-46a2-b5fc-6fe0e9d2ed16
+ec44fb8d-8a18-4920-b176-fef91a8596a0,Brandy's snacks sales,Savoureux snacks sales,2.34,Snacks Sales,/api/qr/804feb62-c7b4-4aed-82b3-3a27f45d6881
+04937542-93d0-4b54-9341-50403dc4ea68,Heather's boissons,Desalterant boissons,1.03,Boissons,/api/qr/b79f7578-72dd-4365-a33e-2181cb23d6f4
+df88dfb0-5a40-4e1f-9c8e-58262a599004,Mark's boissons,Petillant boissons,10.38,Boissons,/api/qr/004dc937-fa0d-49ae-b98d-026b6310db03
+cb7e7160-3ed0-44de-a5ee-a3c08a1ccd91,Donald's sandwiches,Frais sandwiches,10.41,Sandwiches,/api/qr/fd5cc742-566a-4c22-b402-5f4b26414d2d
+7be5a074-6dd4-4cf6-956c-f165ef10a719,Carol's desserts,Savoureux desserts,5.79,Desserts,/api/qr/0ed21f6f-e04f-464e-89b9-3ecda78ab1ef
+511bffa1-7c3f-4c72-8cb6-60ffbcb70ed5,Karen's snacks sucres,Sucre snacks sucres,9.73,Snacks Sucres,/api/qr/41b0b49d-79af-47f5-87a5-2d6c323876fb
+f0370c81-1782-4973-9d74-66a18accc397,Thomas's snacks sales,Grille snacks sales,5.55,Snacks Sales,/api/qr/c2fb06ce-d022-4524-934e-3a4aab8c1240
+daf7db75-e97e-4e9b-9a9b-38205e56f6c4,Gina's desserts,Onctueux desserts,5.04,Desserts,/api/qr/6b79b8ec-38f8-476c-a0e9-305beb6def27
+afd69965-1a61-4e21-88af-699e214a137f,Andrea's sandwiches,Fait maison sandwiches,9.0,Sandwiches,/api/qr/6c20de78-27eb-47a4-8a9d-fece09d744b7
+cd2349f7-dfa1-4903-bbeb-8284cfc1a9f0,Maurice's snacks sucres,Fondant snacks sucres,11.4,Snacks Sucres,/api/qr/7cd7ba6c-f35d-402a-8f4c-f5dcd5c14ca7
+efc7a2e4-57ab-41cb-be2c-b356b8bd4831,Diana's sandwiches,Frais sandwiches,10.41,Sandwiches,/api/qr/c696d104-f764-40d6-bb9d-3c4e88107338
+4ef1dab8-7cbf-4684-96f7-db4d04a00ced,Tiffany's boissons,Desalterant boissons,1.33,Boissons,/api/qr/0d2338ad-3083-4c9e-8300-5010a66d6151
+6ac728d7-111c-4833-9d38-499104ef9cfd,Kenneth's snacks sales,Grille snacks sales,2.36,Snacks Sales,/api/qr/6b4f513c-6115-47ae-9b2c-862402d56c89
+fc035eb7-52e3-4486-98a2-f76e8dde871e,Mark's desserts,Onctueux desserts,6.14,Desserts,/api/qr/75ab1aad-40a1-4153-b28c-5884e3797133
+037ed4bc-8f74-44ef-8c3d-a184d9d90252,Adam's boissons,Rafraichissant boissons,5.75,Boissons,/api/qr/26ba83ca-2db1-41a5-9845-d1cf7e1b8d45
+9439d2b0-eed2-4395-a4a3-6466f3abbd76,Kathryn's snacks sucres,Delicieux snacks sucres,1.33,Snacks Sucres,/api/qr/b3ec2a90-7385-4d28-bc05-3d605f4cd965
+40777b3e-8539-49cb-bd3e-f2c7d6f7beb1,Tina's snacks sales,Savoureux snacks sales,13.86,Snacks Sales,/api/qr/3301786d-7378-45a1-944b-e407aa7a69a4
+429b6364-5336-4919-8943-1197d9d87f94,Julia's snacks sucres,Gourmand snacks sucres,5.31,Snacks Sucres,/api/qr/15a87907-e2ce-4aca-b14c-d8e6c2b1e0f3
+a1672b17-e057-4458-9d69-e4be25f7aa81,James's boissons,Energisant boissons,5.38,Boissons,/api/qr/5c52a34d-8d1c-427a-b281-1efb11f6a5fa
+5f22b13a-2878-481f-a1f0-8707da265178,Alec's desserts,Savoureux desserts,2.23,Desserts,/api/qr/2967bd7d-7e4d-43af-b403-1045c8fecc15
+850a5561-b00e-482a-b4be-5ed3bcedb9b1,Janet's snacks sales,Grille snacks sales,1.88,Snacks Sales,/api/qr/b7f2afa3-7482-42dd-8cd3-e5fe1c1110b9
+564415a8-05ba-4e83-86d7-0219abd3f055,Darren's snacks sucres,Fondant snacks sucres,10.06,Snacks Sucres,/api/qr/bb7708b4-56b5-4e34-af64-111d30f3d65e
+e0300c87-20e4-4a37-9dbc-053e63e4f354,Kristina's desserts,Savoureux desserts,14.04,Desserts,/api/qr/bcc4151e-b4f7-4532-ad23-c9c2f026687e
+1e756597-d024-40cb-94c3-5185379fb14b,Martin's desserts,Savoureux desserts,13.08,Desserts,/api/qr/d7805708-ad82-49e8-a744-6e7e6f29b59c
+80fc0c20-4400-47b5-bcc2-869fafcba77e,Ashley's desserts,Traditionnel desserts,6.37,Desserts,/api/qr/de5107aa-2132-4b6a-89ac-406ef0c4429c
+e1542c33-5a55-4552-8e1e-b3c05f2ea0f2,Amy's sandwiches,Fait maison sandwiches,3.41,Sandwiches,/api/qr/fd50a014-05df-45f5-aad1-09f2fe091f29
+e96d8225-a88b-4061-b8cc-43899e1bcd7b,Abigail's snacks sales,Croustillant snacks sales,1.73,Snacks Sales,/api/qr/c1344777-610d-4cd2-9dc6-58f1d3b5ec6f
+74c44d93-e0ce-4523-aad8-b60bcad2a649,Brandon's sandwiches,Frais sandwiches,4.22,Sandwiches,/api/qr/39126610-44b1-4dba-b608-339c7aeee9ce
+50c5086a-2e61-45fe-8a2e-c8e68e56bcc8,Melissa's snacks sucres,Fondant snacks sucres,14.85,Snacks Sucres,/api/qr/6084c07b-d740-4487-9898-240d632f8f52
+cf13cf82-4514-49d3-86fa-a2973c0f87b5,Shelly's sandwiches,Gourmet sandwiches,11.55,Sandwiches,/api/qr/1e4aca7f-2532-41b4-bc68-9242d5892ab3
+a9bfea53-f93c-4fba-bf4a-64a8f0530b72,Molly's snacks sales,Croustillant snacks sales,9.85,Snacks Sales,/api/qr/4df22bb6-51da-4631-911d-fe1d805e76a2
+37043d77-a8c4-4a7d-be6b-8507858b8bb9,Daniel's sandwiches,Frais sandwiches,6.21,Sandwiches,/api/qr/3211e66b-c61e-4f1e-890d-f37e4c818108
+f59495be-202f-4752-93a9-05a0cf6840fe,Mark's sandwiches,Fait maison sandwiches,8.87,Sandwiches,/api/qr/44f76a39-21e9-428a-b0eb-ef19dc74d7a0
+b3949234-c60f-49dc-867a-ec7a0af0ab4c,Michael's boissons,Petillant boissons,8.07,Boissons,/api/qr/03a05b3b-1f41-4be2-aed4-ad336cff83fb
+9725c5f4-7abe-465f-9d31-9606f9f83f84,Joshua's boissons,Petillant boissons,8.33,Boissons,/api/qr/b3820c03-c35f-4e0c-9536-aee1a3ca870c
+2cd1e703-6ca0-4992-8619-32e9c34b0391,Michael's snacks sales,Epice snacks sales,7.88,Snacks Sales,/api/qr/b58616bc-782e-4ccd-8160-5ef9bd464dcb
+6b4a8168-e1e3-40bb-b3d6-3b4cbe145141,Michael's snacks sales,Grille snacks sales,6.05,Snacks Sales,/api/qr/0c6785b5-0e4e-4508-9d63-13d89226d08c
+0ccaf6f3-e41e-42f5-a030-6568a223c3b0,Anna's snacks sucres,Delicieux snacks sucres,14.47,Snacks Sucres,/api/qr/0dabec56-22ad-4795-bfd5-84bf94085c91
+7bec9507-9a1e-4156-a6f4-e5de0a81b98f,Edward's boissons,Energisant boissons,1.26,Boissons,/api/qr/62fea272-e5f1-4e9e-b22f-8f1fc9eafe84
+36017c6d-d13d-461a-b69f-df65f59c17fa,Steven's sandwiches,Frais sandwiches,9.97,Sandwiches,/api/qr/a4a13ad5-5a30-4e63-9bc6-e19b4882ae9c
+a6270ab7-1b4c-4c3b-a184-181718be5958,Carmen's sandwiches,Copieux sandwiches,9.15,Sandwiches,/api/qr/bb745802-34e3-48d2-99dc-5e19af8637fb
+ce581be8-f538-4961-8fd2-eaec3029e5fc,Luis's snacks sucres,Delicieux snacks sucres,7.08,Snacks Sucres,/api/qr/264d6cbc-5687-4294-86e0-650fd7c55c6f
+4e668232-a226-417c-9d9d-d813818487e4,Frances's sandwiches,Fait maison sandwiches,6.57,Sandwiches,/api/qr/12640550-86ee-4d3a-84af-07f46037a56b
+883b71cd-64f7-42a8-b496-85e17e5cf8ff,Jason's sandwiches,Copieux sandwiches,7.17,Sandwiches,/api/qr/44905830-db35-4b89-9023-b23607ce9f16
+ce12e63e-59ad-41a0-a09d-15ea87d6a269,Kelly's boissons,Desalterant boissons,8.88,Boissons,/api/qr/4c265d4e-bc19-418b-a25a-197bb6120e26
+6d4a379f-0878-44b3-9851-d633036d9f1f,John's snacks sucres,Fondant snacks sucres,9.0,Snacks Sucres,/api/qr/cc8015dd-31bd-4efa-94db-253e67e14ec0
+d3c6ba00-2b33-4390-b10d-469a0eae93e0,Lindsay's desserts,Savoureux desserts,11.48,Desserts,/api/qr/73a936e6-44ed-4e07-8900-b07d2e309d9d
+a3adc427-71a1-4169-830a-84f98d770353,Douglas's boissons,Desalterant boissons,9.9,Boissons,/api/qr/8b88ec3a-f148-40db-ae62-c573f6002bba
+15174076-7126-4f67-8f2b-91f23c539f69,Emily's desserts,Onctueux desserts,1.19,Desserts,/api/qr/76ffa1fe-076a-4c6e-8b05-e51465f2f1df
+b52565e1-df0c-4c4a-9694-804c8a1366c4,Michael's boissons,Rafraichissant boissons,14.46,Boissons,/api/qr/6c9005ff-4a6e-4019-97f4-e43daf59633c
+4bcdd6d0-f211-4515-93b9-4909059dd74f,Derek's snacks sales,Epice snacks sales,10.05,Snacks Sales,/api/qr/f70eb9cd-d8c0-4121-beab-6bc12fcc6d67
+d20f4706-f83e-409b-9015-d85c8c20afd8,Robert's boissons,Desalterant boissons,6.04,Boissons,/api/qr/5b45029c-12c4-4fcb-acc3-a5fe5497a89d
+70b9f981-8229-4df7-a1bc-770b11156ad4,Karen's snacks sucres,Sucre snacks sucres,12.01,Snacks Sucres,/api/qr/e6fe7fa1-62e2-4f39-aec3-821417bb1062
+c7414922-a032-431f-9bc4-d86ec09bc5c5,Angela's snacks sales,Croustillant snacks sales,8.97,Snacks Sales,/api/qr/b4cad257-81e4-4891-a989-460f14dce711
+8eb1a78a-29d8-4246-a230-1bf46b23802d,Felicia's snacks sales,Croustillant snacks sales,8.39,Snacks Sales,/api/qr/e1bb905d-6639-4740-a8ec-373eec5423e9
+937c9435-6610-4f03-8f6b-9293308eca31,Sandra's boissons,Petillant boissons,14.73,Boissons,/api/qr/836615ad-2af0-47b2-87ab-84dff3acb164
+105bdbee-2510-4655-9a5f-50611bf98644,Alicia's desserts,Traditionnel desserts,11.23,Desserts,/api/qr/665ef95e-3cbe-4322-81de-d4b947d458d7
+845bc6df-5597-4320-ab45-e0fae549bc05,Amanda's snacks sales,Croustillant snacks sales,2.65,Snacks Sales,/api/qr/2fe58b69-dc9c-4d95-ac1a-0519ec9aa2f4
+65468414-cf4f-4df3-a1be-a89ec8a730b1,Diana's desserts,Traditionnel desserts,14.41,Desserts,/api/qr/55b39ecd-eb08-4e6d-b552-7c921777b795
+c8bdfa43-f41d-4429-b143-6f1dd1bf711f,Angela's snacks sales,Epice snacks sales,2.83,Snacks Sales,/api/qr/61d3b798-8af6-4113-a794-e523e363eaac
+f9332b3c-44ea-4086-8721-335e78d4cda9,Kayla's snacks sucres,Sucre snacks sucres,4.18,Snacks Sucres,/api/qr/d4bec156-280c-4ed7-8709-92989198ee11
+03c7a979-a498-441c-86ae-088212b90d72,Mark's sandwiches,Frais sandwiches,8.53,Sandwiches,/api/qr/7a8c991c-ee6a-43ca-8d81-5c1f28bd705d
+df9a7489-9146-4379-bef8-0d675d3845ee,Kimberly's desserts,Savoureux desserts,4.71,Desserts,/api/qr/98d0d21e-4390-451a-bd07-c5a5a1ffc28f
+17e12e39-c7a1-4330-a9c7-ccc7fc8e05e7,Tyler's desserts,Traditionnel desserts,13.32,Desserts,/api/qr/731241c3-79ea-41da-a123-ffd198d7c457
+5242c240-054a-4172-9e83-61b0c203542f,Brianna's desserts,Onctueux desserts,13.66,Desserts,/api/qr/4dcc275b-1b34-458d-a982-a3e452ddb5b8
+151a7bb7-8a75-415b-af23-81465207904c,Kathleen's snacks sales,Croustillant snacks sales,5.6,Snacks Sales,/api/qr/48134646-2545-49d2-9545-61103f556714
+722cb9fc-3855-4ed3-84a4-727e69f65943,Lindsay's snacks sales,Grille snacks sales,13.38,Snacks Sales,/api/qr/7e5bad37-ae7b-4a34-865d-1b5476730ce8
+dbd5fcde-26d1-4fdf-b19b-91e796be239f,Laurie's boissons,Petillant boissons,10.86,Boissons,/api/qr/5c8eba71-eeed-4185-a9f0-ea0efb4360da
+a2d8e372-3fba-447f-a034-e47430c822c6,Jacob's snacks sucres,Fondant snacks sucres,9.7,Snacks Sucres,/api/qr/57eb1fee-d345-4138-a887-68a55f99c7c4
+219bb804-e796-43d3-b465-92547124ab28,Raymond's snacks sales,Croustillant snacks sales,2.99,Snacks Sales,/api/qr/e7d01c5a-a3f0-4076-8102-749e65375978
+d2e41bd0-b779-4a3c-a08d-baff30ca980b,Elizabeth's sandwiches,Fait maison sandwiches,4.89,Sandwiches,/api/qr/a93a68eb-f945-47d1-8a11-7ebe583a5b8b
+8fa4c7c1-46cc-4f41-b2d3-a1017b8a061b,Donna's sandwiches,Fait maison sandwiches,5.36,Sandwiches,/api/qr/fda6afb3-5b29-41d8-b503-e45487700881
+3c9b1139-7cb0-4093-88a5-4a25552fe33f,Gail's snacks sales,Grille snacks sales,5.05,Snacks Sales,/api/qr/2b96dcbc-7b71-4546-9b6d-b421b0308380
+cb8f0c1f-7de4-4540-bdb3-6e93a04d8afe,Scott's snacks sucres,Delicieux snacks sucres,5.17,Snacks Sucres,/api/qr/272ee1fe-7647-4237-adc2-0c646467d102
+eff2e979-c5bf-46e4-8a42-1e121ce10407,Robert's boissons,Desalterant boissons,3.08,Boissons,/api/qr/d9288c5e-f849-4360-98cf-ae4caf132819
+b60d6d5d-1aa4-45a8-bf13-7decb0641b3f,Brian's snacks sales,Epice snacks sales,10.12,Snacks Sales,/api/qr/5dd28270-ed51-46bb-89ab-8e397cc79119
+0783f810-51e0-437c-a285-5f3b6d30a7b9,Jared's sandwiches,Fait maison sandwiches,4.61,Sandwiches,/api/qr/0a44fcf2-5ef3-4c68-953d-ce3baf69ebbb
+b37c1967-e4cd-448b-ae89-247d6721a2a1,James's snacks sales,Grille snacks sales,1.1,Snacks Sales,/api/qr/3de01074-3b97-4f37-bf29-57fe8c99d703
+02c315b8-f193-4fa9-9545-25f4975b2a06,Kyle's snacks sucres,Sucre snacks sucres,11.95,Snacks Sucres,/api/qr/5a15f999-ae90-40c6-b414-eb3866c2e165
+f92ae840-9fde-4a3a-a4ef-6239e96fc468,Kevin's desserts,Traditionnel desserts,3.94,Desserts,/api/qr/b5b8ef66-2222-434a-b8a7-e302bd61c6b8
+84159144-647b-4cf6-99cc-185729650ce3,Yvonne's sandwiches,Gourmet sandwiches,1.34,Sandwiches,/api/qr/9917a99d-a18a-47cb-9580-9b9f8dab31e3
+28e545e0-e3f1-419e-b857-aaf7cc9a952a,Barry's sandwiches,Fait maison sandwiches,7.89,Sandwiches,/api/qr/dac779a7-200f-42e4-9700-1dc32a94f1e1
+e3acd30c-6cf2-450c-90e1-a0d34867fffd,Clayton's sandwiches,Copieux sandwiches,11.61,Sandwiches,/api/qr/731889d9-4516-4357-bd35-9aebcd3d4a91
+0067f474-4071-4d63-8217-36fa71ef25e3,Katherine's sandwiches,Frais sandwiches,4.44,Sandwiches,/api/qr/de054271-7999-44e8-8be9-0e61759c4f32
+e2e8bd99-eac2-4699-9bfd-c91a6ee48355,Rhonda's boissons,Rafraichissant boissons,2.92,Boissons,/api/qr/c7930997-1061-4ed1-a85a-45fc3cfa3a8f
+faeadafc-f71f-4f03-b2af-94a5bbefc0cd,Shane's desserts,Fait maison desserts,6.99,Desserts,/api/qr/182538ab-4ad3-4ebe-84b6-790559a7ba00
+1c30a0e5-e5ad-45c3-b610-99297b920a9b,Darrell's sandwiches,Gourmet sandwiches,3.38,Sandwiches,/api/qr/07a26287-7a63-4085-a094-bb1733f2d5f6
+ace5c491-bf82-42a7-9c55-425dc1db8b36,David's snacks sucres,Sucre snacks sucres,11.9,Snacks Sucres,/api/qr/a95051c6-5a0a-4e50-9716-8340586de1c5
+0c11722e-0c50-41a6-9551-7b46c7fcae9d,Jill's snacks sales,Savoureux snacks sales,6.75,Snacks Sales,/api/qr/553f9f01-2a72-4d6f-8ada-d69dc76d7940
+b9717c01-1303-4c26-9596-c6e9c3d7659a,Mary's desserts,Savoureux desserts,13.52,Desserts,/api/qr/daf4c86d-d4d7-4be7-b0e8-662066239a98
+ebad36c4-43d5-4f86-b696-85965752c94a,Dominic's desserts,Traditionnel desserts,6.19,Desserts,/api/qr/c33b0a93-f638-414c-b246-144da48fb268
+a2001d91-4789-42a7-84fc-6260db6211d4,Jessica's snacks sales,Savoureux snacks sales,3.2,Snacks Sales,/api/qr/afa123f0-de40-44a3-b64c-310da4d77dec
+38b56a29-5aa7-4b11-b5cc-bbe583b66813,Michael's boissons,Rafraichissant boissons,11.37,Boissons,/api/qr/7167ab91-725c-4d00-bcd3-f9b32f13fbb8
+7661c7ea-0ccb-4bf9-9d2e-14ab6530e855,Claudia's sandwiches,Frais sandwiches,3.36,Sandwiches,/api/qr/11e503b6-fa5c-4ea2-8ee2-0e929e6d9f15
+59b6d8ec-2e30-435b-bf6a-5781c2423e76,Nicholas's snacks sucres,Gourmand snacks sucres,5.38,Snacks Sucres,/api/qr/f46e65df-13d7-4d9a-82a0-861034751d92
+65f37f0e-6c8f-4eba-8e2b-1914625e2a91,Dorothy's boissons,Rafraichissant boissons,13.42,Boissons,/api/qr/771823e7-5cd3-4e34-87f8-03c31be4eceb
+16d64340-6820-4b1f-942f-afaf4ddf0e0d,Chad's snacks sucres,Fondant snacks sucres,12.88,Snacks Sucres,/api/qr/ba03f4e5-d213-47ba-a810-8b96b966d80c
+d77b20b4-a518-43ac-8964-b441b3b8a214,Christopher's snacks sucres,Gourmand snacks sucres,7.5,Snacks Sucres,/api/qr/a586309c-3e7f-4ae9-b7a7-f5be364a09f7
+dd8b5e10-ba54-4bfb-8217-7e3d1213cc90,Craig's desserts,Traditionnel desserts,6.56,Desserts,/api/qr/f5abc7bb-b406-493d-95a2-7dbd92e5877a
+10a792cf-1dcb-4dc4-874e-9f247fb1b5fe,Robert's desserts,Fait maison desserts,12.43,Desserts,/api/qr/81eec0a4-f993-48cc-9ef7-f55cf74d8280
+332477db-8845-49f2-93b2-0f79fce87555,Cheryl's sandwiches,Fait maison sandwiches,14.78,Sandwiches,/api/qr/0c0c0de8-8515-402c-9c09-6394fb484495
+bd04bcaf-7b79-4ea6-9828-3d08c44bda65,Kristen's desserts,Traditionnel desserts,13.57,Desserts,/api/qr/db7e2ba9-e78e-4816-87fe-d3a60b6e8476
+b7918fc7-43eb-4640-b980-acc768a552c2,Randy's boissons,Rafraichissant boissons,1.93,Boissons,/api/qr/cb71d725-0f9b-4626-9d60-b0d6d4584eb7
+aa93cdd7-cd6e-43f4-b128-cc52b26c2bc1,Cynthia's snacks sucres,Sucre snacks sucres,1.13,Snacks Sucres,/api/qr/735e4dfd-6549-4419-8bdf-0729e9f1c09a
+0244ae30-94d0-451b-9d3d-e2f875463fcb,Jennifer's boissons,Energisant boissons,11.29,Boissons,/api/qr/3c9e6802-999a-482c-bf45-f4c8080bd762
+94996de4-e620-444b-bd36-23e1095bf302,Roberta's boissons,Rafraichissant boissons,6.92,Boissons,/api/qr/7129f009-53f7-421a-9171-a55cccee185d
+1d14e309-f72d-48a2-8464-3c35eb223ad0,Rebecca's boissons,Rafraichissant boissons,8.69,Boissons,/api/qr/c7226bba-3317-4912-9abf-f20ee23f50ba
+de08c335-7a00-4a43-a8e7-b0bb3f5b53d6,Jessica's sandwiches,Copieux sandwiches,2.49,Sandwiches,/api/qr/adeb8932-6738-40f1-8c0d-e203ed44568c
+ec0ccba6-6f26-4a38-a005-a0798edbce4c,David's sandwiches,Gourmet sandwiches,3.57,Sandwiches,/api/qr/367f7b43-1cfa-443a-9f6f-3f6e16846d10
+05723865-ab63-4927-ba8c-63bd58b39cf1,Lisa's snacks sucres,Delicieux snacks sucres,2.49,Snacks Sucres,/api/qr/49e32121-281d-4889-9c58-6256d0bb0547
+40084bf0-ddc0-456a-aee4-77f3400c7fa1,Harry's boissons,Energisant boissons,13.02,Boissons,/api/qr/eaa7bd9d-04d8-4fd7-94a3-b0c74dc6618a
+ddd03ca0-191e-4968-ba2f-c2ccb98b5ed0,David's snacks sales,Epice snacks sales,13.54,Snacks Sales,/api/qr/dba37d2c-e450-436c-b4d1-8110c6eeec92
+23399ff6-4dcc-41b1-9c9c-b10e49c260c1,Katherine's desserts,Onctueux desserts,10.72,Desserts,/api/qr/6ecf2165-2d1e-4d90-873f-4be28c895c57
+2ae217d4-dab9-4c61-aafd-89f788e157fd,William's snacks sucres,Fondant snacks sucres,12.5,Snacks Sucres,/api/qr/4d260a81-ac1b-4822-8fb0-2d7c582fb548
+77050f09-71c6-4817-81db-427e042caca3,Crystal's sandwiches,Fait maison sandwiches,4.49,Sandwiches,/api/qr/6ae2ecce-43c3-4c89-bbc1-1c1d4605a30e
+9dd059e8-c0f5-4bd9-8559-317c28174e3a,Maria's boissons,Energisant boissons,8.36,Boissons,/api/qr/ed0c45e2-6978-4332-ad1d-95f43329661a
+9fe1fd11-0977-4fc8-92e2-159755152b1e,Steven's sandwiches,Frais sandwiches,7.71,Sandwiches,/api/qr/6dbbfe93-f625-42ea-b01c-64676d4eeb21
+32876b86-1b7a-467e-8b48-dea77076cbc4,Crystal's snacks sucres,Delicieux snacks sucres,6.79,Snacks Sucres,/api/qr/2684a5e1-e93b-4480-869b-ddd304c3e43c
+a9c56b8f-f9ef-4225-8cca-d6d2c1315704,Ricky's sandwiches,Gourmet sandwiches,3.07,Sandwiches,/api/qr/11184d0d-3ad0-4c5e-adb2-ae9aebc4a067
+81b9fc90-4821-4a38-bca8-66ecb6f02a66,Jared's sandwiches,Gourmet sandwiches,9.55,Sandwiches,/api/qr/5f27a16d-6e1a-499a-9db1-385775fe38ba
+e37511dc-6946-414b-851b-2324cf306ac2,Lorraine's sandwiches,Copieux sandwiches,8.61,Sandwiches,/api/qr/bf1db608-11f0-4b17-b79e-a24af3da3187
+0bb5b8ab-bacb-449e-8768-94efae2ec609,Alicia's sandwiches,Copieux sandwiches,10.84,Sandwiches,/api/qr/36dd7c1d-089e-4957-a245-e1681e3d789b
+a919663a-c1d1-465c-a681-d04a2df8c50a,Kimberly's snacks sales,Grille snacks sales,14.0,Snacks Sales,/api/qr/1839c201-6c1d-40ff-9139-3aa34241c2aa
+56eec649-0ff5-46f1-abd9-c4b5f363fdc4,Jessica's sandwiches,Fait maison sandwiches,8.02,Sandwiches,/api/qr/fa58e2d4-ed8b-4564-a9e1-f5bbe921d649
+5dea7f60-abb2-4b81-bd7d-20b7e6ef0755,Kimberly's sandwiches,Gourmet sandwiches,4.48,Sandwiches,/api/qr/65f42aff-6ddb-4cfa-b96e-a88a36d3dd0f
+43b1379a-e3fa-406e-80f9-de1458614c21,Candice's sandwiches,Copieux sandwiches,7.28,Sandwiches,/api/qr/18e29820-554e-47e3-af0c-8d9212b9cd5b
+8bfaf1ab-173d-4005-9d46-e4b22139dbd7,Keith's sandwiches,Copieux sandwiches,7.28,Sandwiches,/api/qr/2a623869-04d1-4735-a042-cf5279d16be8
+3fb10dfb-42bc-41e4-a234-aeccb7afc452,Jeffrey's sandwiches,Frais sandwiches,2.16,Sandwiches,/api/qr/83ea3dc0-7b17-43e2-ad43-4126ad1e4024
+b8d9f790-0ac4-47bc-a2e8-bf39beab47b7,Shirley's snacks sucres,Fondant snacks sucres,2.36,Snacks Sucres,/api/qr/b6656577-354d-439d-af82-423bb1fad5fa
+2f179133-28ce-48e9-8d6d-66d21ef938ea,Andrew's snacks sucres,Fondant snacks sucres,14.38,Snacks Sucres,/api/qr/e5af753a-94ff-45e0-8682-96329b3c5f67
+0b3aff16-421f-4be6-aab6-9c9331a8c749,Nichole's boissons,Rafraichissant boissons,7.23,Boissons,/api/qr/791c5380-7ec0-4eda-80ef-e091c7510157
+751c137a-7a53-4547-9997-b998821a7be4,Christopher's snacks sales,Grille snacks sales,4.54,Snacks Sales,/api/qr/cc273b3d-d752-428d-bfaa-c25252ad70d1
+10ba9786-78fd-4b09-9f44-90f98e82b1a7,Ian's sandwiches,Fait maison sandwiches,5.5,Sandwiches,/api/qr/22f757d9-05da-4097-a7e1-846e49db840a
+a98e4373-b427-4b91-a5b0-d817a757b9a2,Tiffany's snacks sucres,Gourmand snacks sucres,14.5,Snacks Sucres,/api/qr/17e47043-838a-487e-a6fd-413ea3425a0e
+8827bfed-3785-496f-bc5a-bc2260ccb6bb,Christine's boissons,Rafraichissant boissons,12.61,Boissons,/api/qr/33f40c07-76be-45de-87d2-332dfc51b4ee
+7a8df493-56c1-4936-b12b-e8391d743ca1,Holly's sandwiches,Fait maison sandwiches,4.04,Sandwiches,/api/qr/09de8e3a-9fd4-4995-aa54-ed0e93cd86ec
+83678427-e98b-49ed-8499-78d8ccb867ae,Nicole's snacks sales,Epice snacks sales,13.45,Snacks Sales,/api/qr/fa38890e-e037-4ff3-b6a1-f71d15aa0efc
+949ac919-dff1-4730-9883-dccf4e004d10,Brian's desserts,Traditionnel desserts,3.17,Desserts,/api/qr/622a5d97-4ec4-4242-ba6a-0b4e74d9c91e
+798dfca2-cb67-420f-8291-cd269db3a7ae,Richard's sandwiches,Fait maison sandwiches,1.83,Sandwiches,/api/qr/a2f03e3a-6ba8-428c-86fe-caff9ec83e43
+6924477a-1278-418c-9af2-7539cfea4486,Angela's snacks sucres,Fondant snacks sucres,5.9,Snacks Sucres,/api/qr/bf3d590f-c5a2-4c20-af7d-06422affe11a
+1f80e5e9-efb3-44ba-81f1-19fcfaeace6b,Kelsey's sandwiches,Fait maison sandwiches,8.06,Sandwiches,/api/qr/44310d97-bb0c-49f8-bf37-9918013560dc
+bd7e1ac3-7177-44b8-a9ab-e43dca881fa8,Misty's boissons,Energisant boissons,14.6,Boissons,/api/qr/ff901528-1130-4215-a27d-2b010a4e0d88
+4b540e70-b79e-448f-a4c4-a2f1397199bd,Lee's snacks sucres,Sucre snacks sucres,13.34,Snacks Sucres,/api/qr/0532ac08-2c12-464d-a0af-9d0b1d3bd5b9
+d409b40a-6644-4b56-b23c-e4863cd2717f,Paul's boissons,Petillant boissons,2.94,Boissons,/api/qr/a05059b4-fbd4-48f8-905c-cff0479d297d
+60840617-7c7c-4d09-bbf8-3d3e74731831,Joann's sandwiches,Gourmet sandwiches,1.92,Sandwiches,/api/qr/76392d98-6895-44c5-9b3d-9eeb24e74dbd
+7c3a76a1-62e9-460e-b2db-d8d1d0b0682f,Erika's boissons,Petillant boissons,14.46,Boissons,/api/qr/e5ab248c-9849-4958-8927-907d484bb79b
+4c778a87-b571-4515-b100-967a0afd1f35,Richard's snacks sucres,Sucre snacks sucres,2.41,Snacks Sucres,/api/qr/3232f67c-2bfb-4249-9d41-59878a3ed407
+c11158d5-0a9b-40db-b573-dc3dfccdd54a,Christian's desserts,Traditionnel desserts,7.8,Desserts,/api/qr/f3cc449b-4fd1-4012-afae-30dd49db012e
+51f91424-c8d1-48ba-8806-431f36213138,Keith's desserts,Savoureux desserts,14.15,Desserts,/api/qr/ba5f5b65-c8b4-4fc8-a60c-2c7f19efa048
+4232c627-4060-4da1-9238-74e811e4582d,Emily's snacks sales,Grille snacks sales,9.97,Snacks Sales,/api/qr/b47e62a4-8ffe-41e2-aaad-d29c70b7533b
+50093009-d84d-414a-a6cb-c3504f6e9c71,Kathryn's sandwiches,Copieux sandwiches,4.34,Sandwiches,/api/qr/b50be813-f020-46a0-a592-e2c1ff78110c
+6bf1018c-1300-452b-a12a-4ce47ded4ae8,Dawn's snacks sales,Grille snacks sales,10.49,Snacks Sales,/api/qr/d5d6155c-7af9-4981-80aa-74687d45cc33
+2cc15a3d-1a15-4138-a5e8-89a380faeee9,Brian's sandwiches,Fait maison sandwiches,11.25,Sandwiches,/api/qr/60aa5965-74c7-4300-af7e-b4221a44b97e
+1bc7bec8-45ee-4923-a0e9-e80fe88c2c49,Mark's sandwiches,Copieux sandwiches,3.51,Sandwiches,/api/qr/f782cfd1-9248-4d06-98e3-be7c68a2df4c
+139e2b9b-d817-42c5-b1b8-4d53c20c6a9a,Jenny's desserts,Fait maison desserts,3.52,Desserts,/api/qr/f6c1ffc1-5658-4520-83b7-77b2ada55350
+36b16fa0-f4a5-4318-a7ec-557626c7dafd,Amanda's sandwiches,Frais sandwiches,11.18,Sandwiches,/api/qr/f3337c25-fddf-4589-8a35-b34e1e50f10b
+74f00b09-69e4-4811-91cd-d710cbcb199f,Colleen's sandwiches,Fait maison sandwiches,7.32,Sandwiches,/api/qr/6357a351-f878-48db-b04d-e8bc8216fae5
+65b3887e-6a36-4162-92d5-e3cf6f92810f,Amy's snacks sales,Savoureux snacks sales,8.75,Snacks Sales,/api/qr/6954c64b-1c42-4d5e-a710-69f2685bf988
+824db852-89c2-43ac-a3ff-8716dbdfe50c,Andrew's snacks sucres,Sucre snacks sucres,6.09,Snacks Sucres,/api/qr/ca82a8f0-bbe9-4ca9-b93a-b595f4215a41
+b8a250da-9553-4683-bcf2-d07a9fcc1c26,Katie's desserts,Fait maison desserts,4.62,Desserts,/api/qr/f4accecf-47a7-4a90-abb2-7ada4c781c13
+05b55256-a86a-477f-9238-22e36f30b8fd,Catherine's boissons,Desalterant boissons,1.31,Boissons,/api/qr/7d5ffc1e-b49b-4d42-aa01-340c77aa8644
+28f188da-a4e5-4eb9-835c-c44b71237b8e,Steven's sandwiches,Fait maison sandwiches,2.84,Sandwiches,/api/qr/0644e647-3ba2-4615-9456-5050c94581ce
+19fc23fc-4c52-4ced-9c25-85efc0274d82,Molly's desserts,Traditionnel desserts,9.89,Desserts,/api/qr/d510377d-f29b-4bbf-a01c-8d1dd8405d81
+60946b03-4208-4c96-8748-33c64a581ba7,James's snacks sales,Grille snacks sales,7.21,Snacks Sales,/api/qr/1e47b4f4-eea1-48c2-be4a-f64cf5ad8361
+16d1531a-f47a-42bb-b1e8-82f80eaae534,Albert's desserts,Savoureux desserts,14.79,Desserts,/api/qr/73dd8dcd-006e-4e90-a47a-e78d604206ce
+0549f0e5-e237-46eb-8308-9bddc093d219,Heather's snacks sales,Epice snacks sales,7.56,Snacks Sales,/api/qr/1269b42f-7e42-40ae-9bd2-01655326e274
+a364cba0-d974-499d-bff9-a766bd518931,Jennifer's boissons,Petillant boissons,10.84,Boissons,/api/qr/d84e0a98-5b7f-4bf0-bd0f-e7a6ade91420
+6be72ba7-eb78-4502-9640-47fcb08dcf19,Mary's desserts,Traditionnel desserts,1.29,Desserts,/api/qr/1f2d97fd-db3a-4e7b-b22e-cfce57a156e6
+ebaa7432-5f1b-4d34-b171-6bc804c9abe4,John's boissons,Rafraichissant boissons,14.94,Boissons,/api/qr/4c8d13fc-6dc7-489a-a5b7-4f6f9233f741
+78e49a86-acfa-4639-8b7b-cd0888e0f524,Sarah's sandwiches,Fait maison sandwiches,13.53,Sandwiches,/api/qr/59159a16-0b81-4f07-8fe5-3809950553e5
+b75fa2bd-d297-4811-8db0-2542a1c33bb7,Melinda's sandwiches,Gourmet sandwiches,14.07,Sandwiches,/api/qr/82ad631e-64e0-4e6d-b6f5-c1e420a2763b
+fe057fce-aead-4876-b661-ca6f5fa13ddb,Steven's sandwiches,Gourmet sandwiches,3.04,Sandwiches,/api/qr/6b1f3b9b-90ec-4bfd-b505-2332d8031c31
+09b78574-ea93-45df-91ee-fd1f77863ddb,Ryan's snacks sucres,Gourmand snacks sucres,13.11,Snacks Sucres,/api/qr/5e8c3228-3f3b-4718-ae22-0cd753d5278f
+5c23072c-f7bc-4f68-a10e-de194e5ae0e0,Peter's desserts,Traditionnel desserts,6.76,Desserts,/api/qr/3955934e-96c6-4140-9d31-5ac00553148b
+3e719561-fd84-4221-8067-7efa2713b846,Todd's boissons,Petillant boissons,4.99,Boissons,/api/qr/e3ed3cda-70e4-4927-98ef-a920726cd16d
+39389a4e-b34b-480f-8e9e-3138b5d50904,Marie's snacks sucres,Gourmand snacks sucres,5.01,Snacks Sucres,/api/qr/959ed7a1-bd54-4868-8eed-0b4655c9e28c
+69a8f8e4-f2d3-4c32-9bb2-0dee1ff441ff,Linda's desserts,Traditionnel desserts,5.94,Desserts,/api/qr/ba53750e-d2cf-4750-a8bc-3b43f60c2752
+6743aa7d-ebc9-4636-9e10-510f3509a224,Joel's desserts,Fait maison desserts,1.54,Desserts,/api/qr/3a1ab8de-fd3f-43e2-830a-0285fdc34ad2
+bf84ef53-cde5-41dc-a594-4b27cefb6aaf,Calvin's snacks sales,Epice snacks sales,10.61,Snacks Sales,/api/qr/4de0571d-8e3d-42b8-b77c-a2cf426384a6
+727f20b4-b012-4403-92ea-be0c94a93953,Jacqueline's desserts,Savoureux desserts,12.81,Desserts,/api/qr/17656c39-f36d-49ff-837e-2b8c7ffa3ae8
+6a50cc6f-9849-4ac0-8dbd-3b380a903d04,Alicia's snacks sucres,Delicieux snacks sucres,4.09,Snacks Sucres,/api/qr/1c122475-27a8-47f3-b34c-7c301cad5dc6
+f0e0e24f-fa4f-47b4-838b-389088cf5e89,Dawn's snacks sales,Epice snacks sales,2.16,Snacks Sales,/api/qr/0c2fc5c7-fe09-49d8-a141-92493bcc8194
+48c59534-6ab1-4d0a-9e1e-9d34011eceee,Daniel's sandwiches,Fait maison sandwiches,8.74,Sandwiches,/api/qr/9c2338c7-d1a0-4ae4-967e-f69f84812b4b
+7a8d2ead-f690-4060-acd8-23165aea15cd,Aaron's sandwiches,Fait maison sandwiches,5.15,Sandwiches,/api/qr/6bdb9c84-bbc6-4348-a41a-33d391338316
+7c4464f5-2b6b-49fd-9305-c3c891fbc1bf,Jose's sandwiches,Gourmet sandwiches,10.87,Sandwiches,/api/qr/5ba8d16d-fe93-4bb3-9224-4ba27b29e2b2
+c86c2ed4-fce8-4f85-8c75-ca1c10d505b2,Calvin's boissons,Energisant boissons,11.24,Boissons,/api/qr/b043dbe7-c0c0-4461-90c2-770249e2b268
+14bf1920-3a5c-449e-a30b-101b4b00cb0c,Steven's desserts,Onctueux desserts,4.95,Desserts,/api/qr/d7b3db70-60dd-41ed-b731-f634e88da431
+625c19b1-0ee0-40f0-83b6-7f06050e59e4,Jeffrey's snacks sales,Epice snacks sales,6.7,Snacks Sales,/api/qr/0b8968a9-be20-4ed4-a9fb-1638ed34e082
+5a7b879a-0c2d-418e-91bf-64dfc94cdbdf,Matthew's snacks sucres,Delicieux snacks sucres,10.32,Snacks Sucres,/api/qr/d695d01d-c985-433c-9574-268cbe7180c1
+b01eec3d-9836-4bcd-8733-ce7551d7c8fa,Nathan's desserts,Savoureux desserts,2.5,Desserts,/api/qr/9a9f75a4-1cdc-49e9-921e-c84779858cfa
+f186ab3d-5386-4a35-9b33-3e9e9c44d3ce,James's snacks sucres,Gourmand snacks sucres,10.37,Snacks Sucres,/api/qr/82b65673-7a82-4cf7-aac2-0f34782efbd6
+ed1a9314-3ff6-4aa1-8f7e-07b0b6eb9f73,Kevin's desserts,Savoureux desserts,12.42,Desserts,/api/qr/48b5f497-dab4-4b6a-b6e2-9581f9e56a53
+2694a904-30bd-4f70-bc70-11a3308c778d,Brian's snacks sales,Savoureux snacks sales,10.77,Snacks Sales,/api/qr/269f4317-bc4b-4408-bb9c-371c3552880c
+0b153b2f-4b24-4020-bed7-91abd634b1eb,Julie's boissons,Petillant boissons,13.3,Boissons,/api/qr/bc315b30-6101-47f2-85f1-73892a834472
+591955f4-41ea-4ad5-9d6f-fc098a4d520d,Joseph's snacks sucres,Delicieux snacks sucres,11.66,Snacks Sucres,/api/qr/e9dbe1b0-8001-45b0-af28-2fcf02a080bd
+370ce754-05f4-4829-a108-a7e63b50f53c,Jade's desserts,Traditionnel desserts,11.12,Desserts,/api/qr/ced0367c-52aa-4b18-8dc3-cd5c9e4d59c9
+95b76969-926c-49e9-8cbe-01cacd00935a,Mark's snacks sucres,Gourmand snacks sucres,4.01,Snacks Sucres,/api/qr/8a107a77-e493-4684-a3a9-140c554bf821
+fdd15a34-9192-483c-ae42-6a00c45f1833,Victoria's sandwiches,Copieux sandwiches,3.95,Sandwiches,/api/qr/ecf1a94d-10c4-474a-bbb6-7553cc7023ab
+630e4261-d26a-45b1-a2fe-072b408f68ce,Seth's desserts,Fait maison desserts,13.67,Desserts,/api/qr/64e237d3-fbb5-4ba1-84d4-e650880799b6
+64591add-94c4-4417-a411-8332dfa8c6db,Jonathan's snacks sucres,Fondant snacks sucres,5.12,Snacks Sucres,/api/qr/b0a4c3b2-e905-4a48-b9af-8557bfc9eade
+494e23dc-2404-43ba-b4b9-99048c0b244a,Tara's boissons,Rafraichissant boissons,4.23,Boissons,/api/qr/75f8cb61-8a5d-4110-a0bc-fdaabae40093
+f661f800-8e22-414d-866e-83ee66821f9e,William's sandwiches,Copieux sandwiches,5.91,Sandwiches,/api/qr/60c3a778-dfc4-469e-be90-27770bacf4d3
+177bb76a-277d-46a1-83ed-f93ed26bdb3d,Patricia's desserts,Savoureux desserts,10.33,Desserts,/api/qr/848c7ae3-d645-4871-954b-20b7e74b9197
+5f93f01a-db08-4bda-ad42-97b6a9c39fce,Daniel's snacks sucres,Fondant snacks sucres,12.56,Snacks Sucres,/api/qr/b62cf662-9711-4cb2-aa49-6ba30b4816fc
+eefbdf76-bc17-4723-8ecf-b2a0ad6c2978,Dale's snacks sucres,Fondant snacks sucres,7.26,Snacks Sucres,/api/qr/32bf3e1e-6e93-42e2-a260-704c99fc6a6d
+cf65b024-0762-483d-964c-5ff941e7de73,Brian's sandwiches,Copieux sandwiches,9.03,Sandwiches,/api/qr/8cbec4e0-9d86-486a-a77b-f9eca5faefe3
+904f6f90-bceb-4f96-9cee-eef197e8af64,Mercedes's snacks sucres,Sucre snacks sucres,10.31,Snacks Sucres,/api/qr/ebb7e2e9-83f6-459b-bb35-90bc7c116bc9
+4ec8e852-b8ca-42d4-8225-68536a2e138c,James's desserts,Fait maison desserts,7.83,Desserts,/api/qr/31981d73-0548-4238-9e36-c1283ec67894
+2670dfac-ee25-4b22-86c8-39f3fde91006,Shannon's sandwiches,Frais sandwiches,11.62,Sandwiches,/api/qr/74936ce8-2c10-4431-939d-077eba575017
+a4ffe8e6-9e8a-4214-a035-d5af888bdd28,Peter's boissons,Rafraichissant boissons,12.38,Boissons,/api/qr/46f6cb08-d3b3-4b0c-af15-ba72da389d84
+485d9ef3-1a14-4289-8160-926a18104db0,Deborah's snacks sales,Grille snacks sales,9.25,Snacks Sales,/api/qr/d11abbd4-d8b9-4df1-b855-b51805a07ff4
+7e52f0ad-3084-4c66-ad96-6d01a051a194,Mario's snacks sucres,Delicieux snacks sucres,12.15,Snacks Sucres,/api/qr/b15218ae-29be-4f48-9152-fb24aadeb12c
+a61b0b90-afc0-4fff-8666-c1ee59bf1cc1,Travis's boissons,Petillant boissons,9.15,Boissons,/api/qr/0f3c7d87-42ff-42c8-89a2-4c093bda5f01
+fe5c89e5-1654-4028-8950-209561cbf6bd,Juan's sandwiches,Fait maison sandwiches,4.14,Sandwiches,/api/qr/22fb3b81-9f86-4ad5-9900-1ef36668a1a2
+48b28938-5dae-4c5f-95f7-628a9478ed0f,Gavin's snacks sales,Grille snacks sales,8.18,Snacks Sales,/api/qr/8f15f43e-61c5-4dc3-b0fe-72a1ef81b856
+c97932f8-edbe-42d3-87d3-0dbf88adf689,Amanda's snacks sales,Savoureux snacks sales,14.98,Snacks Sales,/api/qr/9cfac238-4dc3-4e25-ae58-e04646332803
+44cbf1fe-e9cc-41fb-9cfa-6bbb1c8779f8,Matthew's sandwiches,Frais sandwiches,9.3,Sandwiches,/api/qr/3eb3cfbd-a2ae-4d1d-9935-9905a2c09c65
+6a69811a-da09-4136-b428-0461e45f01e5,Kyle's snacks sucres,Fondant snacks sucres,5.89,Snacks Sucres,/api/qr/848aa5f1-cdd8-4357-b18b-ba01b0d5a382
+3c7f6300-bcb5-4fd0-abfb-bbd78b596ace,Matthew's snacks sucres,Delicieux snacks sucres,10.21,Snacks Sucres,/api/qr/b1b2d879-e095-499c-b851-b6d73a9955d2
+464ed2ca-77cf-4ffa-a691-1045c7b54fa0,Kimberly's snacks sucres,Gourmand snacks sucres,2.33,Snacks Sucres,/api/qr/0a5f952b-0d5a-4104-a920-f2a10b601d06
+f38a8c4c-2a47-4793-abc7-0a476516544d,James's boissons,Desalterant boissons,12.9,Boissons,/api/qr/90bab274-e3a4-4185-9de8-da26046871b1
+139be855-d1d5-4b5b-a8ed-233b847c8499,Roberto's snacks sucres,Sucre snacks sucres,10.46,Snacks Sucres,/api/qr/3a849f47-f9d0-4c69-bc58-5f2a1768662d
+d78bfd0b-20fe-4820-aeac-20c1b2f23a23,Whitney's snacks sucres,Fondant snacks sucres,13.29,Snacks Sucres,/api/qr/d15750dd-0319-4378-9e52-91f1f982e700
+6534919f-5d26-45da-839a-68fca17040f9,Thomas's desserts,Traditionnel desserts,3.93,Desserts,/api/qr/7db4ff63-938a-43fc-a452-953ba3984e7d
+c42a4c9f-bd21-4e56-87e5-473e5ff5704e,Beverly's snacks sales,Savoureux snacks sales,13.94,Snacks Sales,/api/qr/7137b90b-5739-49fc-be02-57ddc2517555
+efa0faba-2a6e-46bb-99c2-51773af2c7ad,Robert's boissons,Petillant boissons,9.51,Boissons,/api/qr/95e13c0b-b5c8-4be3-b431-a7f2f7ea863f
+d1901703-d13b-485f-810d-2b829fa5584b,Patricia's desserts,Traditionnel desserts,14.91,Desserts,/api/qr/5bce5fb6-b10a-4b83-9f0a-03ad637e7d6d
+0fd0eb37-023f-4859-ad76-6fd4c3298c53,Ryan's snacks sucres,Gourmand snacks sucres,8.46,Snacks Sucres,/api/qr/fc452871-7678-4a4d-a0ad-1278c587f066
+08a2dc61-7995-4930-896b-12653eb4e9d1,Ryan's sandwiches,Frais sandwiches,13.07,Sandwiches,/api/qr/52458f95-ef38-4252-ad0e-5a7e22a33f1c
+9645aabb-cad0-451c-98e2-ca97c8cd8be1,Heather's boissons,Petillant boissons,4.97,Boissons,/api/qr/118cfda9-5c7e-4552-8064-9e57c5f51af2
+8c6ad7bf-07d1-4bc5-b02f-1783db022b8e,Angela's snacks sucres,Gourmand snacks sucres,8.17,Snacks Sucres,/api/qr/a769b7e5-032e-46c4-b6ae-697b42ab39c9
+eb3fb2a2-a9c1-483f-a6e7-5e334db51e3b,Paula's desserts,Traditionnel desserts,5.35,Desserts,/api/qr/3411921a-f894-484e-ad04-d88656f634b0
+0dc188db-e010-463c-972e-a6ec85db121e,Charlotte's snacks sucres,Sucre snacks sucres,13.34,Snacks Sucres,/api/qr/662abb09-0e13-473f-9eb3-cefb894edfc6
+60b00f98-80c0-4099-9fd1-475a6edfc8ce,Jennifer's desserts,Traditionnel desserts,2.19,Desserts,/api/qr/c09415de-12b7-4a79-8600-5a8a02f351b5
+5e1f5151-a696-40f1-815e-7e8be1fa4abd,Joyce's desserts,Savoureux desserts,7.04,Desserts,/api/qr/9cb64596-b67f-42a2-993f-0ca474e3fae7
+cc254607-d4c0-4b55-a942-3cebc95fbaf8,Andrew's snacks sales,Savoureux snacks sales,11.33,Snacks Sales,/api/qr/3e06965f-017b-4696-9df6-4a892286d037
+0c99bc5a-3ce5-44d1-8bd1-f074dc972774,Abigail's sandwiches,Copieux sandwiches,5.32,Sandwiches,/api/qr/9d0570a4-256e-4c5d-91b7-0b6c1b047575
+f4b56d21-cdff-41c5-a6e8-dc2a4fb9a7e0,Kathleen's snacks sales,Epice snacks sales,8.06,Snacks Sales,/api/qr/d7783af2-d19d-4db4-b1d5-ff88b5b2d1b7
+1499a860-e332-44ff-b298-578ddb75819d,Michael's snacks sales,Croustillant snacks sales,6.22,Snacks Sales,/api/qr/91f51f08-f880-4bf0-a2f5-fd490786b4e4
+f294f5be-d19f-46ab-b8d5-59498076d84c,Shirley's boissons,Petillant boissons,7.64,Boissons,/api/qr/e5062024-d9b6-478c-a85e-ae0f4b4651fc
+d3fdb6e0-2c62-4bdf-96a3-6c8a42086ab1,Leslie's sandwiches,Fait maison sandwiches,14.55,Sandwiches,/api/qr/b2282011-d140-4071-bd89-8b706e83011a
+41a96966-44e4-4827-ae0d-8405b6c6ce06,Michelle's snacks sucres,Gourmand snacks sucres,4.06,Snacks Sucres,/api/qr/4880996a-2909-428a-8318-6332997f330c
+55e1d8c2-d94a-4e9b-b0eb-974013e8a326,Ryan's sandwiches,Copieux sandwiches,9.08,Sandwiches,/api/qr/9ae3c983-1741-4c17-9f90-3ecdeb7658c0
+3456cfcf-e2b3-40a5-8a00-ae53e7ba154c,Jodi's desserts,Fait maison desserts,10.46,Desserts,/api/qr/c0705a02-fca6-43bc-afd5-55e8ff8084bf
+70be451f-790c-49f5-aa76-db6180e162f4,Cassandra's boissons,Desalterant boissons,4.35,Boissons,/api/qr/824b32b2-bc1d-4770-b3e4-57086b182c7d
+0462a224-2936-4ee1-ae02-275e474ab29a,Thomas's desserts,Fait maison desserts,10.87,Desserts,/api/qr/67278bc6-6613-4946-b7a9-1483fd25f337
+06d47e9e-ee77-4944-8efa-a013db434586,Jeanette's sandwiches,Copieux sandwiches,9.19,Sandwiches,/api/qr/ede74e6c-900b-46ab-a7e2-3d5f69daca30
+2231ef8c-023a-41bd-b8b2-78eed6434cd9,David's snacks sucres,Delicieux snacks sucres,5.15,Snacks Sucres,/api/qr/8ce4753b-8de6-4535-89da-ea5d0016812c
+7bc7a91c-c446-4259-90ee-71cea6175f27,Thomas's snacks sucres,Gourmand snacks sucres,14.36,Snacks Sucres,/api/qr/55af3798-0d45-4611-8be2-8b754cceeb49
+f8cccfe9-9ee0-4533-b08c-61d0c1c287f9,David's sandwiches,Frais sandwiches,9.76,Sandwiches,/api/qr/d62b36e3-b9ec-45e8-966f-ea6cb15e0a75
+beed4fdb-e871-4012-be70-11fd81063430,Luis's desserts,Traditionnel desserts,14.95,Desserts,/api/qr/0d585f30-38e8-45aa-ba2c-80c000a5dc3d
+42f75d5a-348a-440c-a3bb-7702d3376f3e,Gail's snacks sucres,Gourmand snacks sucres,2.08,Snacks Sucres,/api/qr/d5f869fe-22ce-4b9d-9a33-2f07924cb779
+ed2f14dc-1828-435a-854b-193d88033091,Lauren's snacks sales,Epice snacks sales,9.53,Snacks Sales,/api/qr/271cd6d8-9c8f-4f9f-8ccd-b48c1d499afe
+7aff4a7f-b3ab-41c8-8fb3-c687cb7888b2,Rebecca's boissons,Rafraichissant boissons,9.83,Boissons,/api/qr/8446275f-132a-494d-839b-c0b09816f5c1
+531292c7-29df-4ea8-987e-d2a8b3ed9441,Daniel's snacks sucres,Delicieux snacks sucres,6.26,Snacks Sucres,/api/qr/23b8fe62-0776-4cb9-b95b-582e7f812f6d
+cd841394-5bde-4055-9926-3b6622182508,Bradley's snacks sucres,Gourmand snacks sucres,8.32,Snacks Sucres,/api/qr/1e706530-7ce5-41b5-a275-2de1c96158d0
+3aa7d71c-94ae-4a2a-8d1e-d282536a356e,Laura's boissons,Rafraichissant boissons,8.4,Boissons,/api/qr/2d48081e-986b-45d3-b9b6-ad3bc90daf0e
+a0ec131e-4d44-4b42-a9a3-03f9eb31864f,Holly's snacks sales,Grille snacks sales,8.09,Snacks Sales,/api/qr/ad9140f4-2041-417f-bead-988e89f42a3c
+2c4b5f0f-73f5-4542-9881-edd1a1bcca3e,Earl's sandwiches,Frais sandwiches,5.25,Sandwiches,/api/qr/bf10e09a-d350-4383-8da1-af2d8ba83da3
+fa285c6a-966d-49a0-822b-39f9abcc2c5d,Ronald's desserts,Savoureux desserts,3.9,Desserts,/api/qr/37fbe249-72af-439f-8dfa-f6350f5f1672
+5211781a-6a72-4b7e-b43e-6fde51eddb66,Sergio's boissons,Energisant boissons,3.6,Boissons,/api/qr/a967559e-eae7-4893-b53d-c9aa302300ad
+18cd9748-2963-4215-b083-e813b616979c,Justin's desserts,Onctueux desserts,2.17,Desserts,/api/qr/513e8fbc-da5d-4ee7-b4fd-eb1bf0d30f78
+519ae567-93f9-4c7c-b292-7f604eece33a,Matthew's boissons,Desalterant boissons,3.27,Boissons,/api/qr/7572a64d-a1db-4fcf-8544-5796bbcca6bc
+bcfc59c7-dbba-47cf-91c2-cc1a259130a5,Brandon's desserts,Savoureux desserts,8.19,Desserts,/api/qr/039fd98c-d55e-404c-9415-23375d43bde9
+efd38e63-9739-4e06-9015-53458d7c3c01,Russell's snacks sales,Grille snacks sales,5.52,Snacks Sales,/api/qr/6f90801b-7d78-4e3e-8a37-1d15bd1e0e97
+6a7972ae-4868-46a9-85be-e5c79de2d19a,Teresa's desserts,Savoureux desserts,8.52,Desserts,/api/qr/5360339f-c67d-4821-9a4d-e4e4e8315b81
+ccb79abd-1af8-46ba-98d9-2e19b7d0d250,Michelle's desserts,Savoureux desserts,8.9,Desserts,/api/qr/1341c680-55dd-43df-8b89-c3e2fce7ee0d
+76afab27-41c3-47b0-88bd-293af3eba8ad,Karen's snacks sales,Croustillant snacks sales,13.76,Snacks Sales,/api/qr/5edce1f5-9f4d-4369-87b5-fc7c8a7e9a80
+fc089260-f42c-4045-8997-b4db71970636,Edwin's sandwiches,Gourmet sandwiches,10.82,Sandwiches,/api/qr/35ee3f58-31e4-4ee0-a396-374f6065f453
+7ce17bb6-750c-41e7-938d-649aa51e71b1,Stephen's boissons,Rafraichissant boissons,14.66,Boissons,/api/qr/b64b11da-b21e-423b-8ebd-adc032b057a6
+91cb0d29-0b1f-47a3-b58c-e88b2bd70a05,Rodney's desserts,Traditionnel desserts,2.1,Desserts,/api/qr/c0b89728-2fd6-41d6-9a70-4f1f429f687f
+1d187040-824b-43d7-b03a-64e28032163a,Jennifer's snacks sucres,Sucre snacks sucres,11.01,Snacks Sucres,/api/qr/3ab607cd-fd79-42da-93e0-9a901df7c136
+601db7df-5347-4816-8aa1-2d9dedeabd7b,David's snacks sucres,Gourmand snacks sucres,2.06,Snacks Sucres,/api/qr/8ad51ab8-cc5d-48a2-a49c-a0dce34d5983
+6b8109c8-f85e-438e-ae1c-561be23e37e6,Melissa's desserts,Savoureux desserts,11.84,Desserts,/api/qr/44ea7a3f-e2b3-47c4-b583-44757e26a41e
+d87ba573-2696-455a-a213-7b7b70f8eb4b,John's desserts,Fait maison desserts,5.25,Desserts,/api/qr/08c1c7db-2c4a-4dc6-8723-73dd7bde887c
+91a74541-1b56-419b-817a-39ddb9995286,Shawna's desserts,Onctueux desserts,13.32,Desserts,/api/qr/9ad6cc6b-bdfa-42a9-80b1-6b8a018d8c49
+1c8d05f0-d387-45d6-9544-5135e14b176d,Derrick's boissons,Energisant boissons,4.19,Boissons,/api/qr/a765974c-9956-410a-9324-993dd09fe188
+cd2f0afc-21f2-443d-9c8a-554d57ebc2b3,Shawn's desserts,Onctueux desserts,7.5,Desserts,/api/qr/8f2e7514-b2f7-41e6-b853-6c3411516a29
+c77b18be-d947-48ea-bdf1-a26d7e3755f2,Tina's snacks sucres,Gourmand snacks sucres,12.5,Snacks Sucres,/api/qr/86764724-7f3c-4934-aed2-62f7ac1d7aff
+71c46dbc-7cc8-44eb-acda-d79a9c58593d,Richard's sandwiches,Frais sandwiches,7.6,Sandwiches,/api/qr/6c74bfd1-4a1a-45dc-86eb-fac11ae9c89f
+3c364be4-16ba-4450-bfe0-dc84e15b9e17,Sara's snacks sucres,Gourmand snacks sucres,10.79,Snacks Sucres,/api/qr/38a5436c-c843-4898-bd28-0b84aba1bdbd
+d517f2c6-cf45-4dc0-a9ab-3bf15e3c1bda,Michael's desserts,Onctueux desserts,12.13,Desserts,/api/qr/9093a8b8-5fa0-42bf-a812-481e893197c3
+50429317-382c-49cf-bbef-3f2a61253346,Elizabeth's snacks sales,Savoureux snacks sales,7.2,Snacks Sales,/api/qr/16cec954-438c-4f59-a300-cadfd28d7f2a
+aceb4713-f153-476d-9062-dea8f9456f6c,Chad's sandwiches,Gourmet sandwiches,14.04,Sandwiches,/api/qr/f752bf2b-0be0-4563-95b8-3989f39c1864
+e8e85506-9748-4103-9619-80684509889b,Andrew's boissons,Petillant boissons,14.63,Boissons,/api/qr/44420006-800f-4656-bcf2-70747d0ef891
+0f66d2d5-32a1-43f6-94f0-849e779908ef,Amanda's boissons,Desalterant boissons,14.38,Boissons,/api/qr/5ff2a6f6-770a-4668-9cab-b32ce5563618
+076e9b14-888e-47a3-b511-77bf6ae86af1,Eddie's snacks sales,Savoureux snacks sales,7.7,Snacks Sales,/api/qr/3fe60b9d-3403-4a04-ae64-8c704a797315
+f596865d-bf33-41df-9683-fd9d85a91e99,Deanna's snacks sales,Grille snacks sales,8.86,Snacks Sales,/api/qr/1fe4a1b4-83d3-48ac-aed6-9add4cc15971
+f91f0f25-a31a-4ffc-8241-b056a1be1278,Rhonda's snacks sales,Grille snacks sales,5.6,Snacks Sales,/api/qr/38fd258f-33ca-4f06-887b-8e7ee49fe681
+6e58739b-99b0-46bc-b12e-ae933e700db0,Wendy's boissons,Rafraichissant boissons,8.56,Boissons,/api/qr/93fb60c5-6755-4bf1-aac2-07cb693dca96
+7d90d5bb-a607-4db7-bd41-c24aaa50b6d2,Amber's boissons,Energisant boissons,2.35,Boissons,/api/qr/eef474ca-b0e4-426e-8516-55f36f02313e
+c5895ee8-9359-46fe-9384-f3ff3dbaf1d4,John's boissons,Rafraichissant boissons,7.16,Boissons,/api/qr/fb4b88e1-8b2e-4a9e-8de3-79e125155402
+97bc8b3a-8cef-4b22-8c49-afa8ec8b25f7,Jeremy's boissons,Energisant boissons,12.86,Boissons,/api/qr/689f2e8f-40ac-429c-93e8-96475e3dbb96
+b4b82dd0-5654-4923-a1bd-52f11ebc64eb,Casey's boissons,Energisant boissons,4.73,Boissons,/api/qr/ab21ff06-d33e-4469-9c99-2d98ff98b05a
+44959914-7fa3-4625-9412-307cf0ae7e6a,Joseph's sandwiches,Copieux sandwiches,11.93,Sandwiches,/api/qr/d292f7e4-d549-4824-a436-25415731bcfa
+e0a5cba6-6442-4bf5-a894-c8e0bcc5472f,Patrick's desserts,Traditionnel desserts,3.53,Desserts,/api/qr/fb561c46-0b84-4ab5-8f23-878bd15e973f
+fa0ea402-dad6-418d-a064-6be6e3a11e63,Aaron's snacks sales,Savoureux snacks sales,6.58,Snacks Sales,/api/qr/9bd48338-5ce4-4765-9a35-b9b0991cf7d1
+10730f0a-e07b-464a-bad6-d0f064fb6e71,Adam's snacks sucres,Gourmand snacks sucres,2.16,Snacks Sucres,/api/qr/d561c00e-cc9c-42be-8184-bb6e5d231287
+4ba63b5b-924b-460d-ac18-cca7a9eb2ae6,Carla's sandwiches,Copieux sandwiches,2.94,Sandwiches,/api/qr/dc725d40-59dc-4a87-8998-2a097dd676d7
+fd91e756-3a7c-4992-ab7e-28aabf75602a,Tami's desserts,Traditionnel desserts,6.01,Desserts,/api/qr/52304275-47c6-4bac-94a0-8eb67ce25ec3
+0e96f2bd-7679-45e9-954c-bc9b2962abae,Danielle's sandwiches,Gourmet sandwiches,12.67,Sandwiches,/api/qr/5bef9a04-3f0c-4474-b460-59c61ff45394
+5a805829-198d-499a-ad8a-ac73302301df,Jeremy's sandwiches,Gourmet sandwiches,3.64,Sandwiches,/api/qr/5505758f-d560-49ea-8582-85798eb6c912
+b3f9d51a-0e63-495e-a763-7d7a4457e466,Katie's boissons,Petillant boissons,4.05,Boissons,/api/qr/7756162d-72da-47ee-bfd3-1eb565c4f0af
+d69e504b-5875-4948-a187-4819b0a85ed6,Andrew's snacks sales,Grille snacks sales,11.03,Snacks Sales,/api/qr/6cfa0008-f94d-468a-b9df-8f4c987cd6ff
+a6b6b36f-a3cc-4972-bf20-75cbea21df81,Carolyn's sandwiches,Copieux sandwiches,4.39,Sandwiches,/api/qr/bdf75ed7-d2df-44a9-a039-5292cbed3973
+444f3ea7-8caa-45b8-9b06-051c23ad3d3d,Kerri's desserts,Traditionnel desserts,11.49,Desserts,/api/qr/775d8a93-b8df-4598-a3c3-e8a2f84efa5c
+603e34e5-380b-400b-a1a7-a581a3f4d749,Jeffrey's snacks sucres,Delicieux snacks sucres,12.62,Snacks Sucres,/api/qr/258f5ffb-d39c-4193-80bf-e038e32b3ab9
+2121a9df-92f6-4a4c-92a0-43c29862455b,Jody's boissons,Energisant boissons,10.6,Boissons,/api/qr/3f4f26a8-9731-46ec-8966-4bfd8851b972
+40710d6a-769c-45b8-9e08-71939649c086,Jessica's desserts,Savoureux desserts,9.47,Desserts,/api/qr/cf226083-b541-41e0-a2b1-4733ddb56265
+ae238110-0e00-4e1e-9e3e-7834c58a5515,Samuel's snacks sales,Savoureux snacks sales,2.12,Snacks Sales,/api/qr/28169a08-85bc-4608-a0cd-0df7a0fc2341
+ad7c132f-e8ad-4c43-a12c-87fad9db4106,Michael's boissons,Petillant boissons,10.38,Boissons,/api/qr/4a3d3235-fd3b-42d9-a157-f41f5163e092
+61bd4330-5623-4874-a2c3-9f03196860f5,April's snacks sales,Croustillant snacks sales,4.51,Snacks Sales,/api/qr/1bdc6f36-e017-489e-9344-80b595f26bae
+ebbf6c9c-f5c9-4f0a-ad3a-27bccf0455ec,Cassandra's desserts,Onctueux desserts,9.72,Desserts,/api/qr/75d41d6b-ede7-4b5e-b940-0ddcb5e9f142
+b836fbfe-8319-40f1-9100-2a83e8ba857d,Christine's snacks sales,Grille snacks sales,14.27,Snacks Sales,/api/qr/5fae3534-c6e6-434a-99ce-00b3e0a555db
+562cea37-f51c-440f-be6e-48bb4e175966,Dylan's snacks sucres,Fondant snacks sucres,13.36,Snacks Sucres,/api/qr/e7e342f1-20c3-4f30-8a99-2cf426a10724
+82c13b60-8c55-4788-9c40-dd3c9ef393a6,Brian's snacks sales,Grille snacks sales,12.41,Snacks Sales,/api/qr/1fff6bd2-9489-4969-bf95-6c6f0b1c907d
+80d50180-f103-4aad-9821-51647f1756e6,Jennifer's desserts,Traditionnel desserts,7.24,Desserts,/api/qr/1ae7ddbf-df74-4b82-b333-d3b5d2c71bb1
+ab4f9c3a-30ca-449a-9be5-854c41c76daa,Elijah's desserts,Fait maison desserts,5.43,Desserts,/api/qr/6dd312f0-e3b5-4599-89cb-1073d03e4402
+2fa1e968-205a-42f9-b025-bd3cfe6611f9,Brittany's sandwiches,Fait maison sandwiches,14.81,Sandwiches,/api/qr/b519bf5f-8296-4deb-b409-bf65df1bb939
+fe6ddf2e-af48-4cfc-881d-118425144a0e,Christine's snacks sucres,Delicieux snacks sucres,5.82,Snacks Sucres,/api/qr/7ddb65cb-f6b2-4c91-a174-0eb1b6abb8b0
+c9de08c8-378b-4317-b464-f44c4fef1094,Amber's boissons,Energisant boissons,6.72,Boissons,/api/qr/f875c369-ccf5-4b00-9a2e-723d6d741cb7
+30e9bf96-48a0-4036-9fee-ba2710f60de4,Mary's snacks sales,Grille snacks sales,11.2,Snacks Sales,/api/qr/7fe7fb15-aea5-40c1-b675-e9e9744678c4
+0a63be9c-532c-48e1-9a04-5a32dd899d50,Sharon's snacks sucres,Gourmand snacks sucres,9.51,Snacks Sucres,/api/qr/f6e13b05-be2e-450c-aaa0-52ebfd5a9e29
+a7c1ea8c-f3f0-43e1-b893-28aeb62404e4,Rhonda's snacks sales,Savoureux snacks sales,3.43,Snacks Sales,/api/qr/8053ad45-294b-4450-887e-641677924755
+b68ecb25-f966-473e-9356-e299047200c5,Michelle's snacks sucres,Delicieux snacks sucres,1.24,Snacks Sucres,/api/qr/3645c969-10b3-46ec-8a56-7a9102a614c5
+931efec8-b8c4-4f68-88e9-9ebc670376d8,Shane's boissons,Petillant boissons,8.77,Boissons,/api/qr/563cbe74-3f3d-4dba-987d-f0e9a6600337
+35708fdb-c464-4d76-9d6d-c990ad212291,Shannon's desserts,Onctueux desserts,3.95,Desserts,/api/qr/b2760222-7e14-4569-966c-df66d572f91c
+fc1210d9-9a3d-4546-9c15-e476a9fc1077,Kristen's boissons,Energisant boissons,5.16,Boissons,/api/qr/6631562a-5e0b-4243-adac-c2dfa4bb4a4a
+30ec2124-a1a7-4531-ac8d-9f91e07b6095,Shane's snacks sucres,Fondant snacks sucres,4.8,Snacks Sucres,/api/qr/a3792b5e-04f3-4a6a-9de6-1973fac9ca84
+c79a04a8-6b41-46a2-a85f-6b8e8226825a,David's boissons,Rafraichissant boissons,10.31,Boissons,/api/qr/57c4b111-4a36-42db-8357-45cf5ef22fe4
+dac4b14a-f085-4497-856d-321d2c3b4e10,Jared's snacks sucres,Fondant snacks sucres,6.13,Snacks Sucres,/api/qr/adcb9fd7-87bf-452d-b3a9-081fd54f8c5f
+924976c8-f4ca-4dd3-b7a5-dcdbf9326d3d,John's desserts,Fait maison desserts,5.31,Desserts,/api/qr/f1232891-e63f-4581-80cd-46fac5e2ba48
+44a6b0cb-94bc-463d-abf6-521154973692,Megan's sandwiches,Fait maison sandwiches,7.35,Sandwiches,/api/qr/1bc6bb23-d6cb-4674-9d46-ecc1963a7106
+861067fc-951a-4a11-b8f3-cf8873472bf2,Keith's sandwiches,Frais sandwiches,14.71,Sandwiches,/api/qr/5d532b5a-0f54-40d0-9077-e685f518db7d
+b6d248b1-5be9-436b-82e1-85847049547a,Michael's desserts,Traditionnel desserts,5.88,Desserts,/api/qr/c387854d-c12e-44e4-aadb-db9283d5c94f
+b074a5a1-9078-4171-bf85-8302310b577d,Michael's desserts,Fait maison desserts,9.3,Desserts,/api/qr/3fb2a1e3-794f-460a-9124-e4efd5de6276
+66263263-00fd-4580-9bfd-3c57153607ed,Matthew's desserts,Savoureux desserts,11.61,Desserts,/api/qr/7b89426a-1db7-4b70-bc1b-626b6296ac46
+b9c623da-9040-4971-9fae-ac95b18cbaee,Stephanie's sandwiches,Copieux sandwiches,8.59,Sandwiches,/api/qr/1168a35b-0a06-45b9-8f4c-01b5cfc28c59
+cf685a91-5e74-4a5e-bdde-5534ff2c9fe0,Joshua's sandwiches,Frais sandwiches,5.05,Sandwiches,/api/qr/41f141ce-6763-4167-a4b7-ac1d2cfd8c0c
+4d223a22-e573-4bf4-9028-61d57f76c459,Hector's desserts,Traditionnel desserts,8.3,Desserts,/api/qr/e610cfd3-c81a-407c-89be-60fc8c437164
+06a1508b-e8f2-433b-880d-804803b2c256,Jessica's sandwiches,Frais sandwiches,14.29,Sandwiches,/api/qr/91fea583-adc9-4e86-a4d2-404d32b0f312
+ea98316d-4ab6-47d8-a021-f61724e890e1,Jennifer's boissons,Desalterant boissons,9.89,Boissons,/api/qr/0f42f002-7a5c-4469-b8ac-f0d1fff7491f
+d3b6804d-2ed2-46be-b3c4-9b0377a6509d,Alyssa's boissons,Desalterant boissons,5.19,Boissons,/api/qr/68140611-e3cb-44a7-aedc-1d5b58cc0a7c
+7a19c424-8cdc-408d-badf-dd3c3cb5c2af,Christina's snacks sales,Grille snacks sales,3.71,Snacks Sales,/api/qr/fd3155cd-5756-4c0a-99bb-fbe78513d1a9
+7ced0846-4483-4d65-822e-de4c02d9df2c,James's boissons,Desalterant boissons,13.74,Boissons,/api/qr/6ec248aa-a52b-4210-914c-27d40d8119f1
+fae5306f-df36-4ef5-8ebc-73727d4e96db,Ashley's desserts,Traditionnel desserts,4.1,Desserts,/api/qr/a9ee41a4-3bb9-4326-a376-9cd477d33ba0
+045cee4a-482e-4944-a94d-a6d7c08f6e58,Kristen's snacks sales,Savoureux snacks sales,4.37,Snacks Sales,/api/qr/63c311fe-ace9-4a19-8ce0-33abf60e55e6
+9311e61c-79a2-4e41-a41d-4f668435fb0b,Barbara's boissons,Energisant boissons,7.02,Boissons,/api/qr/c64428f4-e83d-4833-8746-1ec21a2594f6
+ccf6b9bd-d3b0-4f10-a18a-ede719faf079,Daniel's boissons,Petillant boissons,9.56,Boissons,/api/qr/66be633e-2faf-4077-9faf-d1675af9837b
+ebc3b14b-4d26-4e36-9d94-da7a774c6380,Jason's snacks sales,Grille snacks sales,6.74,Snacks Sales,/api/qr/9d4540c9-e630-4ac8-91a0-3f71ad3fa636
+0563a812-b5f4-4353-b638-0c5b4441be0b,Tony's boissons,Energisant boissons,2.69,Boissons,/api/qr/caee4776-ee33-44df-889f-e86bcc43c202
+09702681-70d1-46cd-93dc-542df2181e31,Jeremiah's boissons,Rafraichissant boissons,14.19,Boissons,/api/qr/b57a4720-d1f7-4dad-a846-ae20e4c79b78
+87614ccd-433b-4a85-8c9c-32f41fb74254,Jason's snacks sales,Croustillant snacks sales,11.39,Snacks Sales,/api/qr/fe6f0525-3417-4526-85f1-053072f490b7
+d8b2b360-82e2-4de9-b7d9-f9becc1edde4,Scott's snacks sales,Epice snacks sales,13.11,Snacks Sales,/api/qr/1a05038c-5c7c-4238-8d02-21dd8863734e
+ad256056-a02d-4ef6-a4a5-d4380d070116,Candace's snacks sales,Epice snacks sales,2.16,Snacks Sales,/api/qr/26d4a693-2855-4a4c-9f8f-e3f7d2b3f59b
+f06129a9-d336-4029-9ab6-d76c63dc593a,Nicholas's snacks sucres,Sucre snacks sucres,5.46,Snacks Sucres,/api/qr/07b7a11d-93fc-41cb-9330-efbcc401bd40
+a73d1380-e27e-4b1e-b1ef-2880f91bfac9,Jessica's snacks sucres,Fondant snacks sucres,4.64,Snacks Sucres,/api/qr/0984ed37-4160-409d-b88a-2f8e395cd62f
+7b586f9f-fffe-412a-9bcd-babaca0ce3b3,Ryan's sandwiches,Copieux sandwiches,13.12,Sandwiches,/api/qr/0ba5d857-2f32-4e2a-9e4f-03fe95d1bb17
+4967c09e-44e1-4a6d-8b15-2818fa47009a,Timothy's snacks sucres,Delicieux snacks sucres,12.04,Snacks Sucres,/api/qr/4e625182-74cc-4c95-980c-3bdb9e399b6d
+674c2e43-588d-46f9-9ea1-87ed550a06c1,Michael's desserts,Savoureux desserts,5.08,Desserts,/api/qr/f5c6bd86-e730-470f-ada1-cec31c739446
+5506f311-17a0-423d-b4b9-90b9a5f23adc,James's snacks sales,Grille snacks sales,5.28,Snacks Sales,/api/qr/cdbcdd6b-befd-4412-8907-e4b4291fc188
+be9f239d-3566-443c-9546-a4803346c1e2,Craig's sandwiches,Frais sandwiches,14.27,Sandwiches,/api/qr/621d2412-8127-4802-b8ae-cded87de1644
+8fbec950-29a1-43ff-b562-ff8e1a7a4031,Christina's snacks sucres,Gourmand snacks sucres,12.9,Snacks Sucres,/api/qr/0edbfa9e-fdba-496e-b32f-8ca1e12cd610
+804f52ca-1f5b-4bae-8dd2-d54be6812ac9,Joanne's snacks sales,Grille snacks sales,8.66,Snacks Sales,/api/qr/b6dffc28-6b79-40b1-92e3-1df5ce347488
+9c130b8b-850c-4f4c-bf71-fb149242aaf7,Sophia's sandwiches,Copieux sandwiches,7.44,Sandwiches,/api/qr/37ea8534-15c1-44df-a26b-73b175c4c269
+b08e78df-922a-48f9-ada4-828242d6e868,Manuel's sandwiches,Gourmet sandwiches,5.71,Sandwiches,/api/qr/2d6b6687-f406-436a-b205-d216e614a722
+1fc5a1a6-e03a-44a4-a783-148cf58337fc,James's boissons,Energisant boissons,8.95,Boissons,/api/qr/f47f5412-0e95-4c26-a304-82629b8f97f3
+61d162ea-a03c-4d66-a37a-14c37d6b98e6,Mallory's snacks sales,Grille snacks sales,3.33,Snacks Sales,/api/qr/57458654-c205-4a43-9810-52fbb306a352
+40b4b354-2f10-4fb3-8ec7-cfff80fa8e18,Kevin's snacks sales,Grille snacks sales,1.11,Snacks Sales,/api/qr/1a22a759-a8c9-4761-80f8-72ca2bcde72f
+91fa986b-c33a-42ab-882f-058208c849b0,James's snacks sales,Croustillant snacks sales,13.05,Snacks Sales,/api/qr/95cc971e-c7f6-4de8-899e-2333158b5afd
+3870c3f5-1e2a-405d-8736-93f88920f9ea,Alejandro's snacks sales,Grille snacks sales,1.97,Snacks Sales,/api/qr/46e67977-98ce-40a6-b167-f89452671348
+57099c12-f500-43ab-a06d-1bd0e646a6e9,John's snacks sucres,Sucre snacks sucres,1.95,Snacks Sucres,/api/qr/88cd9b3f-70d3-4bcf-8e8e-23d8bd1174bc
+93569eac-c2bc-41c0-970b-b3cd36e6ca8a,Katherine's boissons,Energisant boissons,11.66,Boissons,/api/qr/b58940ef-269f-4162-b87a-35adb6d70fbf
+74da57c4-17db-488e-b450-3d7534e4f0f8,Laura's desserts,Traditionnel desserts,10.32,Desserts,/api/qr/d46d7421-ee2c-4524-936e-09184881e8d9
+9f620a77-829a-4081-83e0-6e4a87f7eade,Maria's snacks sales,Grille snacks sales,1.22,Snacks Sales,/api/qr/fa6d18c8-5e91-44aa-b858-01706692aea7
+5c112cbd-6374-452f-b88d-1d2c4305cf34,Amy's snacks sales,Croustillant snacks sales,8.12,Snacks Sales,/api/qr/6ac9bcf0-b81d-4174-a258-3182e6e0ac86
+e0da45d0-ed8f-4de7-ae53-41dd923ac5c8,Christopher's snacks sucres,Delicieux snacks sucres,4.76,Snacks Sucres,/api/qr/c5e366ac-04a7-4ee3-b63d-4b948e44600b
+edf5aaa0-9b78-465d-85c6-8cb34e98dc34,James's snacks sucres,Sucre snacks sucres,1.66,Snacks Sucres,/api/qr/94111e15-d3b9-4ffd-aee1-075caeab9510
+a8aa7001-b900-4c79-bf88-ef2182b3edd9,Brendan's sandwiches,Gourmet sandwiches,10.5,Sandwiches,/api/qr/9aef893c-093c-40dd-92b0-295638b2277e
+600dc3c2-60e1-4b04-8ff6-2c3714e03a01,Sabrina's sandwiches,Gourmet sandwiches,12.72,Sandwiches,/api/qr/53c5152a-71d6-4101-aac6-7b39a87ff380
+4d2b10b7-27fd-4903-b1c2-47666b61ff60,Felicia's snacks sucres,Sucre snacks sucres,10.26,Snacks Sucres,/api/qr/13166331-e8fa-4759-a9c7-174c8de45ea9
+3a77ccb2-65c2-4f17-972b-cafb31acd9ff,Crystal's snacks sucres,Sucre snacks sucres,10.68,Snacks Sucres,/api/qr/b5fc1399-b700-452d-94c1-542e41a8ac8f
+b3ac921c-0a80-40dd-909c-d0794a3995e9,Aaron's boissons,Desalterant boissons,9.63,Boissons,/api/qr/b5108e8b-849c-4ff8-a6c6-721201562164
+11f873d4-0d2d-4f09-9717-418441cde47f,James's snacks sales,Epice snacks sales,9.94,Snacks Sales,/api/qr/c1ec8b96-05b2-48eb-aef5-82d7ee24de2b
+1c0e3da5-b256-46d4-a439-59d0b3898916,Chelsey's snacks sales,Grille snacks sales,2.77,Snacks Sales,/api/qr/f1bac1df-dee2-40a5-aea5-f80f38434259
+84380520-2bcb-4b0d-a5dc-6aba98f0ebb6,Tara's boissons,Desalterant boissons,6.76,Boissons,/api/qr/a787be3d-902c-4d3f-884c-53f048fdaf51
+99c542a9-c47f-4fe4-82ea-1ec54a58e8d3,Steven's snacks sales,Grille snacks sales,8.79,Snacks Sales,/api/qr/4e82e761-7a80-4bc7-9623-fbdbdf27f5e5
+560661bb-ee73-4ccc-b451-e085248525f5,Susan's sandwiches,Fait maison sandwiches,13.12,Sandwiches,/api/qr/981faee1-079f-4412-a65b-44376de701f8
+189a67a4-f043-4155-9bb0-cc54a7f1ac85,Tommy's desserts,Onctueux desserts,2.47,Desserts,/api/qr/925b9995-b662-4bd4-b766-95ed4bfe4d05
+690ad43b-3cb6-4563-8df5-943285493a0d,Karen's desserts,Savoureux desserts,6.91,Desserts,/api/qr/9e6b7988-7a59-42cb-9afb-a90b06aa1bcf
+0d719373-5173-40bf-8f92-b2e09a6b481a,Michelle's boissons,Energisant boissons,10.34,Boissons,/api/qr/8557b691-e623-40d6-9f60-029f07d181e4
+091225aa-a119-42bd-ae2c-7178a95c1de9,Amy's boissons,Petillant boissons,13.19,Boissons,/api/qr/d7b2c2e8-a990-4d63-8394-a3d1c85879e4
+196588b5-46bf-4f6b-80c8-4f7cef4e69bf,Sarah's snacks sales,Croustillant snacks sales,1.27,Snacks Sales,/api/qr/f2a8de07-248c-4fbe-b187-0146db218ce6
+d724b007-6188-42b5-ba1d-939a07328b54,James's snacks sales,Savoureux snacks sales,11.43,Snacks Sales,/api/qr/063ecc66-8026-45c4-91de-840a1d93f5ca
+57769a05-6420-401c-b4d6-aaf60b07778a,William's desserts,Traditionnel desserts,4.22,Desserts,/api/qr/a434a618-09d3-40b5-8e02-ddbcf51c66da
+df170183-d634-4806-ab5a-d0a133f9bb21,Gloria's snacks sucres,Fondant snacks sucres,8.8,Snacks Sucres,/api/qr/6bf695c2-6deb-4f76-bfa1-cb48d16737f5
+da39a99d-b64a-4640-8dcf-e6c6b86578f1,Sarah's snacks sucres,Delicieux snacks sucres,6.09,Snacks Sucres,/api/qr/25103ea9-bad7-4339-8b9a-a1ce2deb01d2
+4bec4a54-01dd-4d1c-ba81-daedf9baee54,Tanya's snacks sucres,Sucre snacks sucres,9.67,Snacks Sucres,/api/qr/62d5b555-44fa-4155-bd12-cc8a91b35e22
+8e662543-0471-40f3-be7f-331ddbc2273e,Robert's snacks sales,Epice snacks sales,14.71,Snacks Sales,/api/qr/42790a2e-8e48-4592-b8ba-8d6c44178d03
+297e544d-df02-4621-8b82-25dbb70824da,Carol's snacks sucres,Sucre snacks sucres,7.86,Snacks Sucres,/api/qr/14b94cfe-2ee8-4e00-970f-379f02fe4593
+0fc40377-340e-40aa-a93a-f01bea14a650,Edward's desserts,Savoureux desserts,13.87,Desserts,/api/qr/2183e0a2-e8f1-4562-96a6-be4fc93545e9
+cf8c394f-3b6b-450f-86f9-87802c4d5b01,Heidi's snacks sucres,Fondant snacks sucres,8.71,Snacks Sucres,/api/qr/878be68b-4b23-4439-971e-fb1a0884d5f4
+912cdb1a-f326-4c9c-b743-7335d571085b,Albert's snacks sales,Savoureux snacks sales,13.18,Snacks Sales,/api/qr/d6a3c5ce-ada0-4d66-93f2-735cbae732aa
+6c98339e-2d76-41f5-9b08-1c728d3a716d,Joann's snacks sucres,Delicieux snacks sucres,10.04,Snacks Sucres,/api/qr/f8124e4f-602e-4066-8d7b-30c1dd3f378b
+9c355aa7-91ad-4d92-9439-7f646ef95b25,Angela's snacks sucres,Sucre snacks sucres,11.13,Snacks Sucres,/api/qr/4c3db0d1-feff-4171-98bf-81bc4a25985c
+d4cd9e59-9e23-4daf-9353-22da2dfe79b9,Justin's sandwiches,Frais sandwiches,4.53,Sandwiches,/api/qr/b19374b8-f261-4a86-ba93-cde4ae1817aa
+2fc74e9d-77d7-490b-b8d2-0290fe45e091,John's snacks sucres,Gourmand snacks sucres,4.53,Snacks Sucres,/api/qr/c0334163-83f6-4220-8a5e-737cdb4731a6
+6a7777f3-ade4-407e-952e-970a40ad7588,Jasmine's boissons,Energisant boissons,5.69,Boissons,/api/qr/4c6141ed-010e-4bc9-91c8-263f7fc30b90
+be2049b7-adf4-43e9-8ad9-73b6d9b08568,Hayley's snacks sales,Grille snacks sales,3.84,Snacks Sales,/api/qr/7d7b299a-445f-4638-8b70-0d52a4e29ee0
+5cbfc3f3-1f4f-4547-a2f6-c1c9e0b79686,Richard's boissons,Energisant boissons,11.88,Boissons,/api/qr/1971c973-7ec6-4f39-bfef-69838032adea
+cd6650d0-002a-4c21-a0d3-6de14f0f6c3a,Heather's desserts,Onctueux desserts,11.59,Desserts,/api/qr/1d27f3cc-9f05-4206-b82d-34f4725491d3
+78d4b6a7-b9e0-41f6-85c0-d44bdaa268b5,Cynthia's boissons,Petillant boissons,5.75,Boissons,/api/qr/06c375dc-b5aa-4958-b9ee-dbc342670263
+afeebfd1-cfeb-48a4-b1af-71acd030e823,Sara's snacks sucres,Fondant snacks sucres,13.93,Snacks Sucres,/api/qr/9584260c-860e-4260-9e06-680b58bd186c
+71fe6797-7da4-4a4a-8fb2-c766ad82d31d,Frederick's boissons,Petillant boissons,14.56,Boissons,/api/qr/3f23ffb1-2ba3-4cc0-a481-945e71ba2b46
+29d94a6c-04d0-4d03-863d-b150883c3ee5,Molly's sandwiches,Frais sandwiches,9.28,Sandwiches,/api/qr/38d6a097-2a05-490c-adfc-e4a9a5080918
+8ccb6f37-a011-4b6f-b3b6-4c0822a992c5,Christine's desserts,Onctueux desserts,10.03,Desserts,/api/qr/0d7bcb3c-1991-495c-be9b-ea1747c1084f
+e3a85cc5-1087-4e59-aba1-5973d208c9f7,Natalie's sandwiches,Copieux sandwiches,4.02,Sandwiches,/api/qr/cbc5c670-9c8a-4c57-bbed-106369045a8a
+94c3d06a-f55a-41e3-9394-e95ed349ca0b,Kimberly's boissons,Desalterant boissons,9.8,Boissons,/api/qr/6f39d919-c569-441d-9863-f4077daa2bcb
+55c5a426-6831-47bb-9749-efd4d993ea0d,Jennifer's sandwiches,Gourmet sandwiches,12.0,Sandwiches,/api/qr/4e5b32ce-739b-4d2a-ae7e-f5b1c9efca1e
+c916961f-430e-4c28-a417-16931d020f9c,Melinda's boissons,Petillant boissons,11.94,Boissons,/api/qr/61651b06-063f-4d35-8d35-845986c6f6ac
+441933bf-0326-47c2-a1d4-122072fa9997,Lauren's sandwiches,Copieux sandwiches,6.31,Sandwiches,/api/qr/0f84ea0c-c0d6-4565-b766-056d2ba09eb2
+0b127268-57d5-4d86-97fd-b9a187ce9e42,Duane's boissons,Rafraichissant boissons,9.45,Boissons,/api/qr/7f79e469-5e23-4dbc-978b-594f811e5b7e
+2c14fe72-2e85-4a97-9f66-151b21c68b12,Adam's snacks sucres,Gourmand snacks sucres,2.65,Snacks Sucres,/api/qr/228f2da5-30d4-4c37-885d-e1bf3a809c22
+4c94af3d-6b32-44b0-9c9d-3881ffdabd80,Brandon's desserts,Onctueux desserts,13.59,Desserts,/api/qr/981bd823-48e7-48c5-a0b4-01ed7f7dacee
+c8b3a508-e18c-42fb-ac7c-dd97c75c1a5a,Philip's desserts,Fait maison desserts,3.36,Desserts,/api/qr/474b2a8b-87b3-4817-b0d6-f76ed1e188ba
+7f6cbbcb-d9d7-4e2c-b41e-b89112596e98,Carolyn's boissons,Rafraichissant boissons,5.16,Boissons,/api/qr/e1961f60-cc67-4b7a-ab75-c58d42991431
+b8634e13-007a-444c-8874-c38d4e7ee5e7,Brian's boissons,Desalterant boissons,9.76,Boissons,/api/qr/15723e16-a22a-417c-a7ba-68cab7ec48fe
+7ceffe71-5374-48d1-8b44-437953a27f4e,Brent's snacks sales,Croustillant snacks sales,2.02,Snacks Sales,/api/qr/5b29d3ba-7892-4065-be10-779806a8d9b3
+400bd179-b6f9-44fc-802b-21c2d810e9f9,Ashley's boissons,Energisant boissons,3.58,Boissons,/api/qr/7289ecdc-65f5-4f75-b443-ae4091eeb692
+722fc662-22ab-4b47-9fc3-c8f36fdbed15,Brenda's snacks sales,Savoureux snacks sales,2.75,Snacks Sales,/api/qr/560939fb-8169-4749-837a-1c7eef60ed49
+680d46dc-203d-4c48-8a4c-713429935c86,Wayne's boissons,Petillant boissons,11.93,Boissons,/api/qr/a2edeb3f-cc08-4526-8555-41ab5f0437bf
+f40c66f6-9402-429d-b6b9-2850ed766b97,Ryan's desserts,Onctueux desserts,13.17,Desserts,/api/qr/645da7f1-72e9-4aa7-8719-7530d5102018
+96906d39-0c93-498d-a077-9992eaa19977,Timothy's snacks sales,Savoureux snacks sales,11.38,Snacks Sales,/api/qr/ff94cd36-22a9-4300-8b5a-535f82d8ca50
+9ee7a870-6524-46d6-9282-0763ed60fae5,Frank's boissons,Desalterant boissons,6.61,Boissons,/api/qr/a001cac6-512d-4a88-a057-536ef5a4c5b0
+d4164339-3ece-4408-91ec-69ee9c3da4b0,John's boissons,Desalterant boissons,11.34,Boissons,/api/qr/a7e49688-c46c-4b3a-96ee-b10ab3cd17c3
+ceb6c737-84d0-4f0e-a218-c6dda2894313,Diane's boissons,Rafraichissant boissons,12.07,Boissons,/api/qr/477ea899-208e-49de-9dcf-88f4d7ce4f6a
+70fdaf51-70cc-41ad-bd2f-099548a59991,Jason's snacks sales,Croustillant snacks sales,14.31,Snacks Sales,/api/qr/6bc60afa-cb8e-47f6-9e26-25729ce6e92a
+a2264e83-055c-4996-803c-6835126b4c13,Rachel's desserts,Traditionnel desserts,6.32,Desserts,/api/qr/a82f49d5-50e8-4c64-99f8-4c770f5d8dcb
+23bc3f83-5446-4aac-a10a-1f3c28b932a4,Lisa's desserts,Fait maison desserts,6.2,Desserts,/api/qr/348e20b9-d512-4557-8f02-4eae62cb51f1
+17088a62-23a2-470c-8f6a-12da0b3e4f88,Cameron's snacks sucres,Delicieux snacks sucres,7.6,Snacks Sucres,/api/qr/03c00385-4e2d-4111-b5c8-39833f579c6f
+0f1f484b-ddf5-47e0-9ad7-68b6556a52e7,Jennifer's boissons,Energisant boissons,3.42,Boissons,/api/qr/37f470a2-0fe4-43db-9395-22e14ee18435
+0fec297e-f1a7-4613-9057-79226897101c,Michelle's sandwiches,Fait maison sandwiches,6.64,Sandwiches,/api/qr/49e46bb6-5538-4b52-ab95-e8b3ef2dbdf1
+65b65c1f-f88b-47a6-a91b-324f08a03c48,Elizabeth's sandwiches,Copieux sandwiches,1.53,Sandwiches,/api/qr/7b36ef68-6017-4f1d-a626-b94f44af33bb
+58a2466b-0196-4a91-bbce-ccef208309d6,Amanda's boissons,Energisant boissons,3.4,Boissons,/api/qr/d33c0770-e4fb-4b28-a6dd-5f7656764d5a
+02cfbfc7-f1c9-4bb6-a05d-70d802ef88f4,Oscar's snacks sales,Savoureux snacks sales,8.17,Snacks Sales,/api/qr/db8ec85f-cefe-4383-a966-dd80496c6c86
+535a5834-a064-407f-a80b-78afda96090e,David's snacks sucres,Delicieux snacks sucres,4.0,Snacks Sucres,/api/qr/682746f9-4fbc-4c4e-948b-e4357b04671e
+21651c19-c480-4284-aeb9-c71c854927be,Cynthia's boissons,Energisant boissons,4.08,Boissons,/api/qr/d0a1e8b0-0aaf-4c6e-89d9-e108583633d0
+d737b757-a9f0-4416-8640-927e0faa37d3,Nicholas's snacks sales,Croustillant snacks sales,4.76,Snacks Sales,/api/qr/31188d9a-d0a7-4116-bb17-5384892ad7ec
+f08ec36d-9b74-4bfc-a8a7-7d604e08d1de,Richard's boissons,Desalterant boissons,12.78,Boissons,/api/qr/a1c9a984-eecf-44b5-83be-264418034e75
+0df1a0e3-a1e5-4c0b-96d9-4581811a6942,Eugene's sandwiches,Gourmet sandwiches,9.08,Sandwiches,/api/qr/ed07f19f-af58-4a09-ad78-18c9a352a070
+315cafd7-4f49-4b2d-8ccb-26ca06f71205,Sarah's snacks sales,Epice snacks sales,10.11,Snacks Sales,/api/qr/af8e2db9-bda2-49ff-8020-4ab04b1e0607
+e18b84b5-36ea-4042-a247-a98b6939bcf5,Danielle's desserts,Onctueux desserts,9.63,Desserts,/api/qr/27bd1e1e-b654-4d99-9193-0d3c3ea89a66
+44e58398-3590-4fb2-81c9-361c8604924a,Destiny's desserts,Fait maison desserts,2.03,Desserts,/api/qr/69ebb38f-b7a0-49bf-98cf-970886541e94
+8b7c9ac9-e217-4901-a3e8-0d1cdaf0f5db,Faith's desserts,Onctueux desserts,11.04,Desserts,/api/qr/5c2fd7b6-1be1-4785-862b-d1a509a41dcf
+58f4e7de-c942-4e75-9e26-cf9e29a05c3a,Danielle's desserts,Fait maison desserts,5.27,Desserts,/api/qr/242b43dd-bb1a-4f4e-bbcd-279b56905ad3
+1bb06a57-7202-4633-a20d-3981039900af,Nathaniel's desserts,Traditionnel desserts,1.77,Desserts,/api/qr/79467d02-f37a-43e8-89be-ca67330c2c7b
+aa4f8202-e6cd-4bc6-b209-e0db2a64ff4c,Erin's snacks sucres,Fondant snacks sucres,12.97,Snacks Sucres,/api/qr/31061d66-65b9-4d62-810d-ccec9d72f9f4
+91363b3f-0dd6-4406-b731-28e61988730d,Christopher's boissons,Rafraichissant boissons,7.93,Boissons,/api/qr/5cc4209c-a33d-483d-a646-bd28104f61a4
+1fa03d0e-e0f1-4976-9bb4-c092ba3270ec,Brianna's boissons,Energisant boissons,6.63,Boissons,/api/qr/972a5224-f6d6-44ef-a8ae-0faeaeb0fd5d
+9a2a8f29-efb8-4874-9ff0-e8d35693804b,Drew's snacks sales,Epice snacks sales,5.62,Snacks Sales,/api/qr/1c672bfe-e4b3-46f5-88d9-705ff435b2dd
+7f6327ac-839e-4b8f-b651-30017161f4ed,Donald's snacks sales,Epice snacks sales,12.48,Snacks Sales,/api/qr/aeecacf2-203d-4d6d-91be-1c9792a128e0
+d3000ffc-16b7-4541-a9c6-f3f1e1cbc156,Connie's snacks sucres,Gourmand snacks sucres,10.53,Snacks Sucres,/api/qr/8f2db8be-bb38-4452-9a6c-1e1470b85e8e
+4eed23ab-9b60-4ba4-a1af-6282e67ea2b3,Beverly's boissons,Rafraichissant boissons,2.39,Boissons,/api/qr/a23c6057-0a28-453b-8f42-42bba50f9d18
+a0737abc-0c68-4b71-b24e-a32ea8ffe90a,Joseph's boissons,Rafraichissant boissons,11.22,Boissons,/api/qr/6e7999ed-e0c7-4e43-b029-f5649b1d33eb
+a7c764bb-890a-4ac7-adc7-70bf75c5ae24,Justin's desserts,Onctueux desserts,5.46,Desserts,/api/qr/1c504426-2ecf-4593-8e12-775d2ba05eac
+c5b82c4f-2c09-49d9-95f1-0333b6dcc93d,Manuel's desserts,Savoureux desserts,9.76,Desserts,/api/qr/39821eff-9bdf-4512-a251-06fcb0716d9e
+c07d79f7-4337-4717-986f-9b2d7f05e024,Angelica's sandwiches,Frais sandwiches,14.79,Sandwiches,/api/qr/b0d8e811-6c12-4cb4-b107-306d6074506b
+f5e0c49c-a511-427d-895e-f80aee03c08a,Theresa's snacks sucres,Sucre snacks sucres,3.11,Snacks Sucres,/api/qr/0a9c996f-9e7c-4b7e-b278-abc12e87e764
+1c29a07d-0c60-484e-949f-27bb186d2235,Emily's snacks sucres,Delicieux snacks sucres,5.77,Snacks Sucres,/api/qr/f152f664-80ba-4acd-a83d-36dbe7887c36
+b45277c5-f410-4ad5-870c-aee5a69c34a7,Kevin's sandwiches,Gourmet sandwiches,9.01,Sandwiches,/api/qr/ec9fa955-1899-42ea-a0e8-59c81638584f
+46808d7f-1466-41ba-97cf-932fdb5bb0da,Evan's snacks sucres,Delicieux snacks sucres,4.2,Snacks Sucres,/api/qr/b2b81306-5436-4e19-85a6-d8f8357f88ca
+79056099-28d9-412c-84ff-b180cd8230f3,Dawn's snacks sucres,Fondant snacks sucres,12.73,Snacks Sucres,/api/qr/0c9a194e-28c0-4231-b2c2-3e820be2d2b8
+c477ecfa-67e3-4aeb-b84a-c6486463c23a,Ruth's snacks sucres,Sucre snacks sucres,3.77,Snacks Sucres,/api/qr/7df1cd94-6d5e-46c1-9cbb-8b590dd30834
+3b0641c3-a97f-4abe-b5da-3f219bdb4bb9,Dana's desserts,Onctueux desserts,14.61,Desserts,/api/qr/660779cc-8997-4ca0-a43d-ec8f6a48c18f
+439a35fe-18cd-4bef-84c9-8411d4bd2a2c,Danielle's snacks sales,Savoureux snacks sales,1.69,Snacks Sales,/api/qr/0a366b46-e35c-4477-b65f-8b86b16f6a06
+1ed6c024-fd0c-409e-b19c-64f3e95d9848,Jeanne's desserts,Traditionnel desserts,10.48,Desserts,/api/qr/2da47155-d22e-4c27-94c8-59a164e7545a
+f265c9d4-f625-4807-9e10-8f5bf244af8a,Crystal's desserts,Fait maison desserts,13.42,Desserts,/api/qr/1516fa11-51bd-4269-870e-1b2b51fd65d0
+249a866e-0a1a-4551-a882-96878a2c5d8f,Crystal's snacks sales,Savoureux snacks sales,1.6,Snacks Sales,/api/qr/f074cc23-be40-4ea0-9f6a-257407826c66
+d3ff7d80-be1e-43bb-b5f7-ec941e95d0a4,Kevin's desserts,Fait maison desserts,2.41,Desserts,/api/qr/660526f7-adc8-456c-9fa4-98a0cc0d89aa
+2571d7dc-8c89-4b6a-aafc-3fada2fe8121,Steven's sandwiches,Copieux sandwiches,4.94,Sandwiches,/api/qr/a844ff89-35ba-4cad-ac35-8445abdd63e4
+da49950e-a908-4d3e-8c40-6a8b0cd85eef,James's snacks sucres,Fondant snacks sucres,3.03,Snacks Sucres,/api/qr/8c59fdfc-c254-4c8c-a244-c0902325d388
+e339d380-d6ae-4feb-98a5-e87f11e4b817,Felicia's boissons,Energisant boissons,6.8,Boissons,/api/qr/68212fa0-0ae4-4c0d-81db-b8f82f156c54
+da363f55-591c-4080-8236-f6babb6e2af9,Kirk's desserts,Fait maison desserts,3.6,Desserts,/api/qr/8410d35d-9b8e-4bb1-8abf-1fe5f95254c2
+0851de5a-e0be-4e9d-878e-26b03f5862fc,Olivia's sandwiches,Frais sandwiches,13.7,Sandwiches,/api/qr/f255dcf4-ee47-4414-8de9-566ef9cf2ac0
+58bf7e18-a1d5-4237-8165-44817c7a8985,Timothy's desserts,Onctueux desserts,14.94,Desserts,/api/qr/a52f752c-e97d-4a8d-8a6b-a3f37cdaa9de
+70b9c2c8-dd56-4532-b4a1-2c59415f43d0,Holly's snacks sucres,Gourmand snacks sucres,1.54,Snacks Sucres,/api/qr/b9fc52ad-385f-4bbc-8949-50ae04303470
+ae9706c1-5386-4350-b4b6-0a057b16b694,Kevin's snacks sucres,Fondant snacks sucres,1.9,Snacks Sucres,/api/qr/ec43117d-3299-4809-b335-fa4b2831442e
+bd6fb43a-f685-47cf-be95-9fbe233d0277,William's snacks sucres,Fondant snacks sucres,12.44,Snacks Sucres,/api/qr/1f1c1f85-8522-46fa-a532-1531f8a54228
+40fe5106-e488-4f28-87f4-70a3aec13d01,Alex's snacks sales,Croustillant snacks sales,2.9,Snacks Sales,/api/qr/a5150a77-e530-4b5a-ae8f-d399ad674f9e
+3ac05820-24a5-4ae3-a07b-5ce92e206458,Kimberly's snacks sucres,Fondant snacks sucres,10.02,Snacks Sucres,/api/qr/cfa0cfc9-2bcd-465a-95e4-82e3c39baf2a
+aa2c9e2d-5ae3-4458-8d0b-b1fded3942c8,Kristi's snacks sales,Grille snacks sales,10.43,Snacks Sales,/api/qr/e9287bff-e832-447a-9832-18b8bbf08692
+f933f7d3-444b-4d27-a445-5b52fe38cfe5,Caitlin's sandwiches,Fait maison sandwiches,13.52,Sandwiches,/api/qr/21f87bb7-cf7a-450f-9e20-746831d0bbc5
+ec1f48de-8a1b-42e3-a049-76360d55e006,Amanda's sandwiches,Copieux sandwiches,10.0,Sandwiches,/api/qr/32c0c541-d471-4c2e-a8f2-34f79c726a52
+93aec911-0e90-48c7-a4b8-6ff466b3deb9,Leslie's desserts,Traditionnel desserts,6.41,Desserts,/api/qr/c5eb0003-0c38-4bbd-a15a-a4e17a5be02f
+84269a7e-2360-4047-a17b-f8f31bac8a9b,Derrick's snacks sales,Grille snacks sales,8.25,Snacks Sales,/api/qr/3edbc77c-c7bc-4c39-841c-fe3041e05a5a
+99e4f1ad-8cd7-435e-a25a-c5e09d3e32c2,Scott's snacks sales,Grille snacks sales,11.24,Snacks Sales,/api/qr/9647906e-16e7-4b9b-9f29-e2300fd0e006
+3ad2fbd4-38d1-42fb-9d73-de2766e71e06,Tony's snacks sucres,Sucre snacks sucres,13.57,Snacks Sucres,/api/qr/03505d37-7172-4b6d-bb9f-6d4a229b141c
+9ba0cea6-4163-4a9d-9c13-ccec34525f68,Laura's snacks sucres,Gourmand snacks sucres,5.69,Snacks Sucres,/api/qr/9263439e-d456-4d32-bb66-e3697866ea5c
+104af66d-38a1-486d-94a8-378e588ef6d4,Timothy's snacks sucres,Sucre snacks sucres,11.77,Snacks Sucres,/api/qr/6cc1ea0d-5ad7-4468-bce7-6f5955b2eb1b
+a6fc282b-6c9f-47cb-aef3-f8ae5a077c2b,Brenda's desserts,Traditionnel desserts,1.85,Desserts,/api/qr/1c529bc8-5b1a-4792-b2e3-472c63f783c7
+709c7c12-38f1-4e74-81ec-d7d855d569ff,Cory's snacks sucres,Delicieux snacks sucres,6.14,Snacks Sucres,/api/qr/6f385a24-d454-4795-85d1-d1e394433ca5
+b9fc3eab-6bdb-4f0a-82a3-37be61efa922,Timothy's snacks sucres,Delicieux snacks sucres,8.85,Snacks Sucres,/api/qr/eb6834aa-b1c5-4115-a5fa-ef75ad8b35d1
+e6a6af50-e64c-4934-85a3-ac95d32b46fe,Michael's desserts,Traditionnel desserts,11.58,Desserts,/api/qr/26afc736-cd00-48a0-8373-2531808ffd63
+c705bf27-33a8-4b0b-a648-3ba3d5afd1bd,Cynthia's desserts,Onctueux desserts,10.28,Desserts,/api/qr/9197200d-8c42-4961-a01a-b8401a4025c3
+279674c5-a881-4229-81a8-31fbdd76bd59,Bruce's snacks sales,Grille snacks sales,14.94,Snacks Sales,/api/qr/1eedede6-7571-4875-962f-16f2814ed970
+995bf73d-ff45-4d54-aa7c-7ac22e31bb81,Sierra's snacks sucres,Fondant snacks sucres,13.25,Snacks Sucres,/api/qr/b8c8d6d4-fd13-4c0d-8349-3f0698b45b63
+301cca9e-41a6-4361-ab76-275ec3d4fcab,Brittany's sandwiches,Fait maison sandwiches,11.75,Sandwiches,/api/qr/ca75c221-2be7-4073-adce-086c8fc5030f
+955d2320-9491-4e74-8458-b7ad9bd4ba3b,Kimberly's boissons,Rafraichissant boissons,14.16,Boissons,/api/qr/259b476d-74e4-4f6a-bc8d-06c6d748a4a8
+369dbdb6-9aa5-4e1d-81b6-6ccdef266547,Andrew's snacks sucres,Sucre snacks sucres,1.08,Snacks Sucres,/api/qr/784ba3c0-de41-40f4-9e40-863965cdabf0
+061e2cd3-828d-43c0-acd1-f32c0dfbb29c,Sarah's snacks sales,Grille snacks sales,4.06,Snacks Sales,/api/qr/0cc61c79-69b5-4353-ac38-63d4b417f8f8
+9dc897c1-4cf7-4866-a275-92e531aef9f0,Joshua's desserts,Traditionnel desserts,11.03,Desserts,/api/qr/f7d7b292-0bbe-436d-b881-2ec4cbe9d586
+3b469125-9e1b-4851-a48b-f022a7d9af87,Joshua's snacks sales,Savoureux snacks sales,14.65,Snacks Sales,/api/qr/2830e677-f388-4d27-acd8-46c5386e95c3
+03f57af4-4113-491b-85f3-6be238f80ffc,Rachel's desserts,Fait maison desserts,9.03,Desserts,/api/qr/8f5ad9b2-b86b-4441-ac1b-a1e2e1c5a21f
+91823f23-10c7-4abf-9c22-4e0aa1658635,Christopher's boissons,Desalterant boissons,4.96,Boissons,/api/qr/751339d3-de84-40c3-a5ab-1ebeea61a60e
+036ab79c-18cb-40cf-9aad-05457efe2944,Grant's boissons,Energisant boissons,14.04,Boissons,/api/qr/91d98864-7c85-46fc-b7ae-db3eff52cf48
+9ad949b7-d1b8-4f74-b8f0-3b3b607e0832,Leroy's sandwiches,Copieux sandwiches,4.45,Sandwiches,/api/qr/558b974e-23cf-416e-8762-6269c1196ecf
+e2049e9f-4e87-4b30-9949-aa85cf26d11b,Miranda's desserts,Onctueux desserts,9.09,Desserts,/api/qr/568d6bfd-453b-4176-b36d-fed44c74878c
+d648e988-3db7-4e12-9f26-864e1be24cc7,Miguel's snacks sales,Croustillant snacks sales,1.98,Snacks Sales,/api/qr/30b86384-a76c-4a50-b9ab-ab5eef5a10ff
+6b1b0699-9ec2-4d6a-a7d2-a665964c2b0d,Billy's desserts,Savoureux desserts,6.22,Desserts,/api/qr/e9be70a8-8d78-4d3e-bcd3-0da559596a28
+a30ebd38-fa1c-473f-a61a-2bc40c171563,Frances's boissons,Energisant boissons,9.76,Boissons,/api/qr/7c0663cc-1b1b-46d5-adc2-c5c01e5cdaf3
+bc89825a-c4cc-4afd-ba25-01389882e017,Christopher's boissons,Rafraichissant boissons,10.25,Boissons,/api/qr/b66fd0d7-9964-43e0-95c2-73e207b7f80c
+d4559cf8-c519-4d08-8f72-062ee8e4275b,John's snacks sucres,Delicieux snacks sucres,14.59,Snacks Sucres,/api/qr/c84c34b4-f28f-4fd2-a9d5-a7c70d80523b
+085e7cf7-665b-469f-b02b-e39a648d2e69,Randall's boissons,Rafraichissant boissons,6.28,Boissons,/api/qr/b0881a43-45b1-4621-a840-6b63a43e35bb
+55b97a2e-119b-4e99-8105-d0a424a69d64,Paul's snacks sales,Epice snacks sales,11.87,Snacks Sales,/api/qr/c2bc1197-f0a4-461f-9efc-8b9f18290712
+18a0b1a0-ac53-4ff4-87f1-a7e3eb478a4f,Michael's sandwiches,Fait maison sandwiches,14.67,Sandwiches,/api/qr/eb25f287-b893-4db1-ab94-f295d8c6d075
+b4bb1d75-e3ff-43e7-9f75-b15e9383b95d,Victoria's boissons,Petillant boissons,3.61,Boissons,/api/qr/4276f0e1-7793-4d26-9cd3-1f5e8a2e899b
+ae18ed91-313e-4526-a444-73808825b137,Donald's snacks sucres,Fondant snacks sucres,13.77,Snacks Sucres,/api/qr/8fc80bf3-9f59-4fb0-b619-882132dd0c2f
+1fd21085-cc69-4590-ac13-d50461c7946f,Angela's desserts,Savoureux desserts,6.57,Desserts,/api/qr/1d527e6a-7811-488d-aa4f-72814bb73e78
+4758063f-25f9-41c4-84f0-6a882ad7878a,Kimberly's boissons,Rafraichissant boissons,4.69,Boissons,/api/qr/79d5010c-efc7-4ad1-9748-365ae9d6388a
+d9f861f4-857b-4dec-afd6-5e24477fb1fb,James's sandwiches,Gourmet sandwiches,13.43,Sandwiches,/api/qr/2e331d4b-20f2-4427-be63-2773e1ecfb21
+d2410a51-addf-44bd-9ac0-0c96bed833e2,Lisa's desserts,Savoureux desserts,6.49,Desserts,/api/qr/a5a6de0e-26f7-4f5a-90ee-d5b35682e20a
+a5088a00-7794-4691-9a8b-a9373ad2a434,Wendy's boissons,Petillant boissons,12.81,Boissons,/api/qr/535b3d3d-735e-460e-ae42-ee789da7fe11
+c3416c6e-778d-4b66-ae32-1cd22c430b03,Kathryn's sandwiches,Copieux sandwiches,1.45,Sandwiches,/api/qr/0e397f30-968c-486c-a4e1-f77cb8712497
+77b1012e-2eed-4835-a48c-a8a342d12aa9,Andrew's sandwiches,Gourmet sandwiches,6.77,Sandwiches,/api/qr/93b36762-16de-402d-9914-552ee8f910ee
+ebeef674-9095-46d4-9b77-0d9044a37134,Fred's sandwiches,Fait maison sandwiches,5.16,Sandwiches,/api/qr/c834d2a0-dbaa-4843-8fdb-0953a3fe140a
+931ba9ba-b080-43d6-a082-f9f1e925d171,Tracey's desserts,Onctueux desserts,13.86,Desserts,/api/qr/10d0431a-16e4-42c8-a05d-f7e517ffd428
+4fc37ff5-f728-4b4e-8ae4-4bff09ee9141,Juan's snacks sucres,Sucre snacks sucres,5.88,Snacks Sucres,/api/qr/7fd57828-ef14-447c-b328-a273ca05db1c
+7f238876-f4e2-47dd-a184-8acd8a56f7d8,Karen's boissons,Petillant boissons,11.9,Boissons,/api/qr/0ad3354d-06ed-4360-a1bc-6d225d1f6fab
+05763a57-a0f1-4b75-9d30-5e2864d21e8a,Angel's snacks sucres,Gourmand snacks sucres,14.58,Snacks Sucres,/api/qr/f4a2b964-8151-4f49-95d5-8a4c41e68b7b
+b6eef14d-23a1-42e5-8978-024479ee50bf,Lauren's snacks sucres,Delicieux snacks sucres,8.73,Snacks Sucres,/api/qr/e73c9483-3a66-4354-bfe0-63f13eca42d7
+76ebb020-a62f-4cd4-a6c4-13cb0bb98545,William's snacks sales,Savoureux snacks sales,9.81,Snacks Sales,/api/qr/9f8169ed-23b3-4b6f-adbb-da6f95bcc79f
+326bc22f-c9be-4705-af01-bbc5bebb460d,Alyssa's sandwiches,Frais sandwiches,10.94,Sandwiches,/api/qr/68cce40c-9bca-4cda-9a73-001cead1a201
+529655fc-4454-4035-b60c-d26ffe542128,Jason's snacks sucres,Delicieux snacks sucres,4.89,Snacks Sucres,/api/qr/7749345d-d262-4996-b51f-849b1a50e1ac
+c5cd261a-072d-4db1-8379-2d3182f8f6d2,David's snacks sales,Epice snacks sales,13.23,Snacks Sales,/api/qr/a6054967-5f46-47e3-95d6-6e3aa2bb3c1c
+766913d0-c52b-48a1-a40f-b60aeaf3a870,Michael's boissons,Rafraichissant boissons,10.87,Boissons,/api/qr/e7a4c413-2d7a-440f-8396-3c5005904e15
+a718c12a-6b2e-4b34-8ddf-cb8f0ab817fd,Keith's desserts,Traditionnel desserts,1.51,Desserts,/api/qr/e26de854-7c8d-42bf-b649-382b8e759f9d
+99b86256-2e84-47dd-94fc-ff792bb56583,Amanda's boissons,Rafraichissant boissons,9.61,Boissons,/api/qr/e5631e53-1d5a-4ad2-8f5c-31f5a2a2c486
+3b0cc150-972e-49fb-ada9-77359fa894fc,Laura's desserts,Traditionnel desserts,13.55,Desserts,/api/qr/8f4b53a9-258e-4c74-bd4f-016776142c4c
+12a8a441-50e4-4add-96a0-c837ea2b342c,Ashley's snacks sucres,Sucre snacks sucres,10.59,Snacks Sucres,/api/qr/c850ff16-28fd-4c6d-8aae-e41db89791e7
+cfcbc21b-2ca7-47cf-af6c-5456948e5dca,Ana's snacks sucres,Delicieux snacks sucres,11.43,Snacks Sucres,/api/qr/9204a75b-7791-492b-95f2-298715ef1d99
+0ba73411-15f3-4436-aa5d-5a1b87df3610,Patricia's boissons,Petillant boissons,2.66,Boissons,/api/qr/1678fbe1-b4ec-4ab8-adb2-d2a614acc77d
+f2c0077f-4a21-4836-aedc-f059cb4b5d4d,Sean's snacks sucres,Sucre snacks sucres,7.91,Snacks Sucres,/api/qr/74cbf707-8ca8-4cba-a0bd-29cc1fa13be0
+312305c8-9616-455e-bec4-50d514e99447,Michael's sandwiches,Copieux sandwiches,8.85,Sandwiches,/api/qr/368d2692-fe43-45d7-891e-8180e737cb48
+674f1eed-1458-4ae2-bba0-85690fcdfe7c,Kathy's snacks sucres,Delicieux snacks sucres,10.9,Snacks Sucres,/api/qr/7634fd4e-ae3d-4214-91ee-e20cd780faf5
+02305545-b5de-473f-afaf-f9c047ba3a7f,Christopher's desserts,Traditionnel desserts,7.75,Desserts,/api/qr/7ff81690-913f-42d3-97c0-972a691bc6b6
+47885f71-cdd3-4dd8-a03d-8371aa6b7964,John's boissons,Petillant boissons,4.64,Boissons,/api/qr/8f434c6b-ec91-46e9-a235-b7ed17d85182
+69fa3713-fac7-40e1-adf2-65bd0a0e0072,Eddie's sandwiches,Fait maison sandwiches,2.12,Sandwiches,/api/qr/c9455e97-6973-4f86-8c88-ab521a0d2a96
+e5ee35c5-57c2-4ef0-9940-16e61fecfaae,Amanda's desserts,Savoureux desserts,4.36,Desserts,/api/qr/d527b2dc-2330-4a09-9624-9c2dbc47fa8a
+2fc8a4e1-46d8-4811-8a7a-b2e555ec5e5d,Stephen's desserts,Savoureux desserts,6.81,Desserts,/api/qr/aa944852-e2f2-4478-a858-375d9ec6f072
+3738ae91-68c2-4794-86d0-2d3e82836ffc,Maria's boissons,Desalterant boissons,14.56,Boissons,/api/qr/4395a1df-a284-44d6-8d7a-82619f24e974
+d4db4abf-0abb-48b3-86e1-270bf1940671,Daniel's boissons,Rafraichissant boissons,11.22,Boissons,/api/qr/3c4f38ca-1d8a-49f6-86a4-a921bc8cb28c
+353b69b7-920f-4aaa-8ae8-709b1ac9df1a,Angela's snacks sucres,Delicieux snacks sucres,7.86,Snacks Sucres,/api/qr/909e6813-e30b-490d-8291-43ea290668f4
+0618d327-b5cb-472a-98ad-92ffc1abe236,Katherine's snacks sales,Croustillant snacks sales,8.26,Snacks Sales,/api/qr/215a85bf-c0c6-4be4-ad51-cb32c19f36b0
+5092f674-a865-4d7a-ab52-65f15cdf2fea,Cathy's desserts,Onctueux desserts,3.21,Desserts,/api/qr/b0896c44-7a72-4a2a-8c4a-5480cb8a1369
+5590b67b-7ada-4287-94c0-682c3f2ed80e,Jason's desserts,Traditionnel desserts,9.83,Desserts,/api/qr/03a84bd7-0899-4bb7-b829-ec536a794940
+e458c00f-69c6-4e38-85b8-faf8e34cc0e6,Jonathan's snacks sales,Croustillant snacks sales,9.35,Snacks Sales,/api/qr/b4a048a4-c849-44c2-a449-a238ce09ce32
+004e33f6-3919-4016-96c3-b34686150f8f,Claire's boissons,Rafraichissant boissons,9.21,Boissons,/api/qr/ed615e65-f5be-468f-875b-9123a97ae7f2
+228db210-606f-4513-b2d4-5b66629ed89c,Alan's snacks sales,Savoureux snacks sales,8.54,Snacks Sales,/api/qr/62d048e9-6615-4b94-ae26-a5d1230bf88c
+bafbfce3-6101-4c97-bd84-f9c625993264,Tracy's boissons,Petillant boissons,2.0,Boissons,/api/qr/2bdf56c0-340d-46ba-b449-00852154dc31
+fee8295f-733d-4c8a-b94c-b711c9826687,Deborah's desserts,Fait maison desserts,12.81,Desserts,/api/qr/709272ec-1f75-467c-b36e-5c8c496bf473
+b5e58cae-9325-4cb6-a18d-c937f1ae9f9a,Brandy's boissons,Desalterant boissons,4.27,Boissons,/api/qr/a470ace9-6a84-47c8-b0dd-73261045982f
+86377cac-5696-4ac4-b6bc-dfa4e837b22e,Greg's sandwiches,Gourmet sandwiches,10.31,Sandwiches,/api/qr/d6011012-e2ca-45ed-8847-4db6c5c791c3
+c22e7459-075b-407d-9c65-bc006d652659,Andrew's boissons,Desalterant boissons,11.32,Boissons,/api/qr/455b9209-ec9f-4618-a420-177da93480cb
+5ca85284-b232-4535-9b84-b0cf13d7926b,Thomas's snacks sucres,Sucre snacks sucres,9.86,Snacks Sucres,/api/qr/ad86a5b2-a5e5-4668-b182-844955d90292
+c090e413-793f-48c6-a57d-b8d407f1eb49,Nancy's boissons,Petillant boissons,9.87,Boissons,/api/qr/5cd24f95-b4ac-4c9d-bfd5-fff52ffc452e
+73b1971e-acf7-4eb3-878e-e1ceb69c3e66,Jennifer's snacks sales,Epice snacks sales,4.13,Snacks Sales,/api/qr/6e2d8db4-675b-48b6-8421-c816119b084d
+d2504a36-6f69-42ca-a0cb-1e1057e1a292,Eric's snacks sales,Epice snacks sales,8.51,Snacks Sales,/api/qr/c6a57d80-9dfd-48c3-a53c-bbb9d6171ede
+ec3834f4-9a86-443b-ba93-46713a776f41,Vanessa's sandwiches,Copieux sandwiches,8.96,Sandwiches,/api/qr/9bd3db21-a344-48c3-a5b6-8bd7acbbfbea
+d5856c29-58c0-496a-9df8-69b641a935d0,Amber's boissons,Energisant boissons,9.77,Boissons,/api/qr/abcdca14-878e-4e54-87ef-99baf653c7f1
+265f7dc7-3920-4921-88ef-5bf2c71ff893,Brandi's boissons,Petillant boissons,3.42,Boissons,/api/qr/a2868c28-49e1-4055-b9d9-8b4a6d922b25
+8c7200b2-1426-4d27-96a0-5feee8b20fdd,Jacqueline's snacks sales,Epice snacks sales,14.62,Snacks Sales,/api/qr/4cf9f4c2-95f7-4899-b821-7ce2b0c67861
+62d824ed-8c5e-4b7d-9525-e98cae1a3e4a,Richard's snacks sales,Grille snacks sales,8.72,Snacks Sales,/api/qr/38754808-fdfc-4901-8216-abc3bab1f569
+bc3fc16a-1abb-49de-975f-d5e8ae9ff4aa,Michael's desserts,Fait maison desserts,1.7,Desserts,/api/qr/caea0b79-439b-4441-9566-6878622935ce
+332fb55f-26ee-4982-bb80-a1e3afba14f9,Darlene's boissons,Petillant boissons,12.33,Boissons,/api/qr/0eec1972-4f84-41c6-8da3-399448bf2ce3
+d1cb3bff-dc04-4bbc-b5c5-03bdb6b327cf,Michael's sandwiches,Frais sandwiches,6.26,Sandwiches,/api/qr/7b5cbb9d-6720-46d6-b25a-c0cf6bc5414c
+1897f3ca-374b-4db7-81e1-8f56e382838a,Jeremy's boissons,Rafraichissant boissons,1.21,Boissons,/api/qr/7d0f97b1-de5d-460f-adb6-44d1db909a14
+9a84f4db-3729-400d-ba13-463f79803cbb,Michelle's boissons,Rafraichissant boissons,8.89,Boissons,/api/qr/dd3cb83c-b02a-4dea-93e7-43f35e53e04b
+5a704b58-fc0b-4296-a39f-9e0610efec3d,Troy's sandwiches,Frais sandwiches,8.47,Sandwiches,/api/qr/b7f621fd-428f-4e04-a489-37f41c9761f6
+e8b5dd00-8a7e-4eeb-a4d4-d0fec916ef4b,Taylor's desserts,Savoureux desserts,12.89,Desserts,/api/qr/977fe1d6-ab6b-4d86-8018-22f35a924cd2
+de5c3866-5db8-41b6-818d-3ed3bc1d5c6c,Jennifer's snacks sales,Grille snacks sales,6.77,Snacks Sales,/api/qr/4d41ed28-0744-4395-bfbd-edfdbae0b586
+cfe3085b-1e15-49f0-ba4b-ac4054206860,Adam's snacks sales,Savoureux snacks sales,13.91,Snacks Sales,/api/qr/a6290f9a-2e8c-4d06-b12f-a8f4f3763e6d
+2ffac2d6-2712-411f-852b-0fecf845990f,Deborah's snacks sales,Savoureux snacks sales,7.02,Snacks Sales,/api/qr/b8a63960-9178-445b-bfe6-fa53fddd3e0e
+24020474-eb00-47cd-89a9-cc36ee30a211,Brendan's desserts,Fait maison desserts,1.05,Desserts,/api/qr/0c48dd0b-9474-4163-a3fb-6ca2309c6307
+a324a611-a93a-428c-a916-f39af755bf9c,Joshua's snacks sucres,Delicieux snacks sucres,2.47,Snacks Sucres,/api/qr/c73ffc14-ce1f-4fbd-acf7-cbf77262d3a4
+209cfabb-f81f-478a-a6ec-303c9305a2d0,Jay's sandwiches,Copieux sandwiches,10.99,Sandwiches,/api/qr/a112ebda-e38d-4b6a-8103-476453fde910
+fd473386-7434-44a1-a1e1-970ba68ab16c,Sara's desserts,Fait maison desserts,14.05,Desserts,/api/qr/e381910a-e97b-416d-b595-953b4946b34b
+bec7b453-76ee-45d2-a8e5-2997f3204505,Cindy's desserts,Fait maison desserts,2.94,Desserts,/api/qr/8e0f1b4e-06b0-4d8e-a87d-3bf71fe9155b
+e0a70c2c-fdff-4253-802a-68976e8b5a88,Daniel's boissons,Petillant boissons,12.59,Boissons,/api/qr/86abe7be-3119-4461-807a-c13fdeae6136
+9c2c981a-63d9-4776-a34a-0a366ac6d93b,Danielle's sandwiches,Copieux sandwiches,10.51,Sandwiches,/api/qr/205cd4f5-6c75-402c-b9db-bab5c3c6a6d7
+3b0f3fe0-b4e5-4776-8e77-add460e9d651,Robert's snacks sucres,Gourmand snacks sucres,12.25,Snacks Sucres,/api/qr/90363ccd-f34c-49d9-8f12-4b6ecc9a5c4a
+a4e11c71-9491-4137-9ae4-27da2d5bebc7,Gregory's desserts,Traditionnel desserts,14.19,Desserts,/api/qr/ea770b70-781d-42b6-9925-463f66fff7d5
+4fb0d9f1-97c7-44ad-aef2-819567f0d1e3,Cindy's boissons,Energisant boissons,6.07,Boissons,/api/qr/efad4b6f-a833-4117-ba8f-58ed0cb7326a
+ce531a13-e42b-4685-8004-f4faa6fe1382,Kyle's snacks sucres,Fondant snacks sucres,5.44,Snacks Sucres,/api/qr/74ef2e5c-b522-49c8-b5a7-df383e2bffd4
+6f1e1a3f-15d8-4bb2-afdc-0453e66b5853,Lynn's snacks sales,Grille snacks sales,11.91,Snacks Sales,/api/qr/9544bc81-90d2-41da-82f7-23e9441268de
+40207f9b-ca16-4f69-851f-00cd381c0d05,Tonya's desserts,Fait maison desserts,3.4,Desserts,/api/qr/4db973ab-59c0-4b0e-8e08-50812a5b130c
+b8fe76cb-cf39-4e32-af1e-a85f74e590b6,Lauren's sandwiches,Fait maison sandwiches,11.28,Sandwiches,/api/qr/356e0e54-9506-4d05-bd69-4739a7177356
+74589b09-deff-4315-80c8-0018e256fc1c,Terrance's desserts,Savoureux desserts,7.42,Desserts,/api/qr/b3686ee0-e323-4c35-b39e-dab09c56fbf0
+5a47bd13-e098-4e55-9894-cd0f97b42de9,John's sandwiches,Copieux sandwiches,9.08,Sandwiches,/api/qr/0585d926-2118-4ef7-81ab-a517ee9c6bbe
+58ca2011-45e3-4f4a-bdac-173f6a97a4e3,Amanda's snacks sucres,Delicieux snacks sucres,1.7,Snacks Sucres,/api/qr/14596717-51e4-46a8-aec8-59888599c73a
+dcc563c6-1576-40b2-b412-e85e56080536,Diane's sandwiches,Copieux sandwiches,7.11,Sandwiches,/api/qr/7d0dfec0-7792-4e0a-966e-80a2a52a13b2
+a89611c2-b9e6-455a-9d25-1ab4cea10f44,Joshua's snacks sales,Croustillant snacks sales,11.78,Snacks Sales,/api/qr/ec01e564-8d88-4ae0-a2d6-98b382a13980
+81c9dc9f-e32e-42bc-9859-9caf79799a66,Natalie's sandwiches,Copieux sandwiches,7.06,Sandwiches,/api/qr/87c5c4a9-e087-4692-95ee-0dae895835dd
+dc49a015-11e2-4e9b-8f40-8c8760baf93f,Jessica's snacks sucres,Fondant snacks sucres,3.76,Snacks Sucres,/api/qr/3126adda-1a73-4ef9-a48f-41ad09a7bddd
+a24b3945-4d5c-4ffa-9f4e-cb40a37503e4,John's desserts,Onctueux desserts,9.76,Desserts,/api/qr/9fbaf0db-c445-44fe-92dd-f84c4d317302
+db6713a8-7e27-4238-993d-6959dd858064,Caitlin's sandwiches,Gourmet sandwiches,14.93,Sandwiches,/api/qr/ae6ddeb7-1e02-40aa-8c3b-a294e169d39c
+94427318-5075-4481-b2bc-5fa63b522bf4,Sarah's snacks sales,Savoureux snacks sales,4.28,Snacks Sales,/api/qr/d2e7b6cd-db18-49b7-9f3c-125fe31635d1
+187206b1-cf6b-4ba1-8f20-385f5c7bf673,Raymond's boissons,Petillant boissons,4.88,Boissons,/api/qr/e837823a-7233-43a7-b5d2-3e1f66a9dd9c
+2a42744c-0b2b-4ccf-807b-4fab41b6a899,Ashley's desserts,Savoureux desserts,9.91,Desserts,/api/qr/becd16aa-180e-4f3a-aaff-4420219ef471
+10df7dc3-84ff-4ee4-9e18-da7adfa74f28,Eric's snacks sucres,Gourmand snacks sucres,13.43,Snacks Sucres,/api/qr/3339ac86-f357-40a9-9c04-03876d910e33
+42f3f147-c727-4e75-a809-675a0a91b47e,Maria's sandwiches,Gourmet sandwiches,13.72,Sandwiches,/api/qr/4709bb0f-6307-4e41-a0d3-1ea80d9e7c08
+e893774c-37e3-4dfb-8871-32fe3d57fb1c,John's sandwiches,Copieux sandwiches,7.55,Sandwiches,/api/qr/352dae7c-1272-4bfe-8968-39c62cda5474
+edb96cab-8192-4a79-8878-2b6131757add,Kayla's sandwiches,Gourmet sandwiches,1.9,Sandwiches,/api/qr/f731ce55-f5be-4832-85ff-51a9566ce4fc
+7b7f6bc9-9d7c-4ca5-8f20-32e4444c6fbd,Mary's boissons,Petillant boissons,5.61,Boissons,/api/qr/8ce19e91-398e-4be6-8077-68165aaa11d3
+5c54eaf3-f059-4aed-b8fa-1cd46ea4b168,Shelley's boissons,Rafraichissant boissons,5.7,Boissons,/api/qr/2ac26962-9502-43d2-a56e-cb28efccbd99
+070493d3-f2e5-4938-95ad-4faa4e7ebd83,Troy's snacks sales,Croustillant snacks sales,12.57,Snacks Sales,/api/qr/01c27496-097f-4996-87f0-98efedfc8243
+f1fe29f5-bfa8-413a-9601-3a43405a283d,Isaac's desserts,Fait maison desserts,14.78,Desserts,/api/qr/33317649-af47-4ee9-b5d0-99c43ed5db78
+7bf4e234-3aca-46b7-8603-b26d56680339,Lawrence's boissons,Desalterant boissons,6.46,Boissons,/api/qr/9bfdebca-8a36-4493-aad2-c68d25590d67
+8581aaea-5817-41a1-b3a0-8a1b6a923a57,Gloria's desserts,Traditionnel desserts,8.55,Desserts,/api/qr/8e53b65b-4d53-49ff-8a0e-a93bc82865c6
+ac5a1aa0-1b6b-4bd4-9534-0e6c61f61128,Caitlin's boissons,Rafraichissant boissons,7.13,Boissons,/api/qr/3972e605-6f64-4889-9f32-04e07b7bb1e1
+4fe167c9-559e-4df6-bbe2-3c566d7dd60b,Steven's snacks sucres,Fondant snacks sucres,2.46,Snacks Sucres,/api/qr/cc3bd8bc-b9c1-4a67-9eb2-3be8c6d2fbcd
+0d775804-077f-4646-94ef-4be9cf426027,Laura's snacks sales,Epice snacks sales,11.48,Snacks Sales,/api/qr/d6bc72f0-607e-4ef3-9912-f93874770137
+6c554a72-6ecd-41a8-b576-e0992a6f6d2b,Justin's boissons,Desalterant boissons,11.41,Boissons,/api/qr/457a0c30-563a-4845-96a0-672da61a1a00
+3065895b-5135-4a7d-ba33-f411d02cc780,Stephanie's snacks sucres,Fondant snacks sucres,9.64,Snacks Sucres,/api/qr/be8d3480-aee4-4322-8925-9aebf0916261
+ab94374e-054d-404f-a5c8-f8628ed00319,Mindy's snacks sucres,Gourmand snacks sucres,8.02,Snacks Sucres,/api/qr/b3d7a466-0eca-4368-88e4-cb7a98642c82
+e916c372-5369-4946-9faf-34a382aae8a1,Timothy's boissons,Petillant boissons,5.11,Boissons,/api/qr/bb8e7a1c-ee30-4c00-b147-84d785b53b38
+73eaf109-4075-4644-a8b5-6b7a08f4bf0e,Thomas's sandwiches,Frais sandwiches,8.04,Sandwiches,/api/qr/9e8e5131-9cbd-4cb4-80cc-d1edea0e609d
+655752c9-88cc-42bf-8054-bcacd209d17d,Joshua's snacks sales,Epice snacks sales,9.26,Snacks Sales,/api/qr/91810d14-b89a-4ead-bf33-b359babf420c
+74213fc4-cc81-48c3-898e-7cb1933946fa,Kathy's boissons,Petillant boissons,4.9,Boissons,/api/qr/f248d5f5-3b44-43ec-b78d-1e93f66d3322
+5203833b-aca3-4d13-a6ad-71abf5b0a789,Vanessa's desserts,Fait maison desserts,9.05,Desserts,/api/qr/4d12802a-6502-4733-a83c-0d7828026b4b
+8b04ff12-888b-4729-9f4c-56d17a54ab0c,Jason's sandwiches,Copieux sandwiches,13.52,Sandwiches,/api/qr/79340b7b-2955-4d92-b419-62d419f21ee7
+3c922147-2e61-48ee-ae88-4be93af1f9ba,Martha's sandwiches,Frais sandwiches,12.1,Sandwiches,/api/qr/70182a09-de2e-4f4f-88a6-1ece1934cab3
+9548a2f7-e201-4f33-9006-50db1395bc0d,Kyle's snacks sucres,Delicieux snacks sucres,8.43,Snacks Sucres,/api/qr/2d72c9d1-2d6b-4ecc-a771-8e0dde8caf8b
+ec8de426-b034-4d2d-b9b2-4eb723e1bed6,Allison's snacks sales,Grille snacks sales,5.75,Snacks Sales,/api/qr/259d1d01-7fce-46a9-b79f-41d8240b9af8
+2e38b127-cfb2-411d-9f96-a47a7892a76c,Laura's desserts,Traditionnel desserts,2.65,Desserts,/api/qr/286b2255-db40-4881-bcfd-2a0994c06dd2
+49fc8dcd-5cac-46bf-bccc-0ddcf336f1aa,Matthew's sandwiches,Gourmet sandwiches,8.51,Sandwiches,/api/qr/b087ec52-c8ad-48c0-84dc-8dab11ad3abf
+026805db-d65d-45e8-bd4f-f114bf275fb8,Matthew's boissons,Rafraichissant boissons,2.01,Boissons,/api/qr/276f3107-b0c0-4324-9a0f-acd3b8a7d2b4
+84033441-6bb9-4359-8be9-a1a13f075b3f,Brenda's sandwiches,Fait maison sandwiches,5.71,Sandwiches,/api/qr/a37d0396-6a03-4938-8cf6-de11184df1a0
+f15b6651-1119-4c20-905f-74ea3ecef792,Joshua's desserts,Onctueux desserts,8.54,Desserts,/api/qr/d136bfb6-b711-4d41-9806-444aa5017358
+3e0af8bc-a3e4-45f1-a724-b98b83d18444,Brandon's desserts,Traditionnel desserts,7.7,Desserts,/api/qr/a04f3ca1-7481-4306-b6c3-19db229aa409
+7ba1b1f9-5f5d-4829-81a2-4ea1031ebd59,Ruth's boissons,Rafraichissant boissons,1.94,Boissons,/api/qr/85c81d6e-d9bf-4a8d-a161-e6b27b0d325c
+13cd170f-fb3f-40ac-b7a0-82a4e2d9bda8,Megan's snacks sales,Savoureux snacks sales,2.59,Snacks Sales,/api/qr/bfaee129-7339-4af6-b7ae-a22a1c236385
+0a5aff6a-f539-43f1-af1a-90bd25eb6fa3,Randy's sandwiches,Frais sandwiches,12.22,Sandwiches,/api/qr/9aa58094-4fb7-4c15-9c89-f46768d46f66
+bdd0da49-c7db-48c6-ab70-b1c93c4047c5,Jennifer's boissons,Petillant boissons,8.42,Boissons,/api/qr/49eb4530-03ba-4887-bfa9-1a84b018fe55
+8790b18f-33ee-4c42-ac0c-b49f20922e49,Amber's snacks sales,Croustillant snacks sales,11.38,Snacks Sales,/api/qr/4520ca5d-bcda-4a61-8d90-e0a4886cdb7e
+5513fb59-a653-4296-9f13-30b3f530aa79,Matthew's snacks sales,Epice snacks sales,6.14,Snacks Sales,/api/qr/74f9082a-a2a5-4e7d-8ec2-bfe9237c5b84
+a78f09da-74f0-4f4b-b4e1-2c43446a8837,Katrina's snacks sucres,Gourmand snacks sucres,7.88,Snacks Sucres,/api/qr/b2f7f706-99d6-4a2e-b49f-0e50f826cd35
+6d32a8fc-d0d8-454f-8f52-2cffed0d0f60,Brianna's boissons,Desalterant boissons,9.95,Boissons,/api/qr/275165bf-0fd8-463f-b33b-d2b0cee55a3d
+b22aeea2-0664-4b2e-b501-c52a1175b5ab,Julie's desserts,Onctueux desserts,4.99,Desserts,/api/qr/7a5521b0-ea40-42f4-b7dd-8e22c0f616aa
+52badbb8-7c04-4c2a-a276-b68b32ba388f,Ashley's sandwiches,Gourmet sandwiches,9.06,Sandwiches,/api/qr/b7556d74-d213-46fa-a412-72ade7f44a2a
+4c3ae63e-5530-4dec-b3a1-f3074979ae50,Alicia's snacks sales,Epice snacks sales,13.02,Snacks Sales,/api/qr/c7a0cca9-ef77-42f9-8dd0-66fe54f691ee
+812dc088-4993-4761-8be6-d8bbecddc80e,Martin's snacks sales,Grille snacks sales,1.66,Snacks Sales,/api/qr/8c0b9135-6c86-429f-897b-04bec0d60a9f
+9198738d-cb09-4f0b-9d8d-a27252e3d7d4,Michelle's snacks sucres,Fondant snacks sucres,12.51,Snacks Sucres,/api/qr/9e5ccc23-ece6-44cf-83a2-f515c7cd0cb2
+69a53acc-c700-4c56-a3e0-6cd0fe3133c3,Donna's boissons,Energisant boissons,11.36,Boissons,/api/qr/08497a08-9aa6-48b6-b210-5d0495d15b36
+955cfff1-b6e7-4521-8aaf-707df5c8583d,Nicholas's sandwiches,Fait maison sandwiches,1.93,Sandwiches,/api/qr/9acc983c-fedd-4d63-b4bc-6c0eb9149237
+8c41b87d-38fb-48de-bf2b-cc3093a633c8,Maria's sandwiches,Fait maison sandwiches,2.01,Sandwiches,/api/qr/c0d9d09a-e00b-468d-a7ad-5949e244344d
+fc27569b-fc0d-46e9-ac47-6c2eaf98abe8,Ashley's desserts,Traditionnel desserts,7.79,Desserts,/api/qr/050dfe37-25ac-4caf-856d-e0619aa40bc9
+81a102f7-3dad-4208-bdd1-7ba637ba3668,John's snacks sucres,Delicieux snacks sucres,14.76,Snacks Sucres,/api/qr/6f66cfce-536a-4b53-ba1c-c4e32d2dcf7b
+b422293c-5983-4ae2-b55c-37da2234e7d4,Marilyn's boissons,Petillant boissons,4.85,Boissons,/api/qr/fa31973e-6cc3-4a76-9b83-cc3c71ff5663
+2ff1a61b-5b62-4915-85b4-793ad116c6e0,Alyssa's sandwiches,Copieux sandwiches,2.09,Sandwiches,/api/qr/1d01d7f4-6ba1-45a7-8570-31d6303e0db9
+9f7e31b9-27d4-49f3-9583-4e4bb8a645b4,William's snacks sales,Grille snacks sales,12.95,Snacks Sales,/api/qr/a050689f-b142-4a51-ace5-e6d780d5c8b3
+c7d0fb35-aece-4666-8c12-1eb877ac89f9,Joshua's desserts,Traditionnel desserts,5.58,Desserts,/api/qr/1bcc9b4b-b48a-4085-914e-b4020ae7d124
+2643dd5f-2276-4511-b050-94335b35d17f,Nichole's snacks sales,Croustillant snacks sales,8.41,Snacks Sales,/api/qr/64b671cf-f18d-476b-ad0a-52a0be32ab7f
+e394f3f4-2ae0-4eac-9399-47c7b4a6eabd,Kayla's sandwiches,Fait maison sandwiches,6.47,Sandwiches,/api/qr/41ab0ed6-8926-4625-97fc-612fbf73fff0
+0eb604d9-0f7d-4416-9383-ad3331040413,Heather's snacks sales,Croustillant snacks sales,6.96,Snacks Sales,/api/qr/72c22daa-0f3f-4cd1-b24d-21db39b999cd
+ca3b4b1d-3ec7-4718-a224-9bf354db1636,Cheryl's boissons,Petillant boissons,6.63,Boissons,/api/qr/63ae97e9-7607-4e46-8236-f7abc6083ba5
+3378b436-5bde-4bdf-8f5a-a5afad392853,Brandon's snacks sales,Croustillant snacks sales,1.44,Snacks Sales,/api/qr/426906f1-f647-4bf3-a356-5d8959437a8a
+5eafc87a-b0a7-4ef5-ae9b-c178ecdc87c0,Jessica's snacks sucres,Sucre snacks sucres,7.83,Snacks Sucres,/api/qr/36bbce02-6800-4d3e-9b75-2057710b5843
+61913108-5baa-4d16-86ed-4e914b376410,Stephanie's boissons,Rafraichissant boissons,5.95,Boissons,/api/qr/44e757ab-fab1-449d-a9f3-e1c619e3b596
+bf4a5618-8c95-4b41-976f-55faf26e073b,Lawrence's snacks sales,Savoureux snacks sales,8.5,Snacks Sales,/api/qr/f00c57be-2583-41a4-9a73-2461ab308c19
+bc1c5e51-84bb-4529-8427-8fe92d2a9eaa,Evelyn's snacks sales,Epice snacks sales,5.82,Snacks Sales,/api/qr/cb4414f3-b2a6-4322-a89e-7ec970f82cdc
+397c2a74-6735-448d-83fa-23f83309efdd,Ryan's boissons,Energisant boissons,4.65,Boissons,/api/qr/ed93f06b-3e76-42c6-b636-d32f2ed2c6d3
+faa10612-6fe8-4193-934f-14373bd35c56,Sandra's snacks sucres,Delicieux snacks sucres,4.2,Snacks Sucres,/api/qr/85687410-7d27-45ed-841c-34f62295dc5c
+8d660ac5-be13-43ab-9bbd-af4a25ac505f,Tyrone's desserts,Onctueux desserts,6.01,Desserts,/api/qr/8910c74d-e9e2-483f-95b1-3f963f471bd9
+ba271a3f-51e6-43a7-847a-089ef5b2f7fd,Anthony's snacks sucres,Sucre snacks sucres,13.36,Snacks Sucres,/api/qr/37febd4e-7a47-450b-a67b-0f33ceb0aae5
+ea307919-010f-470b-b0f6-41a06684051b,John's desserts,Fait maison desserts,4.95,Desserts,/api/qr/b0698989-246d-4129-b304-cc7ac3f4f486
+b8d979ed-c1af-430f-8a4b-f82ddc34a966,Nicholas's desserts,Fait maison desserts,13.69,Desserts,/api/qr/4828f557-d138-455a-b05f-bc2b2436edef
+dbdb5893-fb1f-4d75-a011-f65764d383a4,Larry's sandwiches,Frais sandwiches,3.22,Sandwiches,/api/qr/5581b874-0a5b-4635-b162-27f94ea6e73c
+ab2a49c7-e45a-48b7-bb0c-dd56b1674454,Michele's snacks sucres,Delicieux snacks sucres,7.0,Snacks Sucres,/api/qr/1590c4eb-7bc5-43ad-a049-428427f91b25
+6607b062-1426-43ab-abac-f9de52fc6018,Corey's boissons,Rafraichissant boissons,2.08,Boissons,/api/qr/bb763792-4ad4-4ce5-aa1c-def6a7d14c5b
+fb4fef02-d614-45d0-9a9a-d91768b242e4,Paul's snacks sales,Savoureux snacks sales,13.45,Snacks Sales,/api/qr/01a13265-040f-4778-90fa-4fc2c3a7b965
+3167e988-ecba-4cfa-a9b2-457b4d8b60b7,Cheryl's desserts,Traditionnel desserts,4.67,Desserts,/api/qr/21f6f23a-6cb7-4ccd-b0d7-b76c51d82c96
+fef90373-db2d-40de-bf15-975502ed8d1a,Michael's snacks sales,Croustillant snacks sales,7.4,Snacks Sales,/api/qr/9e6d0473-90bc-4cb8-97b4-11330fb3212c
+b17edee6-2b5d-4658-a571-8e0f7c68fe2f,Patrick's boissons,Petillant boissons,3.26,Boissons,/api/qr/bf4ccb3c-1ade-43d8-a6cb-9fc470779a3d
+604a1465-212a-4704-bb62-5b7e6dc0b588,Karen's boissons,Petillant boissons,10.18,Boissons,/api/qr/1070b5d9-6114-4a01-adaa-8c7443b3ed00
+f7e1856a-1dec-448d-a7ec-a596674765bf,Andrew's desserts,Fait maison desserts,10.81,Desserts,/api/qr/bdadf33e-e522-40f8-9056-f3c389277c83
+4c2f273d-2ec4-4e6d-a255-a1ba561ad1c2,Sherry's snacks sales,Epice snacks sales,14.57,Snacks Sales,/api/qr/3672f843-afe2-4b1f-b191-962117cacd38
+72b544cd-2346-4008-bfc0-bdde3dd32950,Heather's snacks sucres,Gourmand snacks sucres,6.96,Snacks Sucres,/api/qr/b9896f17-bb64-4e7b-acf9-b35018690e6d
+5d65507f-95dc-4b43-a9d2-263ab141dbfa,Michael's snacks sales,Savoureux snacks sales,2.77,Snacks Sales,/api/qr/7103499e-ef82-4be0-b5cd-98d7dd3df57d
+745f1b47-2d3c-46d1-bb45-149149d15b06,Kathy's snacks sales,Savoureux snacks sales,14.44,Snacks Sales,/api/qr/05c47c57-e985-4c19-a50c-604bf5dff40b
+18fc6a36-a2b1-41a0-9e0b-c9caff03b6ef,Brandon's snacks sales,Croustillant snacks sales,9.5,Snacks Sales,/api/qr/bef3412a-5a11-43f7-86b9-b07897b99ead
+4075b01e-6db4-4b4e-959c-47ebadf22104,Matthew's snacks sales,Grille snacks sales,14.02,Snacks Sales,/api/qr/910ddb3a-b820-4820-a317-4676dab8b0e5
+f09fdae9-2db0-4706-b2e3-85d853166123,Alicia's snacks sales,Savoureux snacks sales,8.82,Snacks Sales,/api/qr/fcb397b2-90e5-48f5-bf32-d8d0d34f56fc
+0235125b-1f6a-4e8d-96ff-7172245fc13e,Cindy's snacks sales,Savoureux snacks sales,2.38,Snacks Sales,/api/qr/cc1245d8-58d3-4969-bc5a-006386c68e3b
+1f6a4214-ffd3-4cc7-95f0-ccd89223b411,Joshua's desserts,Fait maison desserts,11.77,Desserts,/api/qr/e82c4bdd-7103-40af-b9f2-31a12d05462f
+f7c2f095-fe7b-4950-a743-4780a5c5c15e,Roger's snacks sucres,Sucre snacks sucres,5.72,Snacks Sucres,/api/qr/f775ea11-35b8-4073-ba02-6f4ae9b01cbd
+8386f01c-8a78-4e91-b5cb-1371df801027,Mallory's boissons,Petillant boissons,11.74,Boissons,/api/qr/adbabe42-3f68-4b9d-8b58-7b302b8f4e37
+2e0d1b14-f62f-4681-9d5d-16d305ed7c23,Krystal's desserts,Onctueux desserts,9.65,Desserts,/api/qr/459880b2-54a3-4966-9854-664769c55699
+c8f881f5-7253-4438-a8fc-207b6597da2a,Laura's desserts,Traditionnel desserts,10.59,Desserts,/api/qr/c8099cf9-941f-4825-8b26-6a0502c5b605
+8134d534-b489-4786-9e81-fe51447ed062,Nicholas's snacks sales,Croustillant snacks sales,13.71,Snacks Sales,/api/qr/1e068ff8-181e-40ed-a47f-7baead4dc789
+64cf34e6-ce1f-45ab-9a73-dccdfd39e935,Keith's boissons,Energisant boissons,14.67,Boissons,/api/qr/0f03b147-42b2-4392-aa63-88ca03d16613
+6d0e6b19-d396-44de-9f71-171ee9a53950,Kathleen's sandwiches,Copieux sandwiches,2.7,Sandwiches,/api/qr/5d3d62ec-c643-4e5d-b05b-eb8b89a92cd4
+ef2c892a-e96e-4127-91af-2f737ab645a4,Cindy's snacks sucres,Sucre snacks sucres,2.97,Snacks Sucres,/api/qr/506cc582-eec3-494a-9444-2373457809dd
+d6c1650f-f509-4055-9ef7-d69e770a38c4,Michael's snacks sales,Grille snacks sales,1.09,Snacks Sales,/api/qr/7f42a9d0-24f7-4caa-a03e-55637963274c
+ede8beb8-1ced-42bb-8ecb-87c7fe7f60e6,Jennifer's snacks sucres,Sucre snacks sucres,7.87,Snacks Sucres,/api/qr/ee16cc9b-a643-4dd2-8cc7-b95fe6791f90
+74d7eda9-1841-4511-b8da-05e77f07e49d,Marcia's sandwiches,Gourmet sandwiches,4.21,Sandwiches,/api/qr/feb45650-8997-4a81-aa50-182f78fd8631
+1493d6f7-992f-41c7-9c24-7d981c70c256,Chase's snacks sucres,Fondant snacks sucres,4.47,Snacks Sucres,/api/qr/bf36d941-d5c0-4a63-9cf3-3081b213db8b
+57e700f5-10a9-4b56-bac2-d94e7379b861,Samuel's snacks sales,Grille snacks sales,8.37,Snacks Sales,/api/qr/4f6553f3-ae71-4d2b-a41b-526178154c2c
+d2547a17-a9ad-4f9c-b4b6-d093f9bd7fd6,Wendy's desserts,Fait maison desserts,5.86,Desserts,/api/qr/32043c7c-5bc6-4b63-b879-ab49d89a3ba9
+75d79284-5bc1-4181-9a92-58d908e2055b,Tyler's sandwiches,Fait maison sandwiches,9.84,Sandwiches,/api/qr/a4ce6c48-7601-4b32-bf82-2fc54c95ed6e
+beea4564-6d81-4014-9788-42b307c325ec,Guy's snacks sucres,Fondant snacks sucres,6.14,Snacks Sucres,/api/qr/7176093d-3ce0-48b7-8f3b-e82c2623c257
+4767bde1-2218-482a-9392-1e60302da1bc,Stephanie's boissons,Petillant boissons,11.4,Boissons,/api/qr/b4ec5624-19c5-4416-b000-f5f45fc4ba68
+54345224-f2f4-4a95-8a08-ce666f3cab93,Vanessa's snacks sales,Epice snacks sales,6.11,Snacks Sales,/api/qr/6d9dbf93-3b12-4fdf-889a-5f9f70278d59
+8f762e8f-75f9-499c-aa71-619ee2a7abf7,Peggy's snacks sales,Savoureux snacks sales,7.62,Snacks Sales,/api/qr/966262b1-7f30-40d2-8a0f-0cb420484b53
+adf23cdc-c985-4325-b782-4ab90411a0ee,Robert's snacks sales,Grille snacks sales,12.83,Snacks Sales,/api/qr/8fd6e7c8-b1ef-427c-8c7e-11ed325f3394
+6c9d1e62-6f48-4854-a359-5fa82952c405,Erica's desserts,Fait maison desserts,12.18,Desserts,/api/qr/2bd52061-ad04-4053-a5a9-58c5c860a05a
+914e2a75-5b56-47de-8b5a-cd8abd95a821,Lindsey's boissons,Rafraichissant boissons,12.53,Boissons,/api/qr/f8b2aa30-ccfd-4a7a-ae3d-a21d8f219218
+a238f958-96ad-4cb6-8350-2500363bdd1f,Tammy's snacks sucres,Gourmand snacks sucres,2.65,Snacks Sucres,/api/qr/32de50ab-6df5-450a-87fe-65145bc504dd
+d6530c0d-9325-4826-917e-9c50607acf59,Alan's snacks sales,Epice snacks sales,2.54,Snacks Sales,/api/qr/6a7cea3f-f9e6-492f-87ec-61345058bd7d
+760a398c-3933-424e-a9a4-10eeb35ad170,Briana's snacks sucres,Fondant snacks sucres,1.45,Snacks Sucres,/api/qr/65cbe349-2c1a-4b4d-97b6-a7d326286ae9
+bb80429d-aebf-47fd-ac85-bd01ea25c5fd,Randy's desserts,Savoureux desserts,14.6,Desserts,/api/qr/ef9b07e5-afb7-48ad-9bca-0ccfec64703b
+5a3148e1-9bba-4b3e-bcab-641040051ebd,Mark's boissons,Petillant boissons,4.5,Boissons,/api/qr/bf0fe80d-d406-4fbc-9947-979147fd6a46
+d2b35259-2c7e-4547-946e-1e52d3031ac7,Amanda's snacks sucres,Fondant snacks sucres,7.39,Snacks Sucres,/api/qr/e2baa6c8-b3ac-49ae-9982-dd746a10b099
+30c8a040-ad64-4dbf-9e05-a5f32ba84d32,Katherine's boissons,Rafraichissant boissons,13.87,Boissons,/api/qr/372121dd-b686-4bef-8ec3-7420441eac53
+710a0bab-8b7d-48f7-8923-5393de890f71,Jessica's snacks sucres,Sucre snacks sucres,13.2,Snacks Sucres,/api/qr/3c01f8f7-e8d8-4a65-a8f7-4ff8b020fbcc
+3dc2124f-a18e-4af6-80dd-5a8c70ed1d0a,Scott's sandwiches,Frais sandwiches,8.37,Sandwiches,/api/qr/50ebb66b-8ad6-466d-b953-b5fffd4289a8
+dce4960e-bc44-490c-85f0-454e4116bf90,Andrew's sandwiches,Copieux sandwiches,7.19,Sandwiches,/api/qr/505d1040-6780-4cb7-b3a7-d82e1f5bf2d2
+050d255f-35de-475e-a13b-575ea4acd7a2,Jeremy's boissons,Rafraichissant boissons,8.19,Boissons,/api/qr/77a273e8-9e29-4fed-8437-75e09b97d5de
+a530aaf8-8ac4-4fe6-88f8-a079535aa21e,Michelle's snacks sucres,Gourmand snacks sucres,4.09,Snacks Sucres,/api/qr/e52f3980-5c62-4d26-a74e-fdd921a0d8e8
+0b6b6883-af05-4370-ba30-28d89c4730e6,Susan's snacks sucres,Sucre snacks sucres,9.8,Snacks Sucres,/api/qr/d4d2c4bd-0a69-42f0-9b88-e3098899987e
+6a7f8877-5d42-464b-9c9c-146944b17d5e,Mary's snacks sucres,Fondant snacks sucres,8.74,Snacks Sucres,/api/qr/3e84a17c-01c5-476f-8c39-523dbfb65aa4
+42a7de08-0793-43cc-8dd1-f93cb686b901,Joshua's snacks sales,Savoureux snacks sales,11.61,Snacks Sales,/api/qr/5e3a0072-40bc-4d19-a2ab-d9cdec4e53e6
+4503c7c6-e84a-4340-8445-36f54397938b,Erica's snacks sales,Epice snacks sales,4.77,Snacks Sales,/api/qr/bf4041f0-c48b-4919-828e-a0701f53bd5f
+3e2f09e9-9727-4b11-b8cd-df9ef8485171,Arthur's desserts,Savoureux desserts,13.81,Desserts,/api/qr/c1ce7e3a-c1fa-4590-a867-c56d724691ca
+69b053f7-9b6a-46e2-ad15-adda39471517,Charles's snacks sales,Epice snacks sales,5.46,Snacks Sales,/api/qr/d6833821-1365-4659-a41b-989e9a293ed1
+d92b6355-8d3a-4805-b79d-99b85dad2879,Kathryn's snacks sucres,Fondant snacks sucres,3.16,Snacks Sucres,/api/qr/dc9cef95-2e7e-4bb2-8461-1562fd8e829f
+2e868c39-5102-43ea-afd8-ae67f7fdbbc9,Eric's sandwiches,Copieux sandwiches,1.25,Sandwiches,/api/qr/3e711358-c1f6-47a3-b051-b2ce7495c177
+e17d09a4-a87c-4bbe-852f-9cd3c3db6c8b,Janice's snacks sucres,Sucre snacks sucres,3.87,Snacks Sucres,/api/qr/7abbb763-120b-4f80-865d-5a2223a7d51b
+b1a8bde1-f186-42a2-9ce2-a670dbb90d29,Melissa's boissons,Petillant boissons,9.72,Boissons,/api/qr/07cb5069-8dac-4439-8be0-5634eb6450df
+3ce50c62-f911-45b6-9637-b32859be5c5c,Kevin's desserts,Savoureux desserts,3.24,Desserts,/api/qr/eeca2339-fd75-4f7e-893f-4682fe053ba0
+efe2df53-1c7b-4885-912f-94b22b17c336,Elizabeth's desserts,Savoureux desserts,10.9,Desserts,/api/qr/68661d71-dedc-4193-a876-ac56964743d0
+0f58a20c-1bfb-41ab-be7a-44ed5e91adc8,Mary's sandwiches,Gourmet sandwiches,4.33,Sandwiches,/api/qr/ac1dc17a-e88b-49cf-8545-b2edc19f260d
+5ac8d5f5-3af6-472f-a9e8-f067deb73c7b,Jon's sandwiches,Gourmet sandwiches,8.93,Sandwiches,/api/qr/227d596b-fe60-4350-8143-19d438dad17d
+80ae819a-37d8-48b7-ad92-dfc26192bd07,Barbara's boissons,Rafraichissant boissons,6.26,Boissons,/api/qr/59919088-7c72-4a5b-8286-121fba710843
+23cf43a6-c423-443e-9f4e-01bc42539e68,Allison's sandwiches,Fait maison sandwiches,8.83,Sandwiches,/api/qr/4451a1e5-e7e1-4e0a-b9cf-dc8049537339
+7f2bc1c1-aa11-4383-813f-97609cd2685c,Jessica's sandwiches,Gourmet sandwiches,6.98,Sandwiches,/api/qr/7cf8e1cf-bd36-4956-93a4-0a5744027604
+0b6ac769-5401-4b17-a805-1fe3940cb656,Julie's snacks sales,Savoureux snacks sales,1.11,Snacks Sales,/api/qr/b3b77ec0-9a27-4573-a91a-fd9f78cb3b98
+f9153699-9c04-4cd2-b2f6-fdf009bd5f2c,Kari's desserts,Savoureux desserts,2.3,Desserts,/api/qr/880ea8f9-2b91-477d-bf57-b7b5f238fa60
+51222bee-5a65-492d-bac4-21544b7fea67,Dennis's sandwiches,Copieux sandwiches,11.22,Sandwiches,/api/qr/9d37860f-5c76-4e52-8361-5a243b07354b
+0b92a75e-fa5f-4d0d-b61d-31facf98fe06,Danielle's desserts,Savoureux desserts,4.82,Desserts,/api/qr/d850e373-48b6-4728-a091-18e108ebb1d4
+70b68783-5a97-4a91-b1c8-d0187d349a1b,Anne's desserts,Traditionnel desserts,2.23,Desserts,/api/qr/28bdae37-2497-45ce-97dd-313637e38e76
+daa4132a-02a0-403b-a1ab-49e9ee2a1eb5,Ashley's desserts,Traditionnel desserts,13.27,Desserts,/api/qr/37b7dbf4-ea56-4ffa-b6f4-664d1c85cbb9
+868bce86-2a57-4f28-955a-6018dd73c83f,Anthony's desserts,Traditionnel desserts,10.65,Desserts,/api/qr/2d2c5626-a98b-4d09-a597-2f89bd4bfc66
+db0cfd20-de21-40a7-b624-7b985f44fd33,Gabrielle's desserts,Onctueux desserts,9.03,Desserts,/api/qr/fad08b3e-6fae-4675-9c03-05b1e3ba70c0
+a0dbdcb8-b042-41b2-9514-08638fb4d56e,Michael's snacks sales,Epice snacks sales,9.64,Snacks Sales,/api/qr/3143de17-466a-4415-be6c-f9039cdf307e
+3d5b0de3-7bc6-4629-baaf-c7cb819b7f83,Hannah's boissons,Energisant boissons,8.53,Boissons,/api/qr/71836723-fd9a-47e4-8e03-0223992eb7ce
+5ca4d6a5-0f9c-4946-b2a7-43df55b3883b,Kimberly's snacks sales,Croustillant snacks sales,12.1,Snacks Sales,/api/qr/1e48fd20-f9a1-432e-8645-c859d1b909ff
+26fe0346-d371-498c-98f3-92328272cc82,Brian's sandwiches,Frais sandwiches,7.6,Sandwiches,/api/qr/4156fb93-0adb-4482-9b32-63a807c4e9f5
+045d6845-54f6-4886-9de8-cbce2a1cf71a,Monica's boissons,Petillant boissons,3.75,Boissons,/api/qr/1893cdbb-b651-477b-88f5-39f4da876a8a
+743fcc8d-c425-43ea-85a2-75d5978434a5,Jeffrey's desserts,Savoureux desserts,3.39,Desserts,/api/qr/426790e4-f846-4dbe-9207-2434d853e3ab
+3242d8c0-ce14-449c-840c-152cdfd1e6ad,Tim's boissons,Petillant boissons,11.78,Boissons,/api/qr/211b6b76-2c85-40d8-a2e3-b87e81a86f44
+8edd5d33-6174-4e15-bb17-9aaff0ec5dcf,Eduardo's boissons,Petillant boissons,8.7,Boissons,/api/qr/8e2cbe57-e6ab-4c77-94c2-95eefdc29aed
+b78adf1f-99f7-4908-887a-b22fcef8d6f2,Benjamin's boissons,Desalterant boissons,13.84,Boissons,/api/qr/1ceb7341-6edf-48b0-9330-79d4cbb14fc9
+394ced52-dac6-4b6b-ad1f-2105e72d1fc2,Daniel's snacks sales,Grille snacks sales,2.85,Snacks Sales,/api/qr/afe1403c-d4fd-445a-b0df-6e6fd80d8461
+35f0b350-05eb-431a-b298-2af1a5ab7907,Joseph's sandwiches,Copieux sandwiches,3.61,Sandwiches,/api/qr/0991035a-da94-48cc-9c86-612f026f6c27
+9f76536c-70e9-4e00-8fa4-c88e5413b2fe,Andrea's snacks sales,Croustillant snacks sales,14.39,Snacks Sales,/api/qr/f2d042b5-9f40-48f0-8c41-bd84d73bad8f
+4027d955-4c23-4476-a24b-1f21812abf2a,Andrew's desserts,Fait maison desserts,5.15,Desserts,/api/qr/13dcb7c9-28b3-4a67-90f1-787c86ab461c
+8bf2a4cc-72c5-450b-bed8-d3637ae55f00,Cheryl's sandwiches,Frais sandwiches,2.91,Sandwiches,/api/qr/f948fd12-8efe-4df9-b9cc-d63b2a76dced
+5f84e448-1eed-421f-8b0a-46adbfdd1f73,Robert's boissons,Energisant boissons,12.38,Boissons,/api/qr/41b9a8aa-35b4-466e-8358-a9f601122fa1
+febd8d2b-3d3b-4a2c-8988-f76c4551cdac,Ronald's snacks sales,Grille snacks sales,7.73,Snacks Sales,/api/qr/de6a42ec-377a-4dd7-b353-44a722afa0ca
+d7281e25-409d-4955-9aea-de729cfe4e1b,Melissa's desserts,Fait maison desserts,5.03,Desserts,/api/qr/79fb1bcb-dd84-424c-af80-4de302fd3a54
+081f596b-1417-430f-9933-0d6827ff5353,Chad's sandwiches,Copieux sandwiches,11.33,Sandwiches,/api/qr/260b1fbf-5532-49cc-804b-a15bd6e5ae18
+64e141da-4d0c-4ec8-927c-9a62d9850758,William's snacks sucres,Delicieux snacks sucres,5.47,Snacks Sucres,/api/qr/2d72cae7-4134-4a35-b022-3651272fbbef
+e5f302a1-cfdc-4675-a7ec-da46b92b8326,Jane's boissons,Desalterant boissons,1.57,Boissons,/api/qr/bd0f175a-25b5-4270-be1f-e625c3ad47e2
+78d98f40-4f5c-403e-94ca-cc8c064d6d74,Megan's snacks sucres,Sucre snacks sucres,1.87,Snacks Sucres,/api/qr/76920bc2-f786-4750-998a-ad0ef78e252b
+bdfb236c-8964-4c61-be64-9fce2f050fee,Adam's snacks sales,Savoureux snacks sales,8.9,Snacks Sales,/api/qr/018b5edd-5e0a-429b-9b05-0654ac9e4f9e
+afd1d989-d03d-49c9-9cd6-59d2583a3aee,Robert's snacks sales,Grille snacks sales,8.56,Snacks Sales,/api/qr/1768aefc-4088-4411-8867-5c6e5d1fdf39
+adf54303-9ec5-410b-9ac1-e10b6d685f65,Adrian's desserts,Traditionnel desserts,2.45,Desserts,/api/qr/16a390e9-0acd-4f74-aa53-8fed899b8863
+345e18f1-bbe3-4d11-98d1-3a77e4d8c829,Fernando's desserts,Fait maison desserts,14.35,Desserts,/api/qr/5cab972f-46ba-498b-bd41-02707fc24b76
+10fc4e97-2039-44ca-8a21-ffbf632dd688,Gary's sandwiches,Gourmet sandwiches,1.68,Sandwiches,/api/qr/0109f3f0-feb2-4d8c-a722-02a0c2912e88
+95e844f4-8e2e-4b5d-be30-ee8278a149ad,Susan's desserts,Traditionnel desserts,7.26,Desserts,/api/qr/1e31979b-626e-417e-88fc-e307298e72b1
+17735576-1197-4d6e-aed2-f0dc8762e35f,Diana's desserts,Savoureux desserts,8.54,Desserts,/api/qr/9f893e6f-2e12-4608-b0ea-5ad6f57ad1c2
+c2513a31-1784-438f-90d6-f87d2d98fb06,Seth's snacks sales,Grille snacks sales,7.0,Snacks Sales,/api/qr/ac4327aa-6e98-45a7-8ec3-dbb171a31f1f
+4185093c-0d57-4b63-95d8-eeeb97572e6d,Ashley's desserts,Savoureux desserts,12.3,Desserts,/api/qr/9b934f52-ceb6-4036-9448-8714ef5279e3
+92e40d81-8eb9-4a09-8761-422d99b4fb89,Michael's sandwiches,Frais sandwiches,7.08,Sandwiches,/api/qr/8b0051f2-5920-4db8-8775-51143f7fc265
+3eec4a89-1d02-40c3-9725-235c2b80061b,Maria's desserts,Traditionnel desserts,1.41,Desserts,/api/qr/9a285845-4d13-42cf-aac2-ce4d980af436
+b874cf27-d189-4da0-8cec-789f294d1185,Jessica's snacks sucres,Delicieux snacks sucres,13.53,Snacks Sucres,/api/qr/c47a1185-76b7-451a-a239-c3c7730b2422
+35504153-67d8-4b55-a0be-3e860da12395,Ryan's snacks sucres,Delicieux snacks sucres,14.92,Snacks Sucres,/api/qr/ee6abb38-950b-4b46-9f97-57f7d193bbc6
+85838250-397c-4e9a-a9c1-3a957d16b300,Krystal's snacks sales,Croustillant snacks sales,13.9,Snacks Sales,/api/qr/fc2340ea-31a9-4abf-b9c1-625f01e35d92
+b3cbed79-5ae9-4a88-b6ae-5d09090b0e3c,Robert's sandwiches,Gourmet sandwiches,13.74,Sandwiches,/api/qr/e40b2754-80ad-403f-9025-f1ff8341067f
+304d7d7c-ac89-415b-a0a0-e5ea1826cb29,Pamela's snacks sales,Croustillant snacks sales,11.68,Snacks Sales,/api/qr/4c0e758a-d973-4770-bf11-b0296a220032
+866f3e54-9e97-4e8b-9e4f-c57fac541d9b,Rebekah's snacks sales,Savoureux snacks sales,6.81,Snacks Sales,/api/qr/f0f69a65-ab7a-49c3-accc-39635a528779
+bf84308c-3064-4967-b482-16ce61f2214a,Tyler's snacks sucres,Gourmand snacks sucres,5.39,Snacks Sucres,/api/qr/b3941033-12d4-4b64-ac69-f54bd6f4a089
+ba715b3f-cedd-4fc5-b19a-5441db60c872,Donald's snacks sucres,Delicieux snacks sucres,8.32,Snacks Sucres,/api/qr/701d5951-9b61-4b1d-9fe6-d2b767892c62
+08135db1-b3b2-4594-970c-304a5f7d49e6,Brittney's desserts,Savoureux desserts,12.57,Desserts,/api/qr/a0935e27-57dc-46df-bcb2-e3d30dbd1cbc
+aa22c782-88fd-4278-9d5a-7fa8d1f1ae1c,Jerry's desserts,Traditionnel desserts,9.64,Desserts,/api/qr/0106e4b4-6b42-4bdf-8270-632158e8ff38
+e7dc044d-09c2-4555-bcf5-62e6a40947a3,Emily's snacks sucres,Sucre snacks sucres,8.51,Snacks Sucres,/api/qr/cca52982-6b59-4dae-b2b8-9bdbe6ad4e4a
+f2a84b02-7703-4080-b8a2-7d71e92f8b1a,Jody's boissons,Petillant boissons,5.84,Boissons,/api/qr/16b4681e-2960-467e-8815-8c0979423d78
+df131c70-2d6f-4307-bf47-66cd685fef54,Steven's snacks sucres,Sucre snacks sucres,1.13,Snacks Sucres,/api/qr/b9f8cf9a-c955-4c1c-ab7a-f316e6ad554b
+73d1f974-f62d-42f9-ae46-b90f38aadf13,Brady's desserts,Savoureux desserts,2.71,Desserts,/api/qr/15ffb6c7-a0f6-473d-8c13-9c715420391e
+cec579f9-421c-4e37-87cb-0377e79cc3cf,Heather's desserts,Onctueux desserts,13.3,Desserts,/api/qr/108694e6-17ef-4295-9783-dd4b3c0bca02
+1831e0f6-a742-4a46-872c-e6208d19a10d,Angela's sandwiches,Fait maison sandwiches,12.26,Sandwiches,/api/qr/a6e61700-5855-4667-a75a-e147cc55aef7
