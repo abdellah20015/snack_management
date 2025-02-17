@@ -1,0 +1,17 @@
+# Backend Dockerfile
+FROM gradle:7.6.1-jdk17 AS builder
+
+WORKDIR /app
+COPY build.gradle.kts settings.gradle.kts ./
+COPY src ./src
+
+RUN gradle shadowJar
+
+FROM openjdk:17-jdk-slim
+
+WORKDIR /app
+COPY --from=builder /app/build/libs/*-fat.jar app.jar
+COPY src/main/api/openapi.json src/main/api/openapi.json
+
+EXPOSE 8888
+CMD ["java", "-jar", "app.jar"]
