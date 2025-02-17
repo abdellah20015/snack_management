@@ -2,6 +2,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 import ProductManagement from '../views/ProductManagement.vue'
 import ProductDetail from '../views/ProductDetail.vue'
 import QRScanner from '../views/QRScanner.vue'
+import VideoGallery from '../views/VideoGallery.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -24,6 +25,11 @@ const router = createRouter({
       path:'/scanner',
       name: 'scanner',
       component: QRScanner
+    },
+    {
+      path: '/videos',
+      name: 'videos',
+      component: VideoGallery
     },
     {
       path: '/products/:id',
