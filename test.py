@@ -17,19 +17,27 @@ DESCRIPTIONS = {
     'Desserts': ['Onctueux', 'Savoureux', 'Fait maison', 'Traditionnel']
 }
 
+# Génération des produits
 def generate_product():
     category = random.choice(CATEGORIES)
     desc_base = random.choice(DESCRIPTIONS[category])
 
+    product_id = str(uuid.uuid4())
+    product_name = fake.first_name() + "'s " + category.lower()
+
+    # URL QR code réelle avec qrserver.com
+    qr_code_url = f"https://api.qrserver.com/v1/create-qr-code/?size=150x150&data={product_id}"
+
     return {
-        'snackId': str(uuid.uuid4()),
-        'name': fake.first_name() + "'s " + category.lower(),
+        'snackId': product_id,
+        'name': product_name,
         'description': f"{desc_base} {category.lower()}",
         'price': round(random.uniform(1.0, 15.0), 2),
         'category': category,
-        'qrCodeUrl': f"/api/qr/{uuid.uuid4()}"
+        'qrCodeUrl': qr_code_url
     }
 
+# Génération du fichier CSV
 def generate_csv(filename, num_products=1000):
     products = [generate_product() for _ in range(num_products)]
 
