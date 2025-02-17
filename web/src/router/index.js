@@ -1,21 +1,35 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import HomeView from '../views/HomeView.vue'
+import ProductManagement from '../views/ProductManagement.vue'
+import ProductDetail from '../views/ProductDetail.vue'
+import QRScanner from '../views/QRScanner.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
     {
       path: '/',
-      name: 'home',
-      component: HomeView,
+      redirect: '/products'
     },
     {
-      path: '/about',
-      name: 'about',
-      // route level code-splitting
-      // this generates a separate chunk (About.[hash].js) for this route
-      // which is lazy-loaded when the route is visited.
-      component: () => import('../views/AboutView.vue'),
+      path: '/products',
+      name: 'products',
+      component: ProductManagement
+    },
+    {
+      path: '/menu/:id',
+      name: 'menu-detail',
+      component: () => import('../views/MenuDetail.vue')
+    },
+    {
+      path:'/scanner',
+      name: 'scanner',
+      component: QRScanner
+    },
+    {
+      path: '/products/:id',
+      name: 'product-detail',
+      component: ProductDetail,
+      props: true
     },
   ],
 })
