@@ -33,7 +33,7 @@ console.log(videos.length);
 console.log(videos);
 
     await browser.close();
-    return videos.slice(0, 12); // Limiter à 12 vidéos
+    return videos.slice(0, 12);
   } catch (error) {
     await browser.close();
     throw error;
